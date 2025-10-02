@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59685.0,2018-05-20,07:40,20.92977208,83.81922408,Minor injury,4.0,1.0,Single carriageway,Raining no high winds,Daylight,Odisha,Subarnapur

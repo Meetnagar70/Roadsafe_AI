@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59217.0,2018-03-17,12:15,24.5738273,75.86127788,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Mandsaur
+59310.0,2018-04-02,01:30,24.23105721,75.15063481,Serious injury,1.0,1.0,Single carriageway,Unknown,Darkness - no lighting,Madhya Pradesh,Mandsaur
+59679.0,2018-05-19,15:30,24.18959655,75.65407313,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Mandsaur

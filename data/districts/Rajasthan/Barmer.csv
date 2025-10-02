@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59202.0,2018-03-14,19:48,25.32726116,71.3264116,Serious injury,2.0,4.0,Single carriageway,Raining no high winds,Darkness - lights lit,Rajasthan,Barmer
+59330.0,2018-04-04,08:48,25.53542365,71.60215981,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Rajasthan,Barmer
+59773.0,2018-06-01,15:30,26.18437126,70.6978913,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Rajasthan,Barmer

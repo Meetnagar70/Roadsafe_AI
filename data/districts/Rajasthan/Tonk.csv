@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59179.0,2018-03-11,19:47,25.78701806,75.35374491,Minor injury,1.0,1.0,Single carriageway,Other,Darkness - lights lit,Rajasthan,Tonk
+59279.0,2018-03-27,18:50,25.9194404,75.85487456,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Rajasthan,Tonk
+59559.0,2018-05-03,09:56,25.88021648,75.66460315,Fatal,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Tonk

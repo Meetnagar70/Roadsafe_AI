@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59000.0,2018-02-11,12:08,16.48500539,77.71931537,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Andhra Pradesh,Mahbubnagar
+59759.0,2018-05-30,14:30,16.64677647,78.22536098,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Mahbubnagar
+59870.0,2018-06-16,16:40,16.79692251,77.61249512,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Andhra Pradesh,Mahbubnagar

@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59521.0,2018-04-28,17:19,26.81142424,77.14863351,Minor injury,1.0,2.0,Dual carriageway,Fine + high winds,Daylight,Rajasthan,Karauli
+59710.0,2018-05-16,14:00,26.35298998,77.13268782,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Karauli
+59965.0,2018-06-25,19:10,26.0545057,76.87680118,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Karauli

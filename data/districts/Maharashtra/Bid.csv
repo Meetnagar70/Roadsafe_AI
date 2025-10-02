@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59119.0,2018-03-01,07:45,18.97870154,75.84538955,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Bid
+59301.0,2018-03-30,20:40,19.19881499,75.73826493,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Maharashtra,Bid
+59605.0,2018-05-10,10:25,19.03986993,75.4105563,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Bid

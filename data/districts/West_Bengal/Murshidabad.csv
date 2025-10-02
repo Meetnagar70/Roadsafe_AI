@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59223.0,2018-03-18,22:00,23.8323797,87.93593952,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,West Bengal,Murshidabad
+59254.0,2018-03-29,07:56,23.93433828,88.33326594,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,West Bengal,Murshidabad
+59594.0,2018-05-08,15:22,24.01305701,88.29833379,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Murshidabad
+59955.0,2018-06-24,19:45,24.28272151,88.46168474,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Murshidabad

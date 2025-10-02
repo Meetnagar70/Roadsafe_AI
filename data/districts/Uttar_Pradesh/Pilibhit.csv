@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58828.0,2018-01-03,09:30,28.39754774,79.90359845,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Pilibhit
+59109.0,2018-02-27,02:31,28.51961804,80.11504668,Minor injury,1.0,4.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Pilibhit
+59132.0,2018-03-02,20:15,28.49301572,80.08232509,Fatal,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttar Pradesh,Pilibhit
+59281.0,2018-03-27,22:36,28.38474774,79.95378891,Fatal,1.0,4.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Pilibhit
+59313.0,2018-04-02,15:53,28.60438217,80.02097427,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Pilibhit

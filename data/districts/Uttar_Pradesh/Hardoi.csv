@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59236.0,2018-03-21,16:05,27.21960049,80.18785698,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Hardoi
+59324.0,2018-04-03,15:55,27.05086334,80.32923127,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Hardoi
+59641.0,2018-05-14,13:45,27.4770907,80.21252076,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Hardoi
+59665.0,2018-05-17,15:56,27.04315375,80.60673117,Minor injury,1.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Hardoi
+59963.0,2018-06-25,13:32,27.20403846,80.57473734,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Hardoi

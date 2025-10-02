@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59226.0,2018-03-19,14:15,27.540583,75.85886264,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Rajasthan,Sikar
+59877.0,2018-06-17,16:58,28.18971165,75.03743739,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Sikar

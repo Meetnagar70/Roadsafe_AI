@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59233.0,2018-03-21,09:35,15.38914813,75.33659386,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Dharwad
+59616.0,2018-05-11,15:28,15.3974201,75.02195309,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Dharwad
+59781.0,2018-06-02,13:00,15.30058907,75.21819511,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Karnataka,Dharwad

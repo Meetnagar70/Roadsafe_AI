@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59177.0,2018-03-11,16:40,24.33610094,85.45751473,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Jharkhand,Hazaribagh
+59523.0,2018-04-29,08:20,23.72145564,85.4405876,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Jharkhand,Hazaribagh
+59986.0,2018-06-28,16:15,23.92098764,85.55799176,Minor injury,1.0,1.0,One way street,Fine no high winds,Daylight,Jharkhand,Hazaribagh

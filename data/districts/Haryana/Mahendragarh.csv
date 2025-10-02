@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59373.0,2018-04-09,14:55,28.16954617,76.19237477,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Haryana,Mahendragarh

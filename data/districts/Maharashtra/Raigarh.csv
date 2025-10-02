@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58927.0,2018-02-02,21:52,18.48344291,73.04586023,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,Maharashtra,Raigarh
+58991.0,2018-02-09,19:55,18.44101903,73.24696151,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - no lighting,Maharashtra,Raigarh
+59264.0,2018-03-24,17:38,18.25556476,73.24166858,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Raigarh

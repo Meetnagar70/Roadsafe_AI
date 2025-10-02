@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58980.0,2018-02-08,17:45,28.24459406,81.13742779,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttar Pradesh,Bahraich
+59540.0,2018-04-30,16:30,27.97262392,81.66703894,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Bahraich
+59737.0,2018-05-26,22:51,27.10300335,81.52130039,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Bahraich

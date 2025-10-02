@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59497.0,2018-04-25,16:15,26.03576456,81.75547941,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Pratapgarh
+59712.0,2018-05-24,14:07,25.79948552,82.08888121,Minor injury,1.0,3.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Pratapgarh

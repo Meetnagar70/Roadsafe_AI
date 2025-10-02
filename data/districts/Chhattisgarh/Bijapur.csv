@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58852.0,2018-01-23,12:12,18.49108784,80.72532457,Minor injury,4.0,2.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Bijapur
+58996.0,2018-02-10,13:25,19.0103176,80.52795196,Serious injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Bijapur
+59813.0,2018-06-07,21:13,19.19473392,80.55144443,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Bijapur
+59925.0,2018-06-22,08:50,18.6744089,80.36161576,Minor injury,2.0,1.0,Unknown,Fine no high winds,Daylight,Chhattisgarh,Bijapur

@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58912.0,2018-02-01,08:23,14.94810182,74.74706508,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Uttara Kannada

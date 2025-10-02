@@ -1,0 +1,783 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ page_title }}{% endblock %}
+
+{% block content %}
+
+{% if data_loaded %}
+    <!-- Leaflet CSS and JS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- Marker Cluster Plugin -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.4.1/dist/MarkerCluster.Default.css" />
+    <script src="https://unpkg.com/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+{% endif %}
+
+<style>
+    /* Override base.html container styling for district detail */
+    main.container {
+        max-width: 1400px !important;
+        padding: 2rem !important;
+        margin: 0 auto !important;
+        background: transparent !important;
+    }
+
+    .district-detail-container {
+        background: var(--background-color);
+        border-radius: 20px;
+        padding: 2rem;
+        box-shadow: var(--shadow-lg);
+        margin-bottom: 2rem;
+    }
+
+    .district-header {
+        text-align: center;
+        margin-bottom: 3rem;
+        position: relative;
+    }
+
+    .district-title {
+        font-size: 2.5rem;
+        font-weight: 800;
+        background: linear-gradient(135deg, var(--primary-color), var(--success-color));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 0.5rem;
+        letter-spacing: -0.02em;
+    }
+
+    .district-subtitle {
+        font-size: 1.125rem;
+        color: var(--text-secondary);
+        font-weight: 500;
+    }
+
+    .selection-card {
+        background: var(--surface-color);
+        border-radius: 16px;
+        padding: 2rem;
+        box-shadow: var(--shadow-md);
+        border: 1px solid var(--border-color);
+        margin-bottom: 2rem;
+        transition: all 0.3s ease;
+    }
+
+    .selection-card:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-lg);
+    }
+
+    .selection-header {
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .selection-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .selection-form {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+        gap: 1rem;
+        align-items: end;
+    }
+
+    .form-group {
+        position: relative;
+    }
+
+    .form-label {
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 0.5rem;
+        font-size: 0.875rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .form-select {
+        border: 2px solid var(--border-color);
+        border-radius: 12px;
+        padding: 0.875rem 1rem;
+        font-size: 1rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        background: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(10px);
+        width: 100%;
+    }
+
+    .form-select:focus {
+        border-color: var(--primary-color);
+        box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.1);
+        outline: none;
+        background: rgba(255, 255, 255, 0.95);
+        transform: translateY(-1px);
+    }
+
+    .form-select:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+    }
+
+    .btn-analyze {
+        background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+        border: none;
+        color: white;
+        font-weight: 600;
+        border-radius: 12px;
+        padding: 0.875rem 2rem;
+        font-size: 1rem;
+        transition: all 0.3s ease;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+    }
+
+    .btn-analyze:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-md);
+        filter: brightness(1.1);
+    }
+
+    .btn-analyze:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+        transform: none;
+    }
+
+    .stats-overview {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1.5rem;
+        margin-bottom: 3rem;
+    }
+
+    .stat-card {
+        background: var(--surface-color);
+        border-radius: 16px;
+        padding: 1.5rem;
+        box-shadow: var(--shadow-md);
+        border: 1px solid var(--border-color);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        position: relative;
+        overflow: hidden;
+        text-align: center;
+    }
+
+    .stat-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
+        transform: scaleX(0);
+        transition: transform 0.3s ease;
+    }
+
+    .stat-card:hover::before {
+        transform: scaleX(1);
+    }
+
+    .stat-card:hover {
+        transform: translateY(-4px);
+        box-shadow: var(--shadow-xl);
+    }
+
+    .stat-icon {
+        width: 48px;
+        height: 48px;
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 1rem;
+        font-size: 1.5rem;
+    }
+
+    .stat-value {
+        font-size: 2rem;
+        font-weight: 700;
+        color: var(--text-primary);
+        margin-bottom: 0.25rem;
+    }
+
+    .stat-label {
+        font-size: 0.875rem;
+        color: var(--text-secondary);
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+
+    .map-container {
+        background: var(--surface-color);
+        border-radius: 16px;
+        padding: 1.5rem;
+        box-shadow: var(--shadow-md);
+        border: 1px solid var(--border-color);
+        margin-bottom: 2rem;
+        transition: all 0.3s ease;
+    }
+
+    .map-container:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-lg);
+    }
+
+    .map-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1rem;
+        padding-bottom: 0.75rem;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .map-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    #map {
+        height: 500px;
+        border-radius: 12px;
+        border: 2px solid var(--border-color);
+        transition: border-color 0.3s ease;
+    }
+
+    #map:hover {
+        border-color: var(--primary-color);
+    }
+
+    .chart-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+        gap: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .chart-card {
+        background: var(--surface-color);
+        border-radius: 20px;
+        padding: 2rem;
+        box-shadow: var(--shadow-lg);
+        border: 1px solid var(--border-color);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .chart-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: linear-gradient(90deg, transparent, var(--primary-color), transparent);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+
+    .chart-card:hover::before {
+        opacity: 1;
+    }
+
+    .chart-card:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-xl);
+    }
+
+    .chart-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .chart-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin: 0;
+    }
+
+    .chart-subtitle {
+        font-size: 0.875rem;
+        color: var(--text-secondary);
+        margin-top: 0.25rem;
+    }
+
+    .chart-container {
+        position: relative;
+        height: 300px;
+        margin-top: 1rem;
+    }
+
+    .fade-in {
+        animation: fadeIn 0.6s ease-out;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Responsive design */
+    @media (max-width: 1024px) {
+        .chart-grid {
+            grid-template-columns: 1fr;
+        }
+        
+        .district-title {
+            font-size: 2rem;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .district-detail-container {
+            padding: 1.5rem;
+        }
+        
+        .district-title {
+            font-size: 1.75rem;
+        }
+        
+        .selection-form {
+            grid-template-columns: 1fr;
+        }
+        
+        .chart-card {
+            padding: 1.5rem;
+        }
+        
+        #map {
+            height: 400px;
+        }
+    }
+</style>
+
+<div class="district-detail-container fade-in">
+    <!-- Header Section -->
+    <div class="district-header">
+        <h1 class="district-title">{{ page_title }}</h1>
+        <p class="district-subtitle">Detailed accident analysis with hotspot mapping and insights</p>
+    </div>
+
+    <!-- Selection Form -->
+    <div class="selection-card">
+        <div class="selection-header">
+            <h3 class="selection-title">
+                <span>🎯</span>
+                <span>District Analysis Selection</span>
+            </h3>
+        </div>
+        <form method="get" action="{% url 'district_analysis_form' %}" class="selection-form">
+            <div class="form-group">
+                <label for="state_select" class="form-label">
+                    <span>🏛️</span>
+                    <span>Select State</span>
+                </label>
+                <select name="state_select" id="state_select" class="form-select" onchange="this.form.submit()">
+                    <option value="">-- Choose a State --</option>
+                    {% for state in all_states %}
+                        <option value="{{ state }}" {% if state == selected_state %}selected{% endif %}>{{ state }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="district_select" class="form-label">
+                    <span>🏘️</span>
+                    <span>Select District</span>
+                </label>
+                <select name="district_select" id="district_select" class="form-select" {% if not available_districts %}disabled{% endif %}>
+                    <option value="">-- Choose a District --</option>
+                    {% for district in available_districts %}
+                        <option value="{{ district }}" {% if district == selected_district %}selected{% endif %}>{{ district }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <button type="submit" class="btn-analyze" {% if not available_districts %}disabled{% endif %}>
+                <span>📊</span>
+                <span>Show Analysis</span>
+            </button>
+        </form>
+    </div>
+
+    {% if data_loaded %}
+        <!-- Statistics Overview -->
+        <div class="stats-overview">
+            <div class="stat-card">
+                <div class="stat-icon" style="background: linear-gradient(135deg, #ef4444, #dc2626); color: white;">
+                    🚨
+                </div>
+                <div class="stat-value">{{ total_accidents }}</div>
+                <div class="stat-label">Total Accidents</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon" style="background: linear-gradient(135deg, #f59e0b, #d97706); color: white;">
+                    🕐
+                </div>
+                <div class="stat-value">{{ peak_time }}</div>
+                <div class="stat-label">Peak Accident Time</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon" style="background: linear-gradient(135deg, #10b981, #059669); color: white;">
+                    🛣️
+                </div>
+                <div class="stat-value">{{ common_road_type }}</div>
+                <div class="stat-label">Most Common Road Type</div>
+            </div>
+        </div>
+
+        <!-- Interactive Map -->
+        <div class="map-container">
+            <div class="map-header">
+                <h3 class="map-title">
+                    <span>🗺️</span>
+                    <span>Accident Hotspots & Clustering</span>
+                </h3>
+            </div>
+            <div id="map"></div>
+        </div>
+
+        <!-- Charts Grid -->
+        <div class="chart-grid">
+            <div class="chart-card">
+                <div class="chart-header">
+                    <div>
+                        <h3 class="chart-title">Accident Severity</h3>
+                        <p class="chart-subtitle">Distribution by severity level</p>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="severityChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-header">
+                    <div>
+                        <h3 class="chart-title">Accidents by Road Type</h3>
+                        <p class="chart-subtitle">Road infrastructure analysis</p>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="roadTypeChart"></canvas>
+                </div>
+            </div>
+
+            <div class="chart-card">
+                <div class="chart-header">
+                    <div>
+                        <h3 class="chart-title">Accidents by Weather</h3>
+                        <p class="chart-subtitle">Weather condition impact analysis</p>
+                    </div>
+                </div>
+                <div class="chart-container">
+                    <canvas id="weatherChart"></canvas>
+                </div>
+            </div>
+        </div>
+    {% endif %}
+</div>
+
+    <script>
+        // --- UPDATED MAP SCRIPT WITH HOTSPOT COLORING ---
+
+        // 1. Define colors for our hotspots
+        const hotspotColors = ['#FF4500', '#1E90FF', '#32CD32', '#FFD700', '#9400D3', '#FF1493', '#00CED1'];
+        const noiseColor = '#708090'; // Grey for non-clustered points
+
+        // 2. Map setup
+        const map = L.map('map').setView([23.0225, 72.5714], 12);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+        const accidentData = JSON.parse('{{ accident_json|safe }}');
+        const markers = L.markerClusterGroup();
+
+        // 3. Loop through data and create colored markers
+        accidentData.forEach(accident => {
+            if (accident.Latitude && accident.Longitude) {
+                const clusterId = accident.Cluster;
+                let markerColor = noiseColor; // Default to grey for noise
+                
+                // Assign a color if it's part of a valid cluster
+                if (clusterId !== -1) {
+                    markerColor = hotspotColors[clusterId % hotspotColors.length];
+                }
+
+                // Create a simple circle marker with the determined color
+                const circleMarker = L.circleMarker([accident.Latitude, accident.Longitude], {
+                    radius: 6,
+                    fillColor: markerColor,
+                    color: "#000",
+                    weight: 1,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                });
+
+                // Add popup
+                const popupContent = `<b>Date:</b> ${accident.Date}<br><b>Time:</b> ${accident.Time}<br><b>Severity:</b> ${accident.Severity}<br><b>Hotspot ID:</b> ${clusterId}`;
+                circleMarker.bindPopup(popupContent);
+                
+                markers.addLayer(circleMarker);
+            }
+        });
+
+        // 4. Add markers to map and fit bounds
+        map.addLayer(markers);
+        if (accidentData.length > 0) {
+            const bounds = markers.getBounds();
+            if (bounds.isValid()) { map.fitBounds(bounds); }
+        }
+
+        // --- Enhanced Chart Rendering Script ---
+        
+        // Global Chart.js defaults for production-level styling
+        Chart.defaults.font.family = "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+        Chart.defaults.font.size = 12;
+        Chart.defaults.color = '#64748b';
+        Chart.defaults.plugins.legend.labels.usePointStyle = true;
+        Chart.defaults.plugins.legend.labels.padding = 20;
+
+        const severityData = JSON.parse('{{ severity_data|safe }}');
+        const roadTypeData = JSON.parse('{{ road_type_data|safe }}');
+        const weatherData = JSON.parse('{{ weather_data|safe }}');
+        
+        // Production-level color palette
+        const colors = {
+            primary: ['#2563eb', '#3b82f6', '#60a5fa', '#93c5fd'],
+            severity: ['#ef4444', '#f59e0b', '#10b981', '#6366f1'],
+            weather: ['#8b5cf6', '#06b6d4', '#10b981', '#f59e0b', '#ef4444', '#6366f1'],
+            gradient: {
+                primary: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                danger: 'linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%)',
+                warning: 'linear-gradient(135deg, #ffa726 0%, #ff9800 100%)',
+                success: 'linear-gradient(135deg, #66bb6a 0%, #4caf50 100%)'
+            }
+        };
+
+        // Enhanced Severity Doughnut Chart
+        const severityChart = new Chart(document.getElementById('severityChart'), {
+            type: 'doughnut',
+            data: {
+                labels: Object.keys(severityData),
+                datasets: [{
+                    data: Object.values(severityData),
+                    backgroundColor: colors.severity,
+                    borderWidth: 3,
+                    borderColor: '#ffffff',
+                    hoverBorderWidth: 5,
+                    hoverBorderColor: '#ffffff',
+                    cutout: '65%'
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'bottom',
+                        labels: {
+                            padding: 20,
+                            font: { size: 11, weight: '500' }
+                        }
+                    },
+                    tooltip: {
+                        backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                        titleColor: '#ffffff',
+                        bodyColor: '#ffffff',
+                        cornerRadius: 8,
+                        displayColors: true,
+                        callbacks: {
+                            label: function(context) {
+                                const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                                const percentage = ((context.raw / total) * 100).toFixed(1);
+                                return `${context.label}: ${context.raw.toLocaleString()} (${percentage}%)`;
+                            }
+                        }
+                    }
+                },
+                animation: {
+                    animateScale: true,
+                    animateRotate: true,
+                    duration: 2000,
+                    easing: 'easeOutQuart'
+                }
+            }
+        });
+
+        // Enhanced Road Type Bar Chart
+        const roadTypeChart = new Chart(document.getElementById('roadTypeChart'), {
+            type: 'bar',
+            data: {
+                labels: Object.keys(roadTypeData),
+                datasets: [{
+                    label: 'Number of Accidents',
+                    data: Object.values(roadTypeData),
+                    backgroundColor: colors.primary.map(color => color + '80'),
+                    borderColor: colors.primary,
+                    borderWidth: 2,
+                    borderRadius: 8,
+                    borderSkipped: false
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                        titleColor: '#ffffff',
+                        bodyColor: '#ffffff',
+                        cornerRadius: 8,
+                        callbacks: {
+                            label: function(context) {
+                                return `${context.label}: ${context.raw.toLocaleString()} accidents`;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        grid: {
+                            color: '#e2e8f0',
+                            drawBorder: false
+                        },
+                        ticks: {
+                            font: { size: 11, weight: '500' }
+                        }
+                    },
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            color: '#e2e8f0',
+                            drawBorder: false
+                        },
+                        ticks: {
+                            font: { size: 11, weight: '500' },
+                            callback: function(value) {
+                                return value.toLocaleString();
+                            }
+                        }
+                    }
+                },
+                animation: {
+                    duration: 2000,
+                    easing: 'easeOutQuart'
+                }
+            }
+        });
+
+        // Enhanced Weather Horizontal Bar Chart
+        const weatherChart = new Chart(document.getElementById('weatherChart'), {
+            type: 'bar',
+            data: {
+                labels: Object.keys(weatherData),
+                datasets: [{
+                    label: 'Number of Accidents',
+                    data: Object.values(weatherData),
+                    backgroundColor: colors.weather.map(color => color + '80'),
+                    borderColor: colors.weather,
+                    borderWidth: 2,
+                    borderRadius: 8,
+                    borderSkipped: false
+                }]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                indexAxis: 'y',
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                        titleColor: '#ffffff',
+                        bodyColor: '#ffffff',
+                        cornerRadius: 8,
+                        callbacks: {
+                            label: function(context) {
+                                return `${context.label}: ${context.raw.toLocaleString()} accidents`;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        beginAtZero: true,
+                        grid: {
+                            color: '#e2e8f0',
+                            drawBorder: false
+                        },
+                        ticks: {
+                            font: { size: 11, weight: '500' },
+                            callback: function(value) {
+                                return value.toLocaleString();
+                            }
+                        }
+                    },
+                    y: {
+                        grid: { display: false },
+                        ticks: {
+                            font: { size: 11, weight: '500' }
+                        }
+                    }
+                },
+                animation: {
+                    duration: 2000,
+                    easing: 'easeOutQuart'
+                }
+            }
+        });
+
+        // Add loading states and error handling
+        window.addEventListener('load', function() {
+            // Add fade-in animation to charts
+            document.querySelectorAll('.chart-container').forEach((container, index) => {
+                container.style.opacity = '0';
+                container.style.transform = 'translateY(20px)';
+                setTimeout(() => {
+                    container.style.transition = 'all 0.6s ease-out';
+                    container.style.opacity = '1';
+                    container.style.transform = 'translateY(0)';
+                }, index * 200);
+            });
+        });
+
+        // Responsive chart handling
+        window.addEventListener('resize', function() {
+            [severityChart, roadTypeChart, weatherChart].forEach(chart => {
+                if (chart) chart.resize();
+            });
+        });
+    </script>
+
+{% endblock %}

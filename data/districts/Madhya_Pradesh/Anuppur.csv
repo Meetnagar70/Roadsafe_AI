@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59344.0,2018-04-05,20:20,22.97481002,81.93551237,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Anuppur

@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59247.0,2018-03-16,10:00,22.35248057,87.13142318,Minor injury,2.0,1.0,Single carriageway,Unknown,Daylight,West Bengal,Pashchim Medinipur
+59460.0,2018-04-21,15:26,22.62698316,87.80821529,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Pashchim Medinipur
+59640.0,2018-05-14,13:35,22.6452044,87.29829332,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Pashchim Medinipur

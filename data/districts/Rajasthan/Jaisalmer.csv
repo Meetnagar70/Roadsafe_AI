@@ -1,0 +1,18 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58812.0,2018-01-18,09:11,27.82026451,71.45990697,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+58819.0,2018-01-18,18:50,27.46059818,70.39385944,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+58982.0,2018-02-08,19:00,26.64945183,70.67865998,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - no lighting,Rajasthan,Jaisalmer
+59027.0,2018-02-15,09:09,26.79190853,71.18332164,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59189.0,2018-03-13,15:30,27.43542248,71.14353163,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59203.0,2018-03-15,09:15,26.78034812,71.82266994,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59248.0,2018-03-23,09:40,26.52543695,70.86973692,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59263.0,2018-03-24,16:05,26.69954587,69.82992252,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Darkness - no lighting,Rajasthan,Jaisalmer
+59387.0,2018-04-12,07:50,27.17688003,70.8954087,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Rajasthan,Jaisalmer
+59532.0,2018-04-29,20:23,27.69511776,72.17786257,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59539.0,2018-04-30,15:20,27.37374235,70.6674104,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59620.0,2018-05-11,19:00,26.50376861,70.87122565,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59819.0,2018-06-08,11:19,27.61152325,70.63046281,Serious injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59871.0,2018-06-16,19:50,26.54531122,70.28983903,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59926.0,2018-06-22,11:09,27.11931302,72.02144484,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59948.0,2018-06-23,19:30,27.09396533,70.15801092,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer
+59962.0,2018-06-25,12:05,26.4320831,70.85954294,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaisalmer

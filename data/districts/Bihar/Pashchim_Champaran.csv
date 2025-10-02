@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58853.0,2018-01-23,11:05,27.34765154,84.14972812,Minor injury,2.0,1.0,Roundabout,Other,Daylight,Bihar,Pashchim Champaran

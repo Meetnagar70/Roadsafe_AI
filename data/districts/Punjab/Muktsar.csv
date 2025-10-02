@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58813.0,2018-01-18,09:25,30.07075047,74.58592903,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Punjab,Muktsar

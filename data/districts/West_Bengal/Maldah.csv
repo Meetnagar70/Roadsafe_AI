@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59477.0,2018-04-22,17:10,25.09232558,88.18817283,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Maldah

@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59017.0,2018-02-13,14:05,24.23094863,83.71986911,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Jharkhand,Garhwa

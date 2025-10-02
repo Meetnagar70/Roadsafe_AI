@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59004.0,2018-02-11,21:35,25.55626647,75.04686738,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Rajasthan,Bhilwara
+59502.0,2018-04-26,10:48,25.57178874,74.3870162,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bhilwara
+59522.0,2018-04-28,17:20,25.23163599,74.71558315,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,Rajasthan,Bhilwara

@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59062.0,2018-02-21,08:01,28.94205763,79.03021353,Minor injury,1.0,1.0,Single carriageway,Snowing no high winds,Daylight,Uttar Pradesh,Rampur
+59992.0,2018-06-28,20:00,28.66876613,79.16882491,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Rampur

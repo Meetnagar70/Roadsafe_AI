@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59077.0,2018-02-22,07:15,17.36613884,81.63034773,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,Andhra Pradesh,East Godavari
+59338.0,2018-04-05,10:30,17.63319988,82.13155056,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,East Godavari
+59454.0,2018-04-20,02:24,17.21622892,81.99485106,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Andhra Pradesh,East Godavari
+59646.0,2018-05-14,18:20,17.87404423,81.99200496,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,East Godavari

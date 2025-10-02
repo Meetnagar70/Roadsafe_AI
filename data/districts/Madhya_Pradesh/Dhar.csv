@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59103.0,2018-02-25,20:41,22.631918,74.94519914,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Dhar
+59449.0,2018-04-19,13:20,22.68716279,75.34144023,Minor injury,1.0,1.0,Roundabout,Fine no high winds,Daylight,Madhya Pradesh,Dhar
+59840.0,2018-06-11,09:17,22.27255349,75.03012569,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Dhar

@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59929.0,2018-06-22,16:48,24.30731448,79.71857638,Minor injury,5.0,1.0,Roundabout,Fine no high winds,Daylight,Madhya Pradesh,Damoh

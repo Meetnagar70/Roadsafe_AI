@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59394.0,2018-04-12,17:26,26.85381574,77.40444245,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bharatpur
+59940.0,2018-06-23,08:10,26.9980357,77.02663616,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bharatpur

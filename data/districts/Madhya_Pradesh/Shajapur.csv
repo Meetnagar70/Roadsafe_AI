@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59847.0,2018-06-12,14:28,23.92368,76.01062517,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Shajapur

@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59239.0,2018-03-21,22:28,15.07186353,75.22268235,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Karnataka,Haveri

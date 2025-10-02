@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58835.0,2018-01-21,15:14,23.67498483,87.73469652,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,West Bengal,Birbhum
+59022.0,2018-02-14,15:15,24.25305916,87.76876815,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,West Bengal,Birbhum
+59397.0,2018-04-13,07:30,23.57607042,87.8426363,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,West Bengal,Birbhum
+59872.0,2018-06-17,09:51,24.0836002,87.75758129,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,West Bengal,Birbhum

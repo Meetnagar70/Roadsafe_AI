@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59015.0,2018-02-13,00:01,19.98820878,74.57388103,Minor injury,1.0,1.0,Single carriageway,Fine + high winds,Darkness - no lighting,Maharashtra,Nashik
+59110.0,2018-02-27,12:00,20.71906062,73.99801862,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Nashik
+59520.0,2018-04-28,16:48,20.07167752,74.6714739,Serious injury,2.0,5.0,Dual carriageway,Fine no high winds,Daylight,Maharashtra,Nashik

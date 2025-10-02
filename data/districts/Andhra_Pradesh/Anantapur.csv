@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58896.0,2018-01-30,07:35,14.94805039,78.0672626,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Andhra Pradesh,Anantapur
+59347.0,2018-04-06,08:05,14.98193403,77.77703401,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Andhra Pradesh,Anantapur
+59493.0,2018-04-25,04:48,14.83424679,77.57141875,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Andhra Pradesh,Anantapur
+59580.0,2018-05-06,15:39,14.48723015,77.13755767,Minor injury,5.0,4.0,Single carriageway,Unknown,Daylight,Andhra Pradesh,Anantapur
+59680.0,2018-05-19,15:58,14.56652743,77.00723304,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Anantapur

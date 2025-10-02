@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58923.0,2018-02-01,15:50,28.60488116,78.51123329,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Moradabad
+59431.0,2018-04-16,22:25,28.39064657,78.54942689,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Moradabad
+59767.0,2018-05-31,16:35,28.45983457,78.50347595,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Moradabad

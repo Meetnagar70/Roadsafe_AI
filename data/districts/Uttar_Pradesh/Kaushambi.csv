@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59483.0,2018-04-23,21:35,25.33493039,81.49167609,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Kaushambi
+59734.0,2018-05-26,16:02,25.50766407,81.72059757,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Kaushambi

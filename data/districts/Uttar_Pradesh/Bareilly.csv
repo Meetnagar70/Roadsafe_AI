@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59086.0,2018-02-23,08:10,28.63593068,79.47882368,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Bareilly
+59634.0,2018-05-13,11:32,28.46075406,79.71050714,Serious injury,2.0,5.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Bareilly
+59766.0,2018-05-31,14:15,28.21871925,79.27743816,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Bareilly

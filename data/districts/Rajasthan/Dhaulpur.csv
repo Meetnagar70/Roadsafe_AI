@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59005.0,2018-02-11,22:00,26.81369108,78.01524442,Minor injury,4.0,2.0,Dual carriageway,Fine no high winds,Darkness - no lighting,Rajasthan,Dhaulpur

@@ -1,0 +1,13 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58875.0,2018-01-26,19:54,23.51873035,70.80113672,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,Gujarat,Kachchh
+58953.0,2018-02-05,22:25,23.60439703,69.47909419,Serious injury,1.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Kachchh
+58977.0,2018-02-08,13:05,23.16572633,71.39273907,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh
+59094.0,2018-02-23,11:18,24.19207304,69.49599793,Fatal,3.0,2.0,Single carriageway,Snowing + high winds,Darkness - no lighting,Gujarat,Kachchh
+59303.0,2018-03-31,14:30,23.56052781,69.5668211,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh
+59350.0,2018-04-06,13:30,23.25608926,70.64338302,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh
+59551.0,2018-05-02,13:05,23.74242325,69.59261198,Serious injury,8.0,2.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh
+59606.0,2018-05-10,13:17,23.38341026,69.52381545,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh
+59626.0,2018-05-12,14:55,22.85375378,69.4046011,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh
+59820.0,2018-06-08,15:05,24.06495931,69.93456818,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh
+59905.0,2018-06-20,14:10,23.41814415,70.40085541,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh
+59976.0,2018-06-27,07:50,23.48267295,69.04275262,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Kachchh

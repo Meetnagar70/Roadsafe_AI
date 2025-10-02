@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58869.0,2018-01-26,08:44,24.9786728,72.46331307,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jalor
+58998.0,2018-02-11,01:32,25.01559166,71.93360217,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Rajasthan,Jalor
+59455.0,2018-04-20,09:40,25.25494561,72.14731989,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jalor
+59572.0,2018-05-05,14:21,25.28987305,72.53404496,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jalor
+59717.0,2018-05-25,18:50,25.56776401,72.69238578,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jalor

@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59087.0,2018-02-23,18:30,18.69261356,79.58939535,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Darkness - lights lit,Andhra Pradesh,Karimnagar
+59683.0,2018-05-20,01:50,18.44096416,79.41455354,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Andhra Pradesh,Karimnagar

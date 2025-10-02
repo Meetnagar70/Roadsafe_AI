@@ -1,0 +1,427 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+33800.0,2018-08-04,02:10,28.72829264,77.29775265,Serious injury,1.0,4.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+33819.0,2018-08-30,15:00,28.70618969,77.29987846,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+33832.0,2018-09-22,16:35,28.68673602,77.33778166,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+33844.0,2018-10-21,18:17,28.72366283,77.33971985,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+33862.0,2018-12-02,17:30,28.70885592,77.35093684,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+33896.0,2018-06-26,12:00,28.69754634,77.35910187,Minor injury,4.0,2.0,Single carriageway,Unknown,Daylight,Uttar Pradesh,Ghaziabad
+33919.0,2018-11-24,13:00,28.70656717,77.3431645,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+33943.0,2018-06-26,10:30,28.7211532,77.31845626,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+33989.0,2018-09-08,10:20,28.7142882,77.30350228,Serious injury,1.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+33990.0,2018-09-10,16:30,28.72838391,77.31219052,Fatal,1.0,3.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+33999.0,2018-09-21,16:45,28.70500535,77.33739583,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34020.0,2018-10-19,07:40,28.72309599,77.33908015,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights unlit,Uttar Pradesh,Ghaziabad
+34038.0,2018-11-25,15:16,28.72814486,77.35605959,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34045.0,2018-12-06,06:58,28.71835888,77.36092591,Serious injury,1.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+34046.0,2018-12-07,08:12,28.70600199,77.33699339,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34088.0,2018-09-07,12:50,28.70063344,77.3354593,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34101.0,2018-09-21,08:40,28.70628158,77.35845424,Minor injury,2.0,1.0,Dual carriageway,Unknown,Darkness - no lighting,Uttar Pradesh,Ghaziabad
+34113.0,2018-10-10,12:40,28.70379554,77.3464065,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34140.0,2018-11-06,07:34,28.68386338,77.36319202,Minor injury,3.0,1.0,Dual carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34151.0,2018-11-11,16:08,28.72251386,77.30880815,Minor injury,4.0,2.0,Dual carriageway,Fine + high winds,Daylight,Uttar Pradesh,Ghaziabad
+34176.0,2018-11-29,17:20,28.72295011,77.32920672,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+34194.0,2018-12-27,12:15,28.70474661,77.37049619,Minor injury,3.0,3.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34205.0,2018-10-03,21:15,28.72400499,77.29388986,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+34214.0,2018-10-07,09:00,28.71642711,77.33381682,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34243.0,2018-10-19,13:10,28.71474291,77.30404121,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34265.0,2018-10-31,14:20,28.71434855,77.30991758,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34283.0,2018-10-31,14:40,28.72534577,77.3641542,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34285.0,2018-11-01,08:30,28.71107135,77.3558986,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34357.0,2018-11-21,11:00,28.68716803,77.34494628,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34429.0,2018-12-26,20:05,28.68016325,77.35222729,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+34439.0,2018-12-28,12:18,28.7093916,77.35783867,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34491.0,2018-01-26,19:45,28.72496678,77.30099292,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+34513.0,2018-01-30,11:10,28.72306559,77.32784462,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34533.0,2018-04-01,10:45,28.72685683,77.33206629,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34609.0,2018-03-04,18:00,28.69153963,77.34076284,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,Uttar Pradesh,Ghaziabad
+34615.0,2018-03-10,09:40,28.69550567,77.35022497,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34619.0,2018-03-12,15:40,28.71735384,77.31845771,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34654.0,2018-03-25,16:55,28.68715971,77.34916212,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34684.0,2018-04-06,20:55,28.71329376,77.30860135,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+34698.0,2018-04-11,18:53,28.72844487,77.32760775,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34701.0,2018-04-09,15:35,28.69613802,77.33231664,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34784.0,2018-05-08,08:50,28.71955735,77.35991634,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34813.0,2018-05-14,13:30,28.70814976,77.35818789,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34814.0,2018-05-13,18:50,28.72212263,77.34662462,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34849.0,2018-05-16,14:24,28.69300574,77.33706954,Minor injury,2.0,2.0,Dual carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34851.0,2018-05-14,15:25,28.72080204,77.33163408,Minor injury,2.0,5.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34877.0,2018-05-27,13:00,28.70907921,77.35246333,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34878.0,2018-05-26,10:10,28.70863088,77.34165871,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34902.0,2018-06-07,14:30,28.71431922,77.35604051,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34911.0,2018-06-01,12:45,28.68768637,77.33688882,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+34916.0,2018-06-12,18:00,28.72037068,77.32139375,Minor injury,2.0,4.0,Single carriageway,Other,Daylight,Uttar Pradesh,Ghaziabad
+34928.0,2018-06-16,14:10,28.70367723,77.34790049,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35018.0,2018-07-11,16:00,28.72626685,77.296486,Serious injury,2.0,1.0,One way street,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35028.0,2018-07-09,15:30,28.72805957,77.35899114,Minor injury,5.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35042.0,2018-07-09,10:00,28.70484363,77.3597945,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35048.0,2018-07-29,17:00,28.68691537,77.35643778,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35101.0,2018-08-19,15:45,28.71578763,77.35402504,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35212.0,2018-09-26,20:00,28.72514258,77.35393636,Minor injury,2.0,1.0,Single carriageway,Unknown,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+35217.0,2018-09-25,18:05,28.72129315,77.36185941,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35290.0,2018-11-02,08:30,28.69057205,77.33482695,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35306.0,2018-11-18,08:50,28.6895939,77.36912463,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35317.0,2018-11-05,17:30,28.71239914,77.35548717,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+35321.0,2018-11-19,13:08,28.71208995,77.37173653,Minor injury,2.0,8.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35361.0,2018-11-28,09:00,28.72143617,77.37045103,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35390.0,2018-11-30,13:40,28.71808576,77.33385989,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35396.0,2018-11-26,13:35,28.67990265,77.34214266,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35401.0,2018-12-24,00:25,28.70910363,77.29816581,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+35419.0,2018-12-25,12:00,28.70618071,77.35227418,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35450.0,2018-01-10,12:30,28.72085065,77.35735647,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35515.0,2018-01-24,17:45,28.70077234,77.35064846,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+35562.0,2018-03-12,16:15,28.72453733,77.36780146,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35586.0,2018-03-18,14:45,28.71102977,77.36783168,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35615.0,2018-03-30,21:00,28.6877414,77.37128745,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+35652.0,2018-04-15,11:55,28.71154659,77.33786963,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35717.0,2018-05-12,15:30,28.71254717,77.36617153,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35744.0,2018-05-21,11:20,28.68436465,77.33832247,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35751.0,2018-04-26,13:30,28.72048809,77.3160274,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35752.0,2018-05-23,06:45,28.70114997,77.34419277,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35770.0,2018-05-30,00:55,28.72153852,77.30540596,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+35778.0,2018-05-31,10:20,28.71665495,77.33815501,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35781.0,2018-06-06,13:05,28.70472204,77.34108742,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35807.0,2018-06-16,10:30,28.7185231,77.34210224,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35828.0,2018-06-23,08:30,28.67963118,77.36286198,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35829.0,2018-06-23,16:24,28.70338713,77.36642961,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35857.0,2018-07-07,18:10,28.71376414,77.34475608,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35902.0,2018-07-24,17:00,28.71761692,77.35213268,Minor injury,3.0,3.0,Dual carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35963.0,2018-08-20,17:50,28.72403146,77.36649452,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35973.0,2018-06-13,17:20,28.71732944,77.35849071,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+35979.0,2018-08-30,19:40,28.7135126,77.34928857,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36028.0,2018-09-26,09:15,28.69733028,77.36046032,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36052.0,2018-05-01,17:30,28.72397736,77.35262312,Minor injury,2.0,1.0,Unknown,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36055.0,2018-07-02,13:15,28.70755707,77.33386731,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36066.0,2018-10-07,05:10,28.72634105,77.32121521,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36097.0,2018-10-27,16:35,28.68026755,77.36812834,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36109.0,2018-11-08,17:00,28.71626105,77.3160984,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Darkness - no lighting,Uttar Pradesh,Ghaziabad
+36111.0,2018-11-08,12:50,28.70535654,77.34793075,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36170.0,2018-12-26,13:15,28.72190041,77.34356395,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36181.0,2018-12-20,16:35,28.71462122,77.32959846,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36205.0,2018-01-25,14:10,28.71091881,77.36918163,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36221.0,2018-02-08,11:25,28.68801087,77.35264518,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36226.0,2018-01-21,15:20,28.71941462,77.29499007,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36241.0,2018-02-18,13:45,28.7211471,77.30481275,Minor injury,4.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36271.0,2018-03-12,22:30,28.70858119,77.34156578,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36276.0,2018-02-16,14:30,28.71312209,77.36000092,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36280.0,2018-03-08,15:10,28.72660857,77.29513594,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36291.0,2018-03-31,13:30,28.71066632,77.36197942,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36298.0,2018-04-06,18:40,28.71241262,77.3626296,Minor injury,2.0,1.0,Single carriageway,Raining + high winds,Daylight,Uttar Pradesh,Ghaziabad
+36304.0,2018-03-31,14:10,28.72087069,77.35295504,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36340.0,2018-05-11,08:33,28.68567243,77.35854159,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36352.0,2018-05-13,17:20,28.71024568,77.34572969,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36390.0,2018-06-04,18:00,28.68647206,77.35562606,Minor injury,1.0,5.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36406.0,2018-06-11,15:41,28.72431867,77.3118622,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36418.0,2018-07-01,16:10,28.72164844,77.32640724,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36430.0,2018-05-06,17:45,28.72129458,77.32522935,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,Uttar Pradesh,Ghaziabad
+36461.0,2018-07-28,12:00,28.67562207,77.34561227,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36479.0,2018-08-19,14:15,28.68587338,77.34393615,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36512.0,2018-09-20,19:45,28.71956785,77.36703663,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36516.0,2018-08-23,00:45,28.69309108,77.3428663,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36540.0,2018-12-13,08:00,28.72089355,77.3325349,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36681.0,2018-01-17,15:45,28.71770148,77.30890941,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36701.0,2018-01-28,10:45,28.70702825,77.34923813,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36710.0,2018-02-08,08:45,28.72118244,77.32549927,Minor injury,3.0,5.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36723.0,2018-02-04,15:45,28.69260106,77.35900544,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36748.0,2018-03-05,16:05,28.67985478,77.34345277,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36775.0,2018-03-21,19:50,28.71641864,77.31646169,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36776.0,2018-02-11,06:00,28.70181944,77.36633076,Minor injury,2.0,5.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36807.0,2018-04-16,22:26,28.69810931,77.34254876,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36811.0,2018-04-10,18:35,28.71690032,77.33486729,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36817.0,2018-04-19,07:40,28.69176086,77.35345855,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36825.0,2018-04-27,12:00,28.72498655,77.31129976,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36826.0,2018-04-28,06:50,28.71206955,77.36498117,Minor injury,2.0,4.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36863.0,2018-05-22,02:30,28.69245224,77.35877776,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36866.0,2018-05-21,20:20,28.68600405,77.36995537,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36886.0,2018-05-28,12:55,28.70356136,77.33418596,Minor injury,2.0,1.0,Dual carriageway,Fine + high winds,Daylight,Uttar Pradesh,Ghaziabad
+36903.0,2018-06-11,22:10,28.71757726,77.3154167,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+36908.0,2018-06-11,18:30,28.68135874,77.35247646,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36948.0,2018-06-28,08:40,28.72113338,77.34822259,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36963.0,2018-07-21,16:30,28.70594265,77.35552266,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36969.0,2018-07-22,18:45,28.67647378,77.3583747,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36982.0,2018-08-05,10:01,28.72659313,77.35355327,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+36995.0,2018-08-21,14:15,28.72037217,77.32392474,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37005.0,2018-08-26,13:45,28.69980311,77.34367903,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37068.0,2018-09-30,09:05,28.71827333,77.3452069,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37080.0,2018-06-04,15:15,28.69122077,77.3399598,Minor injury,1.0,1.0,One way street,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37086.0,2018-08-03,13:20,28.72745658,77.3394778,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37093.0,2018-08-08,17:00,28.70170671,77.34042015,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37098.0,2018-08-08,15:25,28.71354616,77.33551936,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37119.0,2018-08-21,04:45,28.68429306,77.35906598,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37125.0,2018-08-16,09:35,28.69765369,77.36934607,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37132.0,2018-08-03,23:44,28.72764986,77.35785596,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37156.0,2018-08-29,17:00,28.70193539,77.34186535,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37205.0,2018-09-17,16:55,28.70215198,77.3426514,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37210.0,2018-09-13,15:19,28.70195528,77.33796318,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37276.0,2018-08-31,14:20,28.71532342,77.31605853,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37310.0,2018-10-07,00:20,28.72248912,77.36937393,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37351.0,2018-10-21,15:30,28.68581362,77.35337527,Serious injury,1.0,1.0,Dual carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37357.0,2018-10-31,20:20,28.71461634,77.359245,Minor injury,3.0,1.0,Dual carriageway,Other,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37376.0,2018-10-20,15:00,28.69994944,77.34547944,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37383.0,2018-11-03,16:25,28.67921251,77.34045103,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37394.0,2018-10-25,09:25,28.69916615,77.34220266,Minor injury,2.0,2.0,Dual carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37438.0,2018-11-10,18:20,28.72320728,77.34569701,Minor injury,2.0,1.0,Dual carriageway,Other,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37447.0,2018-11-12,09:05,28.71681566,77.33257981,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37496.0,2018-11-08,16:45,28.71304992,77.36139607,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37616.0,2018-12-29,13:30,28.72447018,77.33795339,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37645.0,2018-01-14,16:40,28.7225717,77.32611348,Serious injury,1.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37658.0,2018-01-08,12:36,28.72303635,77.32985675,Serious injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,Uttar Pradesh,Ghaziabad
+37675.0,2018-01-23,11:15,28.7150401,77.30815947,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,Uttar Pradesh,Ghaziabad
+37700.0,2018-01-21,15:30,28.68932825,77.33591925,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37719.0,2018-01-31,11:05,28.70100154,77.36374626,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37724.0,2018-02-04,15:00,28.70132931,77.33555321,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37756.0,2018-02-15,00:10,28.7127307,77.31593273,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37768.0,2018-02-22,18:55,28.71069489,77.35679592,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37800.0,2018-02-15,21:19,28.72447684,77.30896094,Serious injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37811.0,2018-02-25,09:10,28.72266618,77.33676836,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37826.0,2018-02-23,11:50,28.70175109,77.37020877,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+37835.0,2018-03-02,20:00,28.71373018,77.32559849,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+37858.0,2018-03-13,17:30,28.71211953,77.30194583,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38045.0,2018-04-28,12:30,28.712684,77.31772905,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38075.0,2018-05-07,16:30,28.68060484,77.35768686,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38123.0,2018-05-18,16:25,28.71913865,77.35381158,Serious injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38188.0,2018-05-26,00:05,28.72566348,77.33721774,Minor injury,2.0,4.0,One way street,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+38189.0,2018-05-26,17:05,28.71498484,77.35978017,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38205.0,2018-06-03,10:50,28.70067636,77.34102333,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38216.0,2018-06-19,05:05,28.71110233,77.34200496,Serious injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38297.0,2018-07-05,17:30,28.7090111,77.33347116,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38331.0,2018-06-30,17:35,28.72280047,77.31467733,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38345.0,2018-07-04,17:50,28.7006522,77.34202455,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38384.0,2018-07-10,11:30,28.7269208,77.34014938,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38398.0,2018-07-22,01:00,28.69079965,77.35850767,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+38438.0,2018-08-28,18:50,28.71372023,77.34011252,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38513.0,2018-09-30,10:15,28.68264132,77.33780216,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38539.0,2018-10-03,18:30,28.70069237,77.33542222,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38557.0,2018-10-19,07:45,28.68251056,77.36270128,Minor injury,3.0,4.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38582.0,2018-11-05,10:45,28.70678634,77.30421679,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38600.0,2018-11-10,20:00,28.70922964,77.34079287,Minor injury,2.0,1.0,Single carriageway,Unknown,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+38604.0,2018-11-06,01:47,28.70191503,77.36371042,Serious injury,2.0,1.0,Single carriageway,Raining + high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+38639.0,2018-11-19,17:15,28.70633226,77.34645317,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38640.0,2018-11-22,13:05,28.67854866,77.35827096,Minor injury,2.0,1.0,Roundabout,Fog or mist,Daylight,Uttar Pradesh,Ghaziabad
+38648.0,2018-11-21,10:00,28.69675088,77.36336876,Minor injury,2.0,1.0,Single carriageway,Fog or mist,Daylight,Uttar Pradesh,Ghaziabad
+38658.0,2018-12-09,15:30,28.72685674,77.33451343,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38756.0,2018-02-05,18:45,28.70427321,77.33263476,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+38767.0,2018-02-04,11:30,28.71708254,77.30807688,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38808.0,2018-03-01,08:35,28.70215408,77.35893546,Serious injury,2.0,1.0,Single carriageway,Other,Daylight,Uttar Pradesh,Ghaziabad
+38830.0,2018-01-15,14:30,28.6999172,77.35844531,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,Uttar Pradesh,Ghaziabad
+38885.0,2018-04-08,17:30,28.68210866,77.36087617,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,Uttar Pradesh,Ghaziabad
+38922.0,2018-04-11,15:00,28.70962087,77.34496159,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+38956.0,2018-05-13,15:24,28.7119846,77.35406193,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39007.0,2018-06-03,08:50,28.71214977,77.34387081,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39020.0,2018-05-23,11:30,28.70930405,77.33422901,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39031.0,2018-06-20,22:40,28.71657833,77.350552,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39066.0,2018-06-18,18:10,28.67727408,77.35083141,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39114.0,2018-04-03,01:16,28.69018774,77.36676476,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39127.0,2018-04-12,20:00,28.69712788,77.35702349,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39187.0,2018-05-02,19:01,28.71813062,77.3644195,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39189.0,2018-04-27,16:05,28.71156724,77.34181783,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39191.0,2018-05-03,11:10,28.68320909,77.36535905,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39194.0,2018-05-05,17:35,28.70732286,77.30165241,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39214.0,2018-05-10,11:33,28.68299877,77.36395173,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39224.0,2018-05-12,12:05,28.71495384,77.31505975,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39245.0,2018-05-18,13:40,28.68503317,77.34929251,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39249.0,2018-05-21,06:45,28.72071364,77.31751453,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39251.0,2018-05-23,19:00,28.7144476,77.31388473,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39256.0,2018-05-25,16:10,28.71049376,77.30376517,Minor injury,1.0,1.0,One way street,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39268.0,2018-05-30,18:38,28.67750599,77.35190389,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39322.0,2018-06-20,10:15,28.69320884,77.35879095,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39336.0,2018-06-08,11:10,28.68516429,77.36110744,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39341.0,2018-06-14,18:30,28.71291626,77.30962716,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39352.0,2018-06-24,13:30,28.7127085,77.33072765,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39362.0,2018-07-02,15:55,28.72716518,77.32926573,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39370.0,2018-07-05,19:25,28.69195509,77.37097492,Minor injury,1.0,1.0,One way street,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39414.0,2018-07-20,10:55,28.72681079,77.33808738,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39415.0,2018-07-20,11:40,28.70148058,77.34179637,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39477.0,2018-08-14,02:30,28.68777831,77.33893701,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39487.0,2018-08-16,11:45,28.69472938,77.35599301,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39489.0,2018-08-22,18:45,28.69778445,77.36321143,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39491.0,2018-08-20,23:45,28.69192,77.36314731,Minor injury,1.0,1.0,One way street,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39542.0,2018-09-09,07:55,28.71546277,77.34308884,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39543.0,2018-09-09,22:44,28.68945545,77.34664473,Minor injury,2.0,1.0,One way street,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39557.0,2018-09-16,18:05,28.71300151,77.30635283,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39566.0,2018-09-18,15:40,28.67584048,77.34325531,Minor injury,2.0,1.0,Single carriageway,Unknown,Daylight,Uttar Pradesh,Ghaziabad
+39577.0,2018-09-23,21:00,28.69575399,77.36888386,Serious injury,3.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39590.0,2018-09-27,16:50,28.72044366,77.3045594,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39603.0,2018-09-27,23:30,28.70525936,77.30086771,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39613.0,2018-10-05,11:55,28.70684848,77.36172522,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39623.0,2018-10-08,14:25,28.71903477,77.34255345,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39628.0,2018-10-10,09:12,28.72734822,77.33427858,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39636.0,2018-10-12,17:15,28.72453706,77.35293411,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39637.0,2018-10-13,16:45,28.70711583,77.30454934,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39652.0,2018-10-05,17:30,28.71989773,77.3203519,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39681.0,2018-10-28,12:37,28.68717719,77.3515697,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39708.0,2018-11-04,23:53,28.7023718,77.34134587,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39738.0,2018-11-10,09:40,28.69612796,77.36189663,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39754.0,2018-11-11,21:40,28.71620514,77.33063958,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39778.0,2018-11-27,14:15,28.71512848,77.35974815,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+39794.0,2018-12-08,01:30,28.71938149,77.34761565,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39895.0,2018-01-12,19:13,28.68377727,77.37060369,Serious injury,2.0,1.0,Single carriageway,Raining + high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39977.0,2018-02-13,16:55,28.70599225,77.29951402,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+39986.0,2018-02-06,00:08,28.7184359,77.33624333,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lighting unknown,Uttar Pradesh,Ghaziabad
+40021.0,2018-02-25,17:35,28.71449056,77.31474631,Fatal,2.0,1.0,Roundabout,Unknown,Daylight,Uttar Pradesh,Ghaziabad
+40027.0,2018-03-02,16:58,28.72714578,77.29215976,Minor injury,2.0,2.0,Single carriageway,Snowing no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40046.0,2018-03-13,17:48,28.72816166,77.30121801,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40069.0,2018-03-25,02:47,28.70187773,77.33862225,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40101.0,2018-04-14,17:30,28.70605457,77.36939762,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40107.0,2018-04-18,22:15,28.69888874,77.35780245,Minor injury,1.0,4.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40132.0,2018-04-26,16:50,28.71806863,77.34021374,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40179.0,2018-05-11,16:50,28.69168801,77.34976831,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40199.0,2018-05-27,23:00,28.72348654,77.35460401,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40221.0,2018-06-09,12:17,28.72221511,77.33672064,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40250.0,2018-05-20,19:25,28.7147479,77.32214403,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40309.0,2018-07-24,17:16,28.72000414,77.29524227,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40325.0,2018-07-28,01:35,28.67815431,77.34869812,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40340.0,2018-08-07,16:36,28.72189681,77.33822797,Minor injury,1.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40354.0,2018-08-12,17:25,28.68320155,77.34273913,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40397.0,2018-09-02,18:40,28.72256499,77.32212598,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40426.0,2018-09-20,14:35,28.70646159,77.35477582,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40441.0,2018-09-23,17:50,28.72420772,77.37047023,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40458.0,2018-10-03,14:55,28.71358409,77.34501856,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40489.0,2018-10-17,17:20,28.68416104,77.34979808,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40508.0,2018-10-24,01:30,28.69524443,77.34756351,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40544.0,2018-11-09,07:45,28.7022688,77.33486508,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40559.0,2018-11-16,18:29,28.72014047,77.30316179,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40589.0,2018-11-29,17:00,28.69201892,77.37137719,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40606.0,2018-12-05,19:57,28.68238468,77.35565318,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40610.0,2018-11-23,16:51,28.680986,77.33988064,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40611.0,2018-12-07,19:00,28.69834986,77.34859638,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40618.0,2018-12-12,14:35,28.70729813,77.371895,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40658.0,2018-04-05,20:20,28.71329329,77.35848541,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40660.0,2018-04-11,14:30,28.6983149,77.3696134,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40668.0,2018-04-12,08:30,28.7222393,77.35567031,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40672.0,2018-04-16,10:15,28.72398555,77.35402503,Minor injury,2.0,1.0,Unknown,Fine + high winds,Daylight,Uttar Pradesh,Ghaziabad
+40675.0,2018-04-17,13:45,28.70828393,77.30030286,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40680.0,2018-04-18,13:45,28.7164114,77.32175008,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40691.0,2018-04-25,12:45,28.70123866,77.36605106,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40727.0,2018-05-16,09:20,28.68267441,77.35982441,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40836.0,2018-07-29,18:20,28.71064156,77.35881084,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40844.0,2018-08-06,13:44,28.72097048,77.34071962,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40851.0,2018-08-11,19:13,28.72433069,77.2979878,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40880.0,2018-08-31,21:02,28.71103055,77.36301165,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40897.0,2018-09-09,15:00,28.70570335,77.35493192,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40912.0,2018-09-17,11:05,28.71524741,77.31335713,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40933.0,2018-09-30,17:45,28.69580512,77.34261208,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40947.0,2018-10-07,21:59,28.68935459,77.35528836,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40954.0,2018-10-02,13:30,28.71518282,77.29577256,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+40978.0,2018-10-25,07:39,28.72148077,77.37075068,Minor injury,2.0,2.0,Dual carriageway,Raining + high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+40985.0,2018-10-30,12:44,28.71035907,77.36356476,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41017.0,2018-11-14,17:12,28.71244946,77.31632828,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41043.0,2018-12-01,17:00,28.71359483,77.35595685,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41070.0,2018-12-14,17:35,28.68498378,77.35293646,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41075.0,2018-12-28,08:32,28.70384311,77.36456312,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41097.0,2018-01-05,19:00,28.72748809,77.30304421,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41107.0,2018-01-09,22:30,28.72352542,77.3335315,Minor injury,1.0,1.0,Single carriageway,Raining + high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41137.0,2018-01-18,18:08,28.70874941,77.297547,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41139.0,2018-01-13,23:20,28.71994459,77.31169049,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41176.0,2018-01-28,15:20,28.70781878,77.36017011,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41210.0,2018-02-04,12:00,28.71755818,77.36754276,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41239.0,2018-02-15,14:40,28.69778228,77.33868807,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41270.0,2018-02-24,18:50,28.71940863,77.32823334,Minor injury,1.0,1.0,Dual carriageway,Other,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41317.0,2018-03-08,00:05,28.7167121,77.34732053,Minor injury,1.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41359.0,2018-03-24,19:25,28.69345769,77.36728749,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41365.0,2018-03-25,15:25,28.71139559,77.32940065,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41382.0,2018-03-30,11:20,28.72701053,77.34926266,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41415.0,2018-04-05,21:30,28.68092582,77.35226433,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41426.0,2018-04-22,16:00,28.70870867,77.34617087,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41436.0,2018-04-23,21:10,28.70373705,77.36250551,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41453.0,2018-05-05,12:00,28.70592029,77.34201202,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41492.0,2018-05-12,12:13,28.72639796,77.29605328,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41525.0,2018-06-14,21:42,28.69242527,77.35636323,Serious injury,4.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41530.0,2018-06-12,02:35,28.69492488,77.35610096,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41573.0,2018-07-08,18:05,28.69879374,77.3400708,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41606.0,2018-07-29,12:36,28.71164277,77.36430984,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41610.0,2018-07-29,14:53,28.69326609,77.33371811,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41611.0,2018-08-02,00:41,28.72716969,77.34394715,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41630.0,2018-08-11,10:50,28.69597502,77.33567792,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41645.0,2018-08-22,14:30,28.69230009,77.34863388,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41683.0,2018-09-15,20:50,28.71209718,77.32183053,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41693.0,2018-09-29,21:40,28.69423008,77.36597653,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41711.0,2018-10-10,16:40,28.71932535,77.35801698,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41787.0,2018-11-24,20:43,28.72430657,77.36514226,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41810.0,2018-12-02,00:55,28.70168505,77.346832,Minor injury,2.0,2.0,Dual carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41811.0,2018-12-03,09:45,28.70264529,77.33158658,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41813.0,2018-12-04,20:37,28.72238695,77.3318911,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41816.0,2018-12-05,17:10,28.71211018,77.35775092,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41874.0,2018-01-07,18:07,28.67518599,77.35661236,Minor injury,1.0,1.0,Dual carriageway,Fine + high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41890.0,2018-01-18,17:41,28.72178779,77.29982961,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41897.0,2018-01-22,15:07,28.69379411,77.36995268,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41907.0,2018-01-23,22:00,28.6958856,77.33135546,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41923.0,2018-01-29,19:45,28.72218189,77.35302745,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41932.0,2018-01-27,17:20,28.72588046,77.34662834,Minor injury,3.0,3.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+41975.0,2018-02-28,09:25,28.71713463,77.34392347,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Daylight,Uttar Pradesh,Ghaziabad
+41983.0,2018-03-01,16:30,28.69867996,77.33913641,Serious injury,2.0,1.0,One way street,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42021.0,2018-03-29,22:13,28.70626292,77.36288774,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+42072.0,2018-04-05,13:55,28.68287204,77.34651297,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42107.0,2018-05-17,21:28,28.67972667,77.34121523,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+42108.0,2018-05-21,12:30,28.69993158,77.34209918,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42152.0,2018-06-13,10:47,28.71588853,77.34925395,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42181.0,2018-06-19,16:30,28.7162911,77.34507102,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42250.0,2018-08-09,15:45,28.72554453,77.30139587,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42268.0,2018-08-26,06:50,28.6778541,77.36119286,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42288.0,2018-09-10,20:00,28.71374903,77.34355651,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42295.0,2018-09-22,16:45,28.70713549,77.35928529,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42301.0,2018-09-23,10:00,28.72401615,77.33480707,Minor injury,2.0,1.0,One way street,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42305.0,2018-09-28,14:45,28.69353449,77.35924006,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42321.0,2018-10-05,08:30,28.71324957,77.34010272,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42421.0,2018-12-12,14:48,28.68853709,77.35905191,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42437.0,2018-12-18,10:50,28.69496437,77.35681643,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42456.0,2018-12-26,15:05,28.70861535,77.36278101,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42470.0,2018-01-08,16:30,28.68056966,77.35330021,Minor injury,2.0,1.0,Single carriageway,Raining + high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+42520.0,2018-02-11,21:40,28.70546159,77.35686257,Minor injury,4.0,1.0,Unknown,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+42537.0,2018-02-21,14:14,28.70391917,77.33422048,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42562.0,2018-03-10,12:20,28.6831843,77.36157039,Minor injury,1.0,1.0,One way street,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42564.0,2018-03-10,08:00,28.7032379,77.33764872,Minor injury,1.0,2.0,One way street,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42566.0,2018-03-12,14:00,28.71461774,77.32830692,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42596.0,2018-04-07,13:30,28.72293524,77.31317865,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42598.0,2018-04-08,14:50,28.68109951,77.34790829,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42632.0,2018-04-23,15:35,28.70160224,77.3715216,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42669.0,2018-05-05,09:34,28.71218589,77.32300352,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42676.0,2018-05-06,12:35,28.72325139,77.29215091,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42766.0,2018-06-16,08:20,28.71429216,77.30263776,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42796.0,2018-07-03,22:24,28.69264325,77.33686103,Minor injury,2.0,3.0,Roundabout,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+42816.0,2018-07-15,13:11,28.71278894,77.2958757,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42822.0,2018-07-20,11:30,28.71828881,77.33863075,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42829.0,2018-07-24,20:15,28.6873969,77.33899669,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42852.0,2018-08-13,15:37,28.68285145,77.33934013,Minor injury,2.0,2.0,Unknown,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42892.0,2018-08-29,14:10,28.6876509,77.34756425,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42921.0,2018-09-16,08:20,28.70668987,77.29805658,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42981.0,2018-10-14,15:40,28.70887683,77.34047217,Minor injury,2.0,1.0,Unknown,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+42996.0,2018-10-25,21:30,28.69154889,77.35308513,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+43017.0,2018-11-01,08:00,28.71947915,77.35614176,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43026.0,2018-11-02,08:45,28.71479423,77.30419311,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,Uttar Pradesh,Ghaziabad
+43044.0,2018-11-17,02:10,28.68625925,77.34279016,Serious injury,1.0,1.0,Single carriageway,Other,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+43050.0,2018-11-15,09:46,28.69036815,77.34648427,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43059.0,2018-11-23,07:15,28.71337725,77.29946119,Minor injury,2.0,1.0,Single carriageway,Fog or mist,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+43061.0,2018-11-27,20:01,28.71454074,77.31643905,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+43083.0,2018-11-28,09:00,28.72291722,77.33159971,Minor injury,1.0,1.0,Single carriageway,Snowing no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43093.0,2018-12-07,15:21,28.72554672,77.29388747,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43106.0,2018-12-13,13:08,28.71822294,77.33385413,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43146.0,2018-01-05,23:10,28.72245845,77.37042995,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+43171.0,2018-01-14,11:30,28.71686357,77.34934291,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43191.0,2018-01-25,07:40,28.67748011,77.35256459,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43195.0,2018-01-28,20:30,28.72530926,77.33903417,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+43221.0,2018-02-07,23:15,28.67642909,77.35447889,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+43231.0,2018-02-09,16:25,28.72834246,77.29815807,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43260.0,2018-02-15,15:00,28.70570897,77.36556552,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43267.0,2018-03-04,12:10,28.71278982,77.30828713,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43315.0,2018-03-31,17:00,28.72741702,77.30114278,Minor injury,2.0,1.0,Unknown,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43382.0,2018-04-22,13:05,28.71686924,77.36920279,Minor injury,2.0,2.0,One way street,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43443.0,2018-05-21,14:15,28.71626816,77.33464043,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43454.0,2018-05-20,17:05,28.70687746,77.35298879,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43458.0,2018-05-23,10:42,28.68391804,77.3404458,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43491.0,2018-06-03,21:15,28.69925998,77.36531922,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights unlit,Uttar Pradesh,Ghaziabad
+43534.0,2018-06-16,19:50,28.72159363,77.31908609,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43547.0,2018-06-21,19:25,28.7244993,77.30814758,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43566.0,2018-06-27,15:25,28.6942457,77.3614077,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43576.0,2018-06-30,08:25,28.68897239,77.35443063,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43592.0,2018-06-29,16:15,28.72330233,77.33299585,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43595.0,2018-06-29,17:30,28.72659039,77.3362903,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43596.0,2018-07-04,18:35,28.68219266,77.36728537,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43601.0,2018-07-04,16:30,28.72412491,77.30811667,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43637.0,2018-07-16,19:30,28.72547962,77.32104543,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43646.0,2018-07-21,08:25,28.71312753,77.30069492,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43657.0,2018-07-27,14:30,28.72273102,77.29475849,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43661.0,2018-07-30,18:00,28.69897175,77.36945052,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43722.0,2018-08-26,12:20,28.70795316,77.34100285,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43728.0,2018-08-20,21:10,28.70745086,77.33636746,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Ghaziabad
+43794.0,2018-09-15,09:15,28.70344028,77.36459826,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Ghaziabad
+43797.0,2018-09-17,14:14,28.69151137,77.34282766,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghaziabad

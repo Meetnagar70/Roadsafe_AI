@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58858.0,2018-01-24,06:19,26.81851223,75.73241608,Minor injury,1.0,1.0,Dual carriageway,Raining no high winds,Darkness - no lighting,Rajasthan,Jaipur
+59255.0,2018-03-24,09:44,27.2562343,75.64643019,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaipur
+59293.0,2018-03-29,18:10,26.71224287,75.57363659,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jaipur
+59738.0,2018-05-26,22:45,26.96363287,75.98290871,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - no lighting,Rajasthan,Jaipur
+59815.0,2018-06-07,22:30,26.67296885,75.36747495,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Rajasthan,Jaipur

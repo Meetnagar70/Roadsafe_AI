@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58985.0,2018-02-09,07:50,25.18062441,81.64067201,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Allahabad

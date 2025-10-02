@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58879.0,2018-01-27,14:37,29.94183212,76.8651416,Minor injury,2.0,1.0,Single carriageway,Raining + high winds,Daylight,Haryana,Kurukshetra

@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58958.0,2018-02-06,17:11,21.47176283,70.90856403,Minor injury,5.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Amreli
+58961.0,2018-02-06,19:40,21.71657358,70.88055947,Serious injury,2.0,1.0,Dual carriageway,Other,Darkness - no lighting,Gujarat,Amreli
+59298.0,2018-03-30,16:57,21.4545774,71.13070622,Minor injury,4.0,3.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Amreli
+59498.0,2018-04-26,06:08,21.70388201,71.38699178,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Gujarat,Amreli
+59784.0,2018-06-02,20:00,20.92774106,71.22246049,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Amreli
+59934.0,2018-06-22,15:45,21.18674874,71.29542764,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Amreli

@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59196.0,2018-03-14,10:58,24.48058592,85.23874285,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Bihar,Gaya
+59267.0,2018-03-25,13:50,24.70457493,85.12218073,Fatal,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Bihar,Gaya
+59952.0,2018-06-24,11:56,24.56221434,84.40123681,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Bihar,Gaya

@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59591.0,2018-05-07,17:30,22.83302657,76.73246088,Minor injury,1.0,2.0,Roundabout,Fine no high winds,Daylight,Madhya Pradesh,Sehore
+59806.0,2018-06-05,17:00,22.79501307,77.54502042,Minor injury,1.0,1.0,Unknown,Fine no high winds,Daylight,Madhya Pradesh,Sehore

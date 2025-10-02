@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58800.0,2018-01-16,21:50,21.27542952,81.78570838,Serious injury,1.0,3.0,Single carriageway,Fine no high winds,Darkness - no lighting,Chhattisgarh,Raipur
+59509.0,2018-04-26,18:50,21.00304223,81.9843683,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Chhattisgarh,Raipur
+59601.0,2018-05-09,17:00,21.58764303,82.15275345,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Chhattisgarh,Raipur
+59725.0,2018-05-25,16:45,21.73315181,81.80473855,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Raipur

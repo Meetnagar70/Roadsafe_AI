@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59097.0,2018-02-25,12:20,22.99235818,87.88383987,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,West Bengal,Barddhaman
+59661.0,2018-05-16,19:42,23.4492883,87.94077967,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Barddhaman

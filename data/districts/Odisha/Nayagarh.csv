@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59376.0,2018-04-10,10:39,20.28140116,84.84062024,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Nayagarh
+59739.0,2018-05-27,07:43,20.48423885,84.73975088,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Odisha,Nayagarh

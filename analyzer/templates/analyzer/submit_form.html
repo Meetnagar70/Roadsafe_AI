@@ -1,0 +1,720 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ page_title }}{% endblock %}
+
+{% block content %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<style>
+    /* Override base.html container styling for submit form */
+    main.container {
+        max-width: 1200px !important;
+        padding: 2rem !important;
+        margin: 0 auto !important;
+        background: transparent !important;
+    }
+
+    .submit-container {
+        background: var(--background-color);
+        border-radius: 20px;
+        padding: 2rem;
+        box-shadow: var(--shadow-lg);
+        margin-bottom: 2rem;
+    }
+
+    .submit-header {
+        text-align: center;
+        margin-bottom: 3rem;
+        position: relative;
+    }
+
+    .submit-title {
+        font-size: 2.5rem;
+        font-weight: 800;
+        background: linear-gradient(135deg, var(--primary-color), var(--success-color));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 0.5rem;
+        letter-spacing: -0.02em;
+    }
+
+    .submit-subtitle {
+        font-size: 1.125rem;
+        color: var(--text-secondary);
+        font-weight: 500;
+        margin-bottom: 1rem;
+    }
+
+    .submit-instructions {
+        background: linear-gradient(135deg, rgba(37, 99, 235, 0.1), rgba(16, 185, 129, 0.1));
+        border: 1px solid rgba(37, 99, 235, 0.2);
+        border-radius: 12px;
+        padding: 1rem 1.5rem;
+        margin: 0 auto 2rem;
+        max-width: 600px;
+        color: var(--text-primary);
+        font-weight: 500;
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+    }
+
+    .map-container {
+        background: var(--surface-color);
+        border-radius: 16px;
+        padding: 1.5rem;
+        box-shadow: var(--shadow-md);
+        border: 1px solid var(--border-color);
+        margin-bottom: 2rem;
+        transition: all 0.3s ease;
+    }
+
+    .map-container:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-lg);
+    }
+
+    .map-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1rem;
+        padding-bottom: 0.75rem;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .map-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .map-status {
+        background: linear-gradient(135deg, var(--warning-color), #d97706);
+        color: white;
+        padding: 0.25rem 0.75rem;
+        border-radius: 20px;
+        font-size: 0.75rem;
+        font-weight: 600;
+    }
+
+    #map {
+        height: 450px;
+        border-radius: 12px;
+        cursor: crosshair;
+        border: 2px solid var(--border-color);
+        transition: border-color 0.3s ease;
+    }
+
+    #map:hover {
+        border-color: var(--primary-color);
+    }
+
+    .form-container {
+        background: var(--surface-color);
+        border-radius: 16px;
+        padding: 2rem;
+        box-shadow: var(--shadow-md);
+        border: 1px solid var(--border-color);
+    }
+
+    .form-header {
+        margin-bottom: 2rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .form-title {
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin: 0;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .form-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 1.5rem;
+        margin-bottom: 2rem;
+    }
+
+    .form-group {
+        position: relative;
+    }
+
+    .form-group.full-width {
+        grid-column: 1 / -1;
+    }
+
+    .form-label {
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 0.5rem;
+        font-size: 0.875rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .form-control, .form-select {
+        border: 2px solid var(--border-color);
+        border-radius: 12px;
+        padding: 0.875rem 1rem;
+        font-size: 1rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        background: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(10px);
+        width: 100%;
+    }
+
+    .form-control:focus, .form-select:focus {
+        border-color: var(--primary-color);
+        box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.1);
+        outline: none;
+        background: rgba(255, 255, 255, 0.95);
+        transform: translateY(-1px);
+    }
+
+    .form-control::placeholder {
+        color: var(--text-secondary);
+        font-weight: 400;
+    }
+
+    .btn-submit {
+        background: linear-gradient(135deg, var(--success-color), #059669);
+        border: none;
+        color: white;
+        font-weight: 600;
+        border-radius: 12px;
+        padding: 1rem 2rem;
+        font-size: 1.125rem;
+        width: 100%;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+    }
+
+    .btn-submit::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+        transition: left 0.5s;
+    }
+
+    .btn-submit:hover::before {
+        left: 100%;
+    }
+
+    .btn-submit:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-lg);
+        filter: brightness(1.1);
+    }
+
+    .btn-submit:active {
+        transform: translateY(0);
+    }
+
+    .required-indicator {
+        color: var(--danger-color);
+        font-weight: bold;
+    }
+
+    .location-info {
+        background: linear-gradient(135deg, rgba(16, 185, 129, 0.1), rgba(5, 150, 105, 0.1));
+        border: 1px solid var(--success-color);
+        border-radius: 8px;
+        padding: 0.75rem 1rem;
+        margin-top: 1rem;
+        color: #065f46;
+        font-size: 0.875rem;
+        font-weight: 500;
+        display: none;
+    }
+
+    .location-info.show {
+        display: block;
+        animation: fadeIn 0.5s ease-out;
+    }
+
+    .fade-in {
+        animation: fadeIn 0.6s ease-out;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Responsive design */
+    @media (max-width: 1024px) {
+        .form-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .submit-container {
+            padding: 1.5rem;
+        }
+        
+        .submit-title {
+            font-size: 2rem;
+        }
+        
+        .form-container {
+            padding: 1.5rem;
+        }
+        
+        #map {
+            height: 350px;
+        }
+    }
+</style>
+
+<div class="submit-container fade-in">
+    <!-- Header Section -->
+    <div class="submit-header">
+        <h1 class="submit-title">{{ page_title }}</h1>
+        <p class="submit-subtitle">Help make roads safer by reporting accident incidents</p>
+        <div class="submit-instructions">
+            <span>📍</span>
+            <span>First, locate the accident on the map below, then fill out the incident details</span>
+        </div>
+    </div>
+
+    <!-- Map Section -->
+    <div class="map-container">
+        <div class="map-header">
+            <h3 class="map-title">
+                <span>🗺️</span>
+                <span>Accident Location</span>
+            </h3>
+            <div class="map-status" id="mapStatus">Click to set location</div>
+        </div>
+        <div id="map"></div>
+        <div class="location-info" id="locationInfo">
+            <strong>📌 Location Selected:</strong> <span id="locationCoords"></span>
+        </div>
+    </div>
+
+    <!-- Form Section -->
+    <div class="form-container">
+        <div class="form-header">
+            <h3 class="form-title">
+                <span>📝</span>
+                <span>Incident Details</span>
+            </h3>
+        </div>
+
+        <form method="post" action="{% url 'submit_page' %}" novalidate>
+            {% csrf_token %}
+
+            <input type="hidden" name="latitude" id="latitude" required>
+            <input type="hidden" name="longitude" id="longitude" required>
+
+            <div class="form-grid">
+                <!-- Location Fields -->
+                <div class="form-group">
+                    <label for="state" class="form-label">
+                        <span>🏛️</span>
+                        <span>State</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <select name="state" id="state" class="form-select" required>
+                        <option value="">-- Select a State --</option>
+                        {% for state in all_states %}
+                            <option value="{{ state }}">{{ state }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="district" class="form-label">
+                        <span>🏘️</span>
+                        <span>District</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <select name="district" id="district" class="form-select" required disabled>
+                        <option value="">-- Select State First --</option>
+                    </select>
+                </div>
+
+                <!-- Date and Time -->
+                <div class="form-group">
+                    <label for="date" class="form-label">
+                        <span>📅</span>
+                        <span>Date of Accident</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <input type="date" name="date" id="date" class="form-control" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="time" class="form-label">
+                        <span>🕐</span>
+                        <span>Time of Accident</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <input type="time" name="time" id="time" class="form-control" required>
+                </div>
+
+                <!-- Vehicle and Casualty Information -->
+                <div class="form-group">
+                    <label for="num_vehicles" class="form-label">
+                        <span>🚗</span>
+                        <span>Number of Vehicles</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <input type="number" name="num_vehicles" id="num_vehicles" class="form-control" min="1" value="1" required>
+                </div>
+
+                <div class="form-group">
+                    <label for="num_casualties" class="form-label">
+                        <span>🏥</span>
+                        <span>Number of Casualties</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <input type="number" name="num_casualties" id="num_casualties" class="form-control" min="0" value="0" required>
+                </div>
+
+                <!-- Severity -->
+                <div class="form-group">
+                    <label for="severity" class="form-label">
+                        <span>⚠️</span>
+                        <span>Accident Severity</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <select name="severity" id="severity" class="form-select" required>
+                        <option value="">-- Select Severity --</option>
+                        <option value="Minor injury">Minor injury</option>
+                        <option value="Serious injury">Serious injury</option>
+                        <option value="Fatal injury">Fatal injury</option>
+                    </select>
+                </div>
+
+                <!-- Road Type -->
+                <div class="form-group">
+                    <label for="road_type" class="form-label">
+                        <span>🛣️</span>
+                        <span>Road Type</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <select name="road_type" id="road_type" class="form-select" required>
+                        <option value="">-- Select Road Type --</option>
+                        {% for road_type in road_types %}
+                            <option value="{{ road_type }}">{{ road_type }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <!-- Light Conditions -->
+                <div class="form-group">
+                    <label for="light_conditions" class="form-label">
+                        <span>💡</span>
+                        <span>Light Conditions</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <select name="light_conditions" id="light_conditions" class="form-select" required>
+                        <option value="">-- Select Light Conditions --</option>
+                        {% for light in light_conditions %}
+                            <option value="{{ light }}">{{ light }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+
+                <!-- Weather Conditions -->
+                <div class="form-group full-width">
+                    <label for="weather" class="form-label">
+                        <span>🌤️</span>
+                        <span>Weather Conditions</span>
+                        <span class="required-indicator">*</span>
+                    </label>
+                    <select name="weather" id="weather" class="form-select" required>
+                        <option value="">-- Select Weather Conditions --</option>
+                        {% for weather in weather_conditions %}
+                            <option value="{{ weather }}">{{ weather }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+            </div>
+
+            <button type="submit" class="btn-submit">
+                <span>🚀</span>
+                <span>Submit Accident Report</span>
+            </button>
+        </form>
+    </div>
+</div>
+
+<script>
+    // --- Enhanced Map Logic with Production Features ---
+    const map = L.map('map').setView([20.5937, 78.9629], 5); // Default to India
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+    
+    let marker; // Main accident marker
+    let userLocationMarker; // User's current location marker
+    const mapStatus = document.getElementById('mapStatus');
+    const locationInfo = document.getElementById('locationInfo');
+    const locationCoords = document.getElementById('locationCoords');
+
+    // --- Enhanced location finding with better UX ---
+    map.locate({setView: true, maxZoom: 16, timeout: 10000});
+
+    function onLocationFound(e) {
+        // Update status
+        mapStatus.textContent = 'Location found';
+        mapStatus.style.background = 'linear-gradient(135deg, var(--success-color), #059669)';
+        
+        // Add a styled circle to show current location
+        if (userLocationMarker) {
+            map.removeLayer(userLocationMarker);
+        }
+        
+        userLocationMarker = L.circleMarker(e.latlng, {
+            radius: 12,
+            fillColor: "#3b82f6",
+            color: "#ffffff",
+            weight: 3,
+            opacity: 1,
+            fillOpacity: 0.8
+        }).addTo(map);
+        
+        userLocationMarker.bindPopup(`
+            <div style="text-align: center;">
+                <strong>📍 Your Location</strong><br>
+                <small>Accuracy: ±${Math.round(e.accuracy)} meters</small>
+            </div>
+        `);
+        
+        // Auto-open popup briefly
+        userLocationMarker.openPopup();
+        setTimeout(() => {
+            userLocationMarker.closePopup();
+        }, 3000);
+    }
+
+    function onLocationError(e) {
+        mapStatus.textContent = 'Location not found';
+        mapStatus.style.background = 'linear-gradient(135deg, var(--warning-color), #d97706)';
+        
+        // Show a subtle notification instead of alert
+        const notification = document.createElement('div');
+        notification.style.cssText = `
+            position: fixed;
+            top: 100px;
+            right: 20px;
+            background: linear-gradient(135deg, rgba(239, 68, 68, 0.9), rgba(220, 38, 38, 0.9));
+            color: white;
+            padding: 1rem 1.5rem;
+            border-radius: 12px;
+            box-shadow: var(--shadow-lg);
+            z-index: 1000;
+            font-weight: 500;
+            backdrop-filter: blur(10px);
+        `;
+        notification.innerHTML = '⚠️ Could not find your location. Please click on the map to set the accident location.';
+        document.body.appendChild(notification);
+        
+        setTimeout(() => {
+            notification.style.opacity = '0';
+            notification.style.transform = 'translateX(100px)';
+            setTimeout(() => notification.remove(), 300);
+        }, 5000);
+    }
+
+    map.on('locationfound', onLocationFound);
+    map.on('locationerror', onLocationError);
+    
+    // --- Enhanced accident marker placement ---
+    map.on('click', function(e) {
+        const lat = e.latlng.lat.toFixed(6);
+        const lon = e.latlng.lng.toFixed(6);
+
+        // Update hidden form fields
+        document.getElementById('latitude').value = lat;
+        document.getElementById('longitude').value = lon;
+
+        // Remove old accident marker
+        if (marker) {
+            map.removeLayer(marker);
+        }
+        
+        // Create new styled accident marker
+        const accidentIcon = L.divIcon({
+            html: `
+                <div style="
+                    background: linear-gradient(135deg, #ef4444, #dc2626);
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 50% 50% 50% 0;
+                    border: 3px solid white;
+                    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+                    transform: rotate(-45deg);
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                ">
+                    <span style="transform: rotate(45deg); font-size: 14px;">🚨</span>
+                </div>
+            `,
+            className: 'custom-accident-marker',
+            iconSize: [30, 30],
+            iconAnchor: [15, 30]
+        });
+        
+        marker = L.marker([lat, lon], { icon: accidentIcon }).addTo(map);
+        marker.bindPopup(`
+            <div style="text-align: center;">
+                <strong>🚨 Accident Location</strong><br>
+                <small>Lat: ${lat}, Lng: ${lon}</small>
+            </div>
+        `).openPopup();
+
+        // Update UI elements
+        mapStatus.textContent = 'Location set';
+        mapStatus.style.background = 'linear-gradient(135deg, var(--success-color), #059669)';
+        
+        locationCoords.textContent = `${lat}, ${lon}`;
+        locationInfo.classList.add('show');
+        
+        // Add subtle animation to form
+        document.querySelector('.form-container').style.animation = 'pulse 0.5s ease-out';
+    });
+
+    // --- Enhanced Dynamic Dropdown Logic ---
+    const districtsByState = JSON.parse('{{ districts_by_state_json|safe }}');
+    const stateSelect = document.getElementById('state');
+    const districtSelect = document.getElementById('district');
+    
+    stateSelect.addEventListener('change', function() {
+        const selectedState = this.value;
+        districtSelect.innerHTML = '<option value="">-- Select a District --</option>';
+        
+        if (selectedState && districtsByState[selectedState]) {
+            districtSelect.disabled = false;
+            districtSelect.style.opacity = '1';
+            
+            districtsByState[selectedState].forEach(function(district) {
+                const option = document.createElement('option');
+                option.value = district;
+                option.textContent = district;
+                districtSelect.appendChild(option);
+            });
+            
+            // Add subtle animation
+            districtSelect.style.transform = 'scale(1.02)';
+            setTimeout(() => {
+                districtSelect.style.transform = 'scale(1)';
+            }, 200);
+        } else {
+            districtSelect.disabled = true;
+            districtSelect.style.opacity = '0.5';
+        }
+    });
+
+    // --- Form Validation and Enhancement ---
+    const form = document.querySelector('form');
+    const submitBtn = document.querySelector('.btn-submit');
+    
+    form.addEventListener('submit', function(e) {
+        const lat = document.getElementById('latitude').value;
+        const lon = document.getElementById('longitude').value;
+        
+        if (!lat || !lon) {
+            e.preventDefault();
+            
+            // Highlight map container
+            const mapContainer = document.querySelector('.map-container');
+            mapContainer.style.borderColor = 'var(--danger-color)';
+            mapContainer.style.animation = 'shake 0.5s ease-in-out';
+            
+            // Show error message
+            mapStatus.textContent = 'Please select location';
+            mapStatus.style.background = 'linear-gradient(135deg, var(--danger-color), #dc2626)';
+            
+            setTimeout(() => {
+                mapContainer.style.borderColor = 'var(--border-color)';
+                mapContainer.style.animation = '';
+            }, 1000);
+            
+            return;
+        }
+        
+        // Add loading state to submit button
+        submitBtn.innerHTML = `
+            <div style="display: flex; align-items: center; gap: 0.5rem;">
+                <div style="width: 16px; height: 16px; border: 2px solid rgba(255,255,255,0.3); border-top: 2px solid white; border-radius: 50%; animation: spin 1s linear infinite;"></div>
+                <span>Submitting Report...</span>
+            </div>
+        `;
+        submitBtn.disabled = true;
+    });
+
+    // --- Add CSS animations ---
+    const style = document.createElement('style');
+    style.textContent = `
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.02); }
+            100% { transform: scale(1); }
+        }
+        
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-5px); }
+            75% { transform: translateX(5px); }
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .custom-accident-marker {
+            transition: all 0.3s ease;
+        }
+        
+        .custom-accident-marker:hover {
+            transform: scale(1.1);
+        }
+    `;
+    document.head.appendChild(style);
+
+    // --- Add fade-in animation to form elements ---
+    window.addEventListener('load', function() {
+        const formGroups = document.querySelectorAll('.form-group');
+        formGroups.forEach((group, index) => {
+            group.style.opacity = '0';
+            group.style.transform = 'translateY(20px)';
+            setTimeout(() => {
+                group.style.transition = 'all 0.4s ease-out';
+                group.style.opacity = '1';
+                group.style.transform = 'translateY(0)';
+            }, index * 100);
+        });
+    });
+</script>
+{% endblock %}

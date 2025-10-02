@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58881.0,2018-01-26,05:30,23.8379523,77.27333353,Minor injury,2.0,1.0,Single carriageway,Raining + high winds,Daylight,Madhya Pradesh,Bhopal
+59091.0,2018-02-23,23:15,23.48631743,77.37734528,Minor injury,2.0,1.0,Single carriageway,Snowing + high winds,Darkness - no lighting,Madhya Pradesh,Bhopal

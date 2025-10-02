@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59136.0,2018-03-04,21:47,22.19593551,83.86004423,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Odisha,Sundargarh
+59287.0,2018-03-28,16:18,22.10409434,84.58717805,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Sundargarh
+59316.0,2018-04-02,20:20,22.34035019,84.56103349,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Odisha,Sundargarh
+59700.0,2018-05-23,08:25,22.02417293,84.57482558,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Odisha,Sundargarh
+59852.0,2018-06-13,09:55,22.31894425,83.86337458,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,Odisha,Sundargarh
+59941.0,2018-06-22,18:50,22.26440536,84.06027316,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Sundargarh

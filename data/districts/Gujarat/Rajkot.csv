@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58838.0,2018-01-21,19:14,22.35548884,70.80046909,Serious injury,2.0,2.0,Single carriageway,Other,Darkness - no lighting,Gujarat,Rajkot
+58889.0,2018-01-28,17:56,21.78019164,70.28177833,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - no lighting,Gujarat,Rajkot
+58929.0,2018-02-03,10:30,22.10141058,71.02477659,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Gujarat,Rajkot
+59869.0,2018-06-15,12:00,22.89018178,70.73308977,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Rajkot

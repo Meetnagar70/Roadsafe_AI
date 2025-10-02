@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58872.0,2018-01-26,17:01,21.85674584,78.9330287,Serious injury,3.0,3.0,Single carriageway,Fine no high winds,Darkness - no lighting,Madhya Pradesh,Chhindwara
+58885.0,2018-01-28,08:10,22.38264099,78.83997551,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Chhindwara
+58987.0,2018-02-09,12:05,22.20109723,78.51429701,Serious injury,3.0,4.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Chhindwara
+59145.0,2018-03-06,16:53,22.59373889,79.00624453,Serious injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Chhindwara
+59318.0,2018-04-03,06:30,21.62532353,78.61178122,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Chhindwara
+59326.0,2018-04-03,18:36,22.08618461,78.61955219,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Chhindwara

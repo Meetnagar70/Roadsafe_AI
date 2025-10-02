@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59503.0,2018-04-26,10:40,29.73323489,73.37390836,Minor injury,3.0,2.0,One way street,Fine no high winds,Daylight,Rajasthan,Ganganagar

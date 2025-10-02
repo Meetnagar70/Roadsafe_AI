@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59275.0,2018-03-26,18:55,25.57912721,87.02116814,Serious injury,1.0,3.0,Single carriageway,Raining no high winds,Darkness - no lighting,Bihar,Madhepura

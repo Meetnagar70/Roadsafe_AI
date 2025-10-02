@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58851.0,2018-01-23,09:55,24.31824235,81.66712166,Minor injury,1.0,1.0,Single carriageway,Snowing no high winds,Daylight,Madhya Pradesh,Sidhi

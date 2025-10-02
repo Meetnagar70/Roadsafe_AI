@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59003.0,2018-02-11,17:35,20.67182381,77.05278951,Minor injury,3.0,1.0,Dual carriageway,Raining no high winds,Darkness - no lighting,Maharashtra,Akola

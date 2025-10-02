@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58840.0,2018-01-21,19:40,23.45728732,83.23602647,Serious injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - no lighting,Chhattisgarh,Surguja
+58871.0,2018-01-26,16:43,23.85454113,82.64974999,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Chhattisgarh,Surguja
+59490.0,2018-04-24,23:02,23.84981314,83.12332311,Serious injury,1.0,4.0,Single carriageway,Fine no high winds,Darkness - no lighting,Chhattisgarh,Surguja
+59582.0,2018-05-06,19:00,23.44959977,83.26632098,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Surguja
+59598.0,2018-05-09,07:45,23.60086954,82.79855348,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Surguja
+59764.0,2018-05-31,11:05,23.46389983,82.9268544,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Surguja

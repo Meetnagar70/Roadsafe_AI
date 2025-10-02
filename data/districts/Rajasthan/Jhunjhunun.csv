@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59235.0,2018-03-21,14:48,28.27277107,75.68847055,Serious injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jhunjhunun
+59372.0,2018-04-09,13:00,27.87390317,75.28543092,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jhunjhunun

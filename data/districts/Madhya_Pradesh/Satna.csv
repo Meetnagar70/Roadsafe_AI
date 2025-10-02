@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59032.0,2018-02-15,14:30,24.69650769,81.01120786,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Satna
+59138.0,2018-03-05,13:10,24.75926856,80.41108695,Minor injury,4.0,3.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Satna
+59900.0,2018-05-19,15:58,24.40423753,81.06710477,Minor injury,4.0,3.0,Dual carriageway,Fine no high winds,Daylight,Madhya Pradesh,Satna

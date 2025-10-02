@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58918.0,2018-02-01,17:27,18.52047277,75.5269333,Minor injury,4.0,4.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Maharashtra,Osmanabad
+59207.0,2018-03-15,15:45,18.41989208,75.61658238,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Maharashtra,Osmanabad
+59752.0,2018-05-29,16:50,17.70161862,76.39765523,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Osmanabad

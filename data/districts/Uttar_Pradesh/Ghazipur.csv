@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59972.0,2018-06-26,16:15,25.5726341,83.43596157,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Ghazipur

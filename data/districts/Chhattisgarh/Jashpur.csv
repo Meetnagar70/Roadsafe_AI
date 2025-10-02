@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59411.0,2018-04-14,08:55,22.45970813,84.03594781,Serious injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Chhattisgarh,Jashpur

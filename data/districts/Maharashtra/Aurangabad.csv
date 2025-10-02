@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58834.0,2018-01-21,08:10,19.76241494,75.52070395,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Aurangabad
+58868.0,2018-01-25,23:18,19.96372695,75.22920812,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Maharashtra,Aurangabad
+59744.0,2018-05-27,18:17,20.07890495,75.52683876,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Aurangabad
+59760.0,2018-05-30,12:00,19.94780585,75.03797557,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Aurangabad
+59789.0,2018-06-03,20:23,20.3174441,75.38582905,Minor injury,2.0,1.0,Single carriageway,Other,Darkness - lights lit,Maharashtra,Aurangabad

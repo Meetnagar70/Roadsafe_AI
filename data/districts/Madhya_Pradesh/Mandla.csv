@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58883.0,2018-01-27,19:40,22.26403685,80.53763173,Minor injury,3.0,1.0,Single carriageway,Raining + high winds,Daylight,Madhya Pradesh,Mandla
+59108.0,2018-02-27,01:20,22.9227997,80.13090419,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Darkness - no lighting,Madhya Pradesh,Mandla
+59466.0,2018-04-22,12:04,22.38666998,80.58544828,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Mandla

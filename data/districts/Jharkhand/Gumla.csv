@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59830.0,2018-06-10,08:50,22.87811629,84.48506306,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Jharkhand,Gumla

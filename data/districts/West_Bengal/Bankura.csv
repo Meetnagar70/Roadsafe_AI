@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58969.0,2018-02-06,22:00,23.17666436,87.31194541,Minor injury,1.0,2.0,Single carriageway,Fog or mist,Darkness - no lighting,West Bengal,Bankura

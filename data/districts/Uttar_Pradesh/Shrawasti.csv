@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59826.0,2018-06-09,14:54,27.64485384,82.03266661,Minor injury,3.0,5.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Shrawasti

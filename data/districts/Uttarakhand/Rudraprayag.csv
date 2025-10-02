@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59426.0,2018-04-16,15:39,30.67360985,79.13236698,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttarakhand,Rudraprayag

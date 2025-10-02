@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58904.0,2018-01-31,10:45,17.48279776,80.2821666,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Khammam
+58973.0,2018-02-07,17:08,17.20530215,80.43412868,Serious injury,2.0,1.0,Single carriageway,Other,Darkness - lights lit,Andhra Pradesh,Khammam
+59149.0,2018-03-07,09:16,17.35360767,80.24953171,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Khammam
+59398.0,2018-04-13,09:20,17.76172823,80.92549538,Minor injury,2.0,4.0,Single carriageway,Unknown,Daylight,Andhra Pradesh,Khammam
+59792.0,2018-06-04,12:20,17.2010609,80.3461895,Minor injury,3.0,5.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Khammam

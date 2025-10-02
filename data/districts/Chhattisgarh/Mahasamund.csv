@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59030.0,2018-02-15,11:30,21.33170416,82.21532962,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Chhattisgarh,Mahasamund
+59528.0,2018-04-29,16:11,21.37328959,82.71041168,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Mahasamund

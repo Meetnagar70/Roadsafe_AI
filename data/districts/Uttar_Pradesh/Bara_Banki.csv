@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59322.0,2018-04-03,14:05,26.8518216,81.24651335,Serious injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Bara Banki
+59775.0,2018-06-01,17:54,27.19895156,81.09438898,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Bara Banki

@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58876.0,2018-01-27,07:29,24.14450244,71.57756925,Minor injury,3.0,2.0,Single carriageway,Raining no high winds,Darkness - no lighting,Gujarat,Banas Kantha
+59703.0,2018-05-23,09:30,24.47585973,71.40338824,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Banas Kantha
+59790.0,2018-06-03,22:09,24.44685661,72.00608288,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Gujarat,Banas Kantha
+59969.0,2018-06-26,12:18,23.92550756,71.9088056,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Banas Kantha

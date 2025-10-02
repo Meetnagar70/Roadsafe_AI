@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58892.0,2018-01-29,16:20,18.90607001,79.2287779,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Adilabad
+59274.0,2018-03-26,10:35,19.36207223,78.42435969,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Adilabad
+59561.0,2018-05-03,13:46,19.13961733,79.70546895,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Adilabad

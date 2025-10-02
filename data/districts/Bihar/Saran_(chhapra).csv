@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59156.0,2018-03-08,13:50,25.84465458,84.91766463,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Bihar,Saran (chhapra)
+59371.0,2018-04-09,11:00,26.02653493,84.67210527,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Bihar,Saran (chhapra)

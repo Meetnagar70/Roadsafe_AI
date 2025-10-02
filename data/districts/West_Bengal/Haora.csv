@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59975.0,2018-06-27,02:05,22.64406636,88.07416385,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,West Bengal,Haora

@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59211.0,2018-03-16,18:04,23.55758409,74.11508169,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Banswara
+59240.0,2018-03-22,13:05,23.78476722,74.36906337,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Rajasthan,Banswara
+59780.0,2018-06-02,11:25,23.2370216,74.27889227,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Banswara

@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59953.0,2018-06-24,14:37,25.99496011,74.34779405,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Rajsamand

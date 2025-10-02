@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59044.0,2018-02-17,18:05,15.95360229,76.91941015,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,Karnataka,Raichur
+59244.0,2018-03-22,19:39,16.33758802,77.31441004,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Karnataka,Raichur
+59603.0,2018-05-09,21:39,16.36525065,76.75857987,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Raichur
+59887.0,2018-06-18,16:38,16.00649456,76.79921871,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Raichur

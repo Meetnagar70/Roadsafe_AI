@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59284.0,2018-03-28,13:16,25.40093776,80.6050761,Fatal,4.0,4.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Banda
+59682.0,2018-04-24,13:10,25.55827585,80.83982285,Minor injury,2.0,1.0,Dual carriageway,Unknown,Daylight,Uttar Pradesh,Banda
+59896.0,2018-06-19,12:05,25.12664259,80.64010105,Serious injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Banda

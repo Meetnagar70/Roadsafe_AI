@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59133.0,2018-03-02,23:55,16.778976,79.52034998,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Andhra Pradesh,Nalgonda
+59312.0,2018-04-02,15:50,16.69004708,79.4613719,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Nalgonda
+59470.0,2018-04-22,14:08,16.95375006,79.51849391,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Andhra Pradesh,Nalgonda
+59655.0,2018-05-15,14:06,16.946223,80.02697223,Serious injury,2.0,6.0,Dual carriageway,Fine no high winds,Daylight,Andhra Pradesh,Nalgonda
+59951.0,2018-06-24,08:30,16.55804407,79.18086688,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Andhra Pradesh,Nalgonda

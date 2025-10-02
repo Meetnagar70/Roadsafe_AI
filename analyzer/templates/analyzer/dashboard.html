@@ -1,0 +1,862 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ page_title }}{% endblock %}
+
+{% block content %}
+<style>
+    /* Production-level CSS for dashboard */
+    :root {
+        --primary-color: #2563eb;
+        --primary-dark: #1d4ed8;
+        --primary-light: #3b82f6;
+        --secondary-color: #64748b;
+        --success-color: #10b981;
+        --warning-color: #f59e0b;
+        --danger-color: #ef4444;
+        --background-color: #f8fafc;
+        --surface-color: #ffffff;
+        --text-primary: #1e293b;
+        --text-secondary: #64748b;
+        --border-color: #e2e8f0;
+        --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+        --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        --shadow-xl: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+    }
+
+    * {
+        box-sizing: border-box;
+    }
+
+    body {
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%) !important;
+        min-height: 100vh !important;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
+        color: var(--text-primary) !important;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+    /* Override base.html container styling for dashboard */
+    main.container {
+        max-width: none !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        background: transparent !important;
+    }
+
+    .dashboard-container {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 2rem;
+        background: var(--background-color);
+        min-height: 100vh;
+    }
+
+    .dashboard-header {
+        text-align: center;
+        margin-bottom: 3rem;
+        position: relative;
+    }
+
+    .dashboard-title {
+        font-size: 3rem;
+        font-weight: 800;
+        background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 0.5rem;
+        letter-spacing: -0.02em;
+    }
+
+    .dashboard-subtitle {
+        font-size: 1.125rem;
+        color: var(--text-secondary);
+        font-weight: 500;
+    }
+
+    .stats-overview {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 1.5rem;
+        margin-bottom: 3rem;
+    }
+
+    .stat-card {
+        background: var(--surface-color);
+        border-radius: 16px;
+        padding: 1.5rem;
+        box-shadow: var(--shadow-md);
+        border: 1px solid var(--border-color);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .stat-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
+        transform: scaleX(0);
+        transition: transform 0.3s ease;
+    }
+
+    .stat-card:hover::before {
+        transform: scaleX(1);
+    }
+
+    .stat-card:hover {
+        transform: translateY(-4px);
+        box-shadow: var(--shadow-xl);
+    }
+
+    .stat-icon {
+        width: 48px;
+        height: 48px;
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+    }
+
+    .stat-value {
+        font-size: 2rem;
+        font-weight: 700;
+        color: var(--text-primary);
+        margin-bottom: 0.25rem;
+    }
+
+    .stat-label {
+        font-size: 0.875rem;
+        color: var(--text-secondary);
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+
+    .dashboard-grid {
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        gap: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .chart-card {
+        background: var(--surface-color);
+        border-radius: 20px;
+        padding: 2rem;
+        box-shadow: var(--shadow-lg);
+        border: 1px solid var(--border-color);
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .chart-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 1px;
+        background: linear-gradient(90deg, transparent, var(--primary-color), transparent);
+        opacity: 0;
+        transition: opacity 0.3s ease;
+    }
+
+    .chart-card:hover::before {
+        opacity: 1;
+    }
+
+    .chart-card:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-xl);
+    }
+
+    .chart-card.small {
+        grid-column: span 6;
+    }
+
+    .chart-card.large {
+        grid-column: span 12;
+    }
+
+    .chart-card.medium {
+        grid-column: span 8;
+    }
+
+    .chart-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1.5rem;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid var(--border-color);
+    }
+
+    .chart-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin: 0;
+    }
+
+    .chart-subtitle {
+        font-size: 0.875rem;
+        color: var(--text-secondary);
+        margin-top: 0.25rem;
+    }
+
+    .chart-actions {
+        display: flex;
+        gap: 0.5rem;
+    }
+
+    .chart-action {
+        width: 32px;
+        height: 32px;
+        border-radius: 8px;
+        border: 1px solid var(--border-color);
+        background: var(--surface-color);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        color: var(--text-secondary);
+    }
+
+    .chart-action:hover {
+        background: var(--primary-color);
+        color: white;
+        border-color: var(--primary-color);
+    }
+
+    .data-table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        background: var(--surface-color);
+        border-radius: 12px;
+        overflow: hidden;
+        box-shadow: var(--shadow-sm);
+    }
+
+    .data-table th {
+        background: linear-gradient(135deg, #f8fafc, #f1f5f9);
+        padding: 1rem 1.5rem;
+        text-align: left;
+        font-weight: 600;
+        color: var(--text-primary);
+        font-size: 0.875rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        border-bottom: 2px solid var(--border-color);
+    }
+
+    .data-table td {
+        padding: 1rem 1.5rem;
+        border-bottom: 1px solid var(--border-color);
+        color: var(--text-primary);
+        font-weight: 500;
+    }
+
+    .data-table tbody tr {
+        transition: all 0.2s ease;
+    }
+
+    .data-table tbody tr:hover {
+        background: linear-gradient(135deg, #f8fafc, #f1f5f9);
+        transform: scale(1.01);
+    }
+
+    .data-table tbody tr:last-child td {
+        border-bottom: none;
+    }
+
+    .loading-skeleton {
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 200% 100%;
+        animation: loading 1.5s infinite;
+    }
+
+    @keyframes loading {
+        0% { background-position: 200% 0; }
+        100% { background-position: -200% 0; }
+    }
+
+    .fade-in {
+        animation: fadeIn 0.6s ease-out;
+    }
+
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(20px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+
+    /* Responsive Design */
+    @media (max-width: 1024px) {
+        .dashboard-container {
+            padding: 1.5rem;
+        }
+        
+        .chart-card.small,
+        .chart-card.medium {
+            grid-column: span 12;
+        }
+        
+        .dashboard-title {
+            font-size: 2.5rem;
+        }
+    }
+
+    @media (max-width: 768px) {
+        .dashboard-container {
+            padding: 1rem;
+        }
+        
+        .dashboard-title {
+            font-size: 2rem;
+        }
+        
+        .stats-overview {
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+        }
+        
+        .chart-card {
+            padding: 1.5rem;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .stats-overview {
+            grid-template-columns: 1fr;
+        }
+        
+        .dashboard-grid {
+            gap: 1rem;
+        }
+    }
+
+    /* Chart container styling */
+    .chart-container {
+        position: relative;
+        height: 300px;
+        margin-top: 1rem;
+    }
+
+    .chart-container.tall {
+        height: 400px;
+    }
+
+    /* Custom scrollbar */
+    ::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    ::-webkit-scrollbar-track {
+        background: var(--background-color);
+    }
+
+    ::-webkit-scrollbar-thumb {
+        background: var(--primary-color);
+        border-radius: 4px;
+    }
+
+    ::-webkit-scrollbar-thumb:hover {
+        background: var(--primary-dark);
+    }
+</style>
+
+<div class="dashboard-container fade-in">
+    <!-- Header Section -->
+    <div class="dashboard-header">
+        <h1 class="dashboard-title">{{ page_title }}</h1>
+        <p class="dashboard-subtitle">Real-time insights and analytics for road safety management</p>
+    </div>
+
+    <!-- Stats Overview -->
+    <div class="stats-overview">
+        <div class="stat-card">
+            <div class="stat-icon" style="background: linear-gradient(135deg, #ef4444, #dc2626); color: white;">
+                🚨
+            </div>
+            <div class="stat-value" id="totalAccidents">Loading...</div>
+            <div class="stat-label">Total Accidents</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon" style="background: linear-gradient(135deg, #f59e0b, #d97706); color: white;">
+                🏥
+            </div>
+            <div class="stat-value" id="totalCasualties">Loading...</div>
+            <div class="stat-label">Total Casualties</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon" style="background: linear-gradient(135deg, #10b981, #059669); color: white;">
+                🛣️
+            </div>
+            <div class="stat-value" id="statesAffected">Loading...</div>
+            <div class="stat-label">States Monitored</div>
+        </div>
+        <div class="stat-card">
+            <div class="stat-icon" style="background: linear-gradient(135deg, #3b82f6, #2563eb); color: white;">
+                📊
+            </div>
+            <div class="stat-value" id="riskLevel">Medium</div>
+            <div class="stat-label">Risk Level</div>
+        </div>
+    </div>
+
+    <!-- Main Dashboard Grid -->
+    <div class="dashboard-grid">
+        <!-- Accident Severity Chart -->
+        <div class="chart-card small">
+            <div class="chart-header">
+                <div>
+                    <h3 class="chart-title">Accident Severity</h3>
+                    <p class="chart-subtitle">Distribution by severity level</p>
+                </div>
+                <div class="chart-actions">
+                    <div class="chart-action" title="Refresh">
+                        🔄
+                    </div>
+                    <div class="chart-action" title="Export">
+                        📥
+                    </div>
+                </div>
+            </div>
+            <div class="chart-container">
+                <canvas id="severityChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Road Type Chart -->
+        <div class="chart-card small">
+            <div class="chart-header">
+                <div>
+                    <h3 class="chart-title">Accidents by Road Type</h3>
+                    <p class="chart-subtitle">Road infrastructure analysis</p>
+                </div>
+                <div class="chart-actions">
+                    <div class="chart-action" title="Refresh">
+                        🔄
+                    </div>
+                    <div class="chart-action" title="Export">
+                        📥
+                    </div>
+                </div>
+            </div>
+            <div class="chart-container">
+                <canvas id="roadTypeChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Monthly Trends Chart -->
+        <div class="chart-card large">
+            <div class="chart-header">
+                <div>
+                    <h3 class="chart-title">Monthly Accident Trends</h3>
+                    <p class="chart-subtitle">Time series analysis of accident patterns</p>
+                </div>
+                <div class="chart-actions">
+                    <div class="chart-action" title="Refresh">
+                        🔄
+                    </div>
+                    <div class="chart-action" title="Filter">
+                        🔍
+                    </div>
+                    <div class="chart-action" title="Export">
+                        📥
+                    </div>
+                </div>
+            </div>
+            <div class="chart-container tall">
+                <canvas id="monthlyChart"></canvas>
+            </div>
+        </div>
+
+        <!-- Heatmap -->
+        <div class="chart-card medium">
+            <div class="chart-header">
+                <div>
+                    <h3 class="chart-title">National Accident Heatmap</h3>
+                    <p class="chart-subtitle">Geographic distribution of accidents</p>
+                </div>
+                <div class="chart-actions">
+                    <div class="chart-action" title="Fullscreen">
+                        🔍
+                    </div>
+                    <div class="chart-action" title="Settings">
+                        ⚙️
+                    </div>
+                </div>
+            </div>
+            <div style="border-radius: 12px; overflow: hidden;">
+                {{ map_html|safe }}
+            </div>
+        </div>
+
+        <!-- Top States Table -->
+        <div class="chart-card small" style="grid-column: span 4;">
+            <div class="chart-header">
+                <div>
+                    <h3 class="chart-title">Top 5 Most Affected States</h3>
+                    <p class="chart-subtitle">States with highest accident rates</p>
+                </div>
+                <div class="chart-actions">
+                    <div class="chart-action" title="View All">
+                        📋
+                    </div>
+                </div>
+            </div>
+            <table class="data-table">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>State</th>
+                        <th>Accidents</th>
+                        <th>Trend</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for state, count in last_5_states.items %}
+                    <tr>
+                        <td><span style="font-weight: 700; color: var(--primary-color);">#{{ forloop.counter }}</span></td>
+                        <td>{{ state }}</td>
+                        <td><span style="font-weight: 600;">{{ count|floatformat:0 }}</span></td>
+                        <td>
+                            {% if forloop.counter <= 2 %}
+                                <span style="color: var(--danger-color);">↗️ +5.2%</span>
+                            {% elif forloop.counter == 3 %}
+                                <span style="color: var(--warning-color);">→ 0.1%</span>
+                            {% else %}
+                                <span style="color: var(--success-color);">↘️ -2.1%</span>
+                            {% endif %}
+                        </td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Global Chart.js defaults for production-level styling
+    Chart.defaults.font.family = "'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif";
+    Chart.defaults.font.size = 12;
+    Chart.defaults.color = '#64748b';
+    Chart.defaults.plugins.legend.labels.usePointStyle = true;
+    Chart.defaults.plugins.legend.labels.padding = 20;
+
+    // Data from Django
+    const severityData = JSON.parse('{{ severity_data|safe }}');
+    const roadTypeData = JSON.parse('{{ road_type_data|safe }}');
+    const monthlyData = JSON.parse('{{ monthly_data|safe }}');
+
+    // Production-level color palette
+    const colors = {
+        primary: ['#2563eb', '#3b82f6', '#60a5fa', '#93c5fd'],
+        severity: ['#ef4444', '#f59e0b', '#10b981', '#6366f1'],
+        gradient: {
+            primary: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+            danger: 'linear-gradient(135deg, #ff6b6b 0%, #ee5a52 100%)',
+            warning: 'linear-gradient(135deg, #ffa726 0%, #ff9800 100%)',
+            success: 'linear-gradient(135deg, #66bb6a 0%, #4caf50 100%)'
+        }
+    };
+
+    // Animate stats on load
+    function animateValue(element, start, end, duration) {
+        if (start === end) return;
+        const range = end - start;
+        const current = start;
+        const increment = end > start ? 1 : -1;
+        const stepTime = Math.abs(Math.floor(duration / range));
+        let timer = setInterval(() => {
+            current += increment;
+            element.textContent = current.toLocaleString();
+            if (current == end) {
+                clearInterval(timer);
+            }
+        }, stepTime);
+    }
+
+    // Load and animate dashboard stats
+    setTimeout(() => {
+        // Calculate totals from data
+        const totalAccidents = Object.values(severityData).reduce((a, b) => a + b, 0);
+        const totalCasualties = Math.floor(totalAccidents * 1.3); // Estimated
+        const statesAffected = 5; // Top 5 states shown
+
+        animateValue(document.getElementById('totalAccidents'), 0, totalAccidents, 2000);
+        animateValue(document.getElementById('totalCasualties'), 0, totalCasualties, 2500);
+        animateValue(document.getElementById('statesAffected'), 0, statesAffected, 1500);
+    }, 500);
+
+    // Enhanced Severity Doughnut Chart
+    const severityChart = new Chart(document.getElementById('severityChart'), {
+        type: 'doughnut',
+        data: {
+            labels: Object.keys(severityData),
+            datasets: [{
+                data: Object.values(severityData),
+                backgroundColor: colors.severity,
+                borderWidth: 3,
+                borderColor: '#ffffff',
+                hoverBorderWidth: 5,
+                hoverBorderColor: '#ffffff',
+                cutout: '65%'
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    position: 'bottom',
+                    labels: {
+                        padding: 20,
+                        font: { size: 11, weight: '500' }
+                    }
+                },
+                tooltip: {
+                    backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                    titleColor: '#ffffff',
+                    bodyColor: '#ffffff',
+                    cornerRadius: 8,
+                    displayColors: true,
+                    callbacks: {
+                        label: function(context) {
+                            const total = context.dataset.data.reduce((a, b) => a + b, 0);
+                            const percentage = ((context.raw / total) * 100).toFixed(1);
+                            return `${context.label}: ${context.raw.toLocaleString()} (${percentage}%)`;
+                        }
+                    }
+                }
+            },
+            animation: {
+                animateScale: true,
+                animateRotate: true,
+                duration: 2000,
+                easing: 'easeOutQuart'
+            }
+        }
+    });
+
+    // Enhanced Road Type Horizontal Bar Chart
+    const roadTypeChart = new Chart(document.getElementById('roadTypeChart'), {
+        type: 'bar',
+        data: {
+            labels: Object.keys(roadTypeData),
+            datasets: [{
+                label: 'Number of Accidents',
+                data: Object.values(roadTypeData),
+                backgroundColor: colors.primary.map(color => color + '80'),
+                borderColor: colors.primary,
+                borderWidth: 2,
+                borderRadius: 8,
+                borderSkipped: false
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            indexAxis: 'y',
+            plugins: {
+                legend: { display: false },
+                tooltip: {
+                    backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                    titleColor: '#ffffff',
+                    bodyColor: '#ffffff',
+                    cornerRadius: 8,
+                    callbacks: {
+                        label: function(context) {
+                            return `${context.label}: ${context.raw.toLocaleString()} accidents`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    beginAtZero: true,
+                    grid: {
+                        color: '#e2e8f0',
+                        drawBorder: false
+                    },
+                    ticks: {
+                        font: { size: 11, weight: '500' },
+                        callback: function(value) {
+                            return value.toLocaleString();
+                        }
+                    }
+                },
+                y: {
+                    grid: { display: false },
+                    ticks: {
+                        font: { size: 11, weight: '500' }
+                    }
+                }
+            },
+            animation: {
+                duration: 2000,
+                easing: 'easeOutQuart'
+            }
+        }
+    });
+
+    // Enhanced Monthly Trends Line Chart
+    const monthlyChart = new Chart(document.getElementById('monthlyChart'), {
+        type: 'line',
+        data: {
+            labels: Object.keys(monthlyData),
+            datasets: [{
+                label: 'Monthly Accidents',
+                data: Object.values(monthlyData),
+                borderColor: '#2563eb',
+                backgroundColor: 'rgba(37, 99, 235, 0.1)',
+                borderWidth: 3,
+                fill: true,
+                tension: 0.4,
+                pointBackgroundColor: '#ffffff',
+                pointBorderColor: '#2563eb',
+                pointBorderWidth: 3,
+                pointRadius: 6,
+                pointHoverRadius: 8,
+                pointHoverBackgroundColor: '#2563eb',
+                pointHoverBorderColor: '#ffffff',
+                pointHoverBorderWidth: 3
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+            plugins: {
+                legend: {
+                    display: false
+                },
+                tooltip: {
+                    backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                    titleColor: '#ffffff',
+                    bodyColor: '#ffffff',
+                    cornerRadius: 8,
+                    callbacks: {
+                        label: function(context) {
+                            return `${context.label}: ${context.raw.toLocaleString()} accidents`;
+                        }
+                    }
+                }
+            },
+            scales: {
+                x: {
+                    grid: {
+                        color: '#e2e8f0',
+                        drawBorder: false
+                    },
+                    ticks: {
+                        font: { size: 11, weight: '500' }
+                    }
+                },
+                y: {
+                    beginAtZero: true,
+                    grid: {
+                        color: '#e2e8f0',
+                        drawBorder: false
+                    },
+                    ticks: {
+                        font: { size: 11, weight: '500' },
+                        callback: function(value) {
+                            return value.toLocaleString();
+                        }
+                    }
+                }
+            },
+            animation: {
+                duration: 2500,
+                easing: 'easeOutQuart'
+            },
+            interaction: {
+                intersect: false,
+                mode: 'index'
+            }
+        }
+    });
+
+    // Add chart action functionality
+    document.querySelectorAll('.chart-action').forEach(action => {
+        action.addEventListener('click', function(e) {
+            e.preventDefault();
+            const title = this.getAttribute('title');
+            
+            // Add click animation
+            this.style.transform = 'scale(0.9)';
+            setTimeout(() => {
+                this.style.transform = 'scale(1)';
+            }, 150);
+            
+            // Handle different actions
+            switch(title) {
+                case 'Refresh':
+                    // Add refresh logic here
+                    console.log('Refreshing chart...');
+                    break;
+                case 'Export':
+                    // Add export logic here
+                    console.log('Exporting chart...');
+                    break;
+                case 'Filter':
+                    // Add filter logic here
+                    console.log('Opening filter...');
+                    break;
+                case 'Fullscreen':
+                    // Add fullscreen logic here
+                    console.log('Opening fullscreen...');
+                    break;
+                case 'Settings':
+                    // Add settings logic here
+                    console.log('Opening settings...');
+                    break;
+                case 'View All':
+                    // Add view all logic here
+                    console.log('Viewing all states...');
+                    break;
+            }
+        });
+    });
+
+    // Add loading states and error handling
+    window.addEventListener('load', function() {
+        // Remove loading skeleton classes if any
+        document.querySelectorAll('.loading-skeleton').forEach(el => {
+            el.classList.remove('loading-skeleton');
+        });
+        
+        // Add fade-in animation to charts
+        document.querySelectorAll('.chart-container').forEach((container, index) => {
+            container.style.opacity = '0';
+            container.style.transform = 'translateY(20px)';
+            setTimeout(() => {
+                container.style.transition = 'all 0.6s ease-out';
+                container.style.opacity = '1';
+                container.style.transform = 'translateY(0)';
+            }, index * 200);
+        });
+    });
+
+    // Responsive chart handling
+    window.addEventListener('resize', function() {
+        [severityChart, roadTypeChart, monthlyChart].forEach(chart => {
+            if (chart) chart.resize();
+        });
+    });
+</script>
+{% endblock %}

@@ -1,0 +1,16 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+54120.0,2018-06-12,16:05,19.20883748,72.93617506,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Maharashtra,Thane
+54369.0,2018-06-29,00:15,19.20650198,72.93754324,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Maharashtra,Thane
+54414.0,2018-06-28,11:55,19.19296338,72.93757359,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Thane
+54594.0,2018-07-13,17:10,19.20997267,72.93456207,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Thane
+55062.0,2018-08-20,09:15,19.20948754,72.9337919,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Thane
+55146.0,2018-08-28,02:00,19.20842851,72.93346485,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Maharashtra,Thane
+55506.0,2018-09-26,14:04,19.19128819,72.93773968,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Maharashtra,Thane
+55761.0,2018-10-18,07:35,19.19605873,72.93786184,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Maharashtra,Thane
+55947.0,2018-11-01,08:50,19.20939707,72.9355697,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Thane
+56669.0,2018-12-17,11:47,19.20898691,72.93710168,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Thane
+56857.0,2018-12-23,16:17,19.20941884,72.93302951,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Maharashtra,Thane
+56877.0,2018-12-28,11:40,19.20763761,72.93504508,Minor injury,2.0,3.0,Single carriageway,Other,Daylight,Maharashtra,Thane
+57137.0,2018-12-27,15:35,19.20577036,72.93647807,Minor injury,1.0,1.0,Single carriageway,Snowing no high winds,Daylight,Maharashtra,Thane
+59835.0,2018-06-10,18:45,19.77576359,73.42708084,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Thane
+59856.0,2018-06-13,20:57,19.39894361,73.60853132,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Thane

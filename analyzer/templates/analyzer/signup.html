@@ -1,0 +1,346 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ page_title }}{% endblock %}
+
+{% block content %}
+<style>
+    /* Override base.html container styling for auth pages */
+    main.container {
+        max-width: 500px !important;
+        padding: 2rem !important;
+        margin: 0 auto !important;
+        background: transparent !important;
+        min-height: calc(100vh - 200px);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .auth-container {
+        width: 100%;
+        max-width: 400px;
+        margin: 0 auto;
+    }
+
+    .auth-card {
+        background: rgba(255, 255, 255, 0.95);
+        backdrop-filter: blur(20px);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+        border-radius: 24px;
+        box-shadow: var(--shadow-xl);
+        padding: 3rem 2rem;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .auth-card::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        height: 4px;
+        background: linear-gradient(90deg, var(--primary-color), var(--primary-light), #06b6d4);
+    }
+
+    .auth-card:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+    }
+
+    .auth-header {
+        text-align: center;
+        margin-bottom: 2rem;
+    }
+
+    .auth-title {
+        font-size: 2rem;
+        font-weight: 700;
+        background: linear-gradient(135deg, var(--primary-color), #06b6d4);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        margin-bottom: 0.5rem;
+    }
+
+    .auth-subtitle {
+        color: var(--text-secondary);
+        font-size: 0.95rem;
+        font-weight: 500;
+    }
+
+    .auth-icon {
+        width: 64px;
+        height: 64px;
+        background: linear-gradient(135deg, var(--primary-color), #06b6d4);
+        border-radius: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto 1.5rem;
+        font-size: 1.75rem;
+        box-shadow: var(--shadow-md);
+    }
+
+    .form-group {
+        margin-bottom: 1.5rem;
+        position: relative;
+    }
+
+    .form-label {
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 0.5rem;
+        font-size: 0.875rem;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+
+    .form-control {
+        border: 2px solid var(--border-color);
+        border-radius: 12px;
+        padding: 0.875rem 1rem;
+        font-size: 1rem;
+        font-weight: 500;
+        transition: all 0.3s ease;
+        background: rgba(255, 255, 255, 0.8);
+        backdrop-filter: blur(10px);
+    }
+
+    .form-control:focus {
+        border-color: var(--primary-color);
+        box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.1);
+        outline: none;
+        background: rgba(255, 255, 255, 0.95);
+        transform: translateY(-1px);
+    }
+
+    .form-control::placeholder {
+        color: var(--text-secondary);
+        font-weight: 400;
+    }
+
+    .btn-auth {
+        background: linear-gradient(135deg, #06b6d4, #0891b2);
+        border: none;
+        color: white;
+        font-weight: 600;
+        border-radius: 12px;
+        padding: 0.875rem 2rem;
+        font-size: 1rem;
+        width: 100%;
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .btn-auth::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+        transition: left 0.5s;
+    }
+
+    .btn-auth:hover::before {
+        left: 100%;
+    }
+
+    .btn-auth:hover {
+        transform: translateY(-2px);
+        box-shadow: var(--shadow-lg);
+        filter: brightness(1.1);
+    }
+
+    .btn-auth:active {
+        transform: translateY(0);
+    }
+
+    .auth-footer {
+        text-align: center;
+        margin-top: 2rem;
+        padding-top: 1.5rem;
+        border-top: 1px solid var(--border-color);
+    }
+
+    .auth-footer-text {
+        color: var(--text-secondary);
+        font-size: 0.875rem;
+        margin-bottom: 0.5rem;
+    }
+
+    .auth-link {
+        color: var(--primary-color);
+        text-decoration: none;
+        font-weight: 600;
+        transition: all 0.3s ease;
+        position: relative;
+    }
+
+    .auth-link::after {
+        content: '';
+        position: absolute;
+        width: 0;
+        height: 2px;
+        bottom: -2px;
+        left: 50%;
+        background: var(--primary-color);
+        transition: all 0.3s ease;
+        transform: translateX(-50%);
+    }
+
+    .auth-link:hover::after {
+        width: 100%;
+    }
+
+    .auth-link:hover {
+        color: var(--primary-dark);
+        transform: translateY(-1px);
+    }
+
+    .error-message {
+        background: linear-gradient(135deg, rgba(239, 68, 68, 0.1), rgba(220, 38, 38, 0.1));
+        border: 1px solid var(--danger-color);
+        border-radius: 8px;
+        padding: 0.75rem 1rem;
+        margin-bottom: 1rem;
+        color: #7f1d1d;
+        font-size: 0.875rem;
+        font-weight: 500;
+    }
+
+    .help-text {
+        background: linear-gradient(135deg, rgba(37, 99, 235, 0.05), rgba(6, 182, 212, 0.05));
+        border: 1px solid rgba(37, 99, 235, 0.2);
+        border-radius: 8px;
+        padding: 0.5rem 0.75rem;
+        margin-top: 0.5rem;
+        color: var(--text-secondary);
+        font-size: 0.75rem;
+        font-weight: 500;
+    }
+
+    .fade-in {
+        animation: fadeInUp 0.6s ease-out;
+    }
+
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    /* Responsive design */
+    @media (max-width: 768px) {
+        main.container {
+            padding: 1rem !important;
+        }
+        
+        .auth-card {
+            padding: 2rem 1.5rem;
+            border-radius: 20px;
+        }
+        
+        .auth-title {
+            font-size: 1.75rem;
+        }
+    }
+</style>
+
+<div class="auth-container fade-in">
+    <div class="auth-card">
+        <div class="auth-header">
+            <div class="auth-icon">
+                👤
+            </div>
+            <h2 class="auth-title">{{ page_title }}</h2>
+            <p class="auth-subtitle">Create your account to get started with RoadSafeAI</p>
+        </div>
+
+        <form method="post" novalidate>
+            {% csrf_token %}
+            
+            {% if form.non_field_errors %}
+                <div class="error-message">
+                    {% for error in form.non_field_errors %}
+                        {{ error }}
+                    {% endfor %}
+                </div>
+            {% endif %}
+
+            {% for field in form %}
+                <div class="form-group">
+                    <label for="{{ field.id_for_label }}" class="form-label">
+                        {{ field.label }}
+                    </label>
+                    
+                    {% if field.name == 'username' %}
+                        <input type="text" 
+                               name="{{ field.name }}" 
+                               id="{{ field.id_for_label }}"
+                               class="form-control {% if field.errors %}is-invalid{% endif %}"
+                               placeholder="Choose a unique username"
+                               value="{{ field.value|default:'' }}"
+                               required>
+                    {% elif field.name == 'email' %}
+                        <input type="email" 
+                               name="{{ field.name }}" 
+                               id="{{ field.id_for_label }}"
+                               class="form-control {% if field.errors %}is-invalid{% endif %}"
+                               placeholder="Enter your email address"
+                               value="{{ field.value|default:'' }}">
+                    {% elif field.name == 'password1' %}
+                        <input type="password" 
+                               name="{{ field.name }}" 
+                               id="{{ field.id_for_label }}"
+                               class="form-control {% if field.errors %}is-invalid{% endif %}"
+                               placeholder="Create a strong password"
+                               required>
+                    {% elif field.name == 'password2' %}
+                        <input type="password" 
+                               name="{{ field.name }}" 
+                               id="{{ field.id_for_label }}"
+                               class="form-control {% if field.errors %}is-invalid{% endif %}"
+                               placeholder="Confirm your password"
+                               required>
+                    {% else %}
+                        {{ field }}
+                    {% endif %}
+                    
+                    {% if field.help_text %}
+                        <div class="help-text">
+                            {{ field.help_text }}
+                        </div>
+                    {% endif %}
+                    
+                    {% if field.errors %}
+                        <div class="error-message mt-2">
+                            {% for error in field.errors %}
+                                {{ error }}
+                            {% endfor %}
+                        </div>
+                    {% endif %}
+                </div>
+            {% endfor %}
+
+            <button type="submit" class="btn-auth">
+                <span>✨ Create Account</span>
+            </button>
+        </form>
+
+        <div class="auth-footer">
+            <p class="auth-footer-text">Already have an account?</p>
+            <a href="{% url 'login' %}" class="auth-link">Sign In</a>
+        </div>
+    </div>
+</div>
+{% endblock %}

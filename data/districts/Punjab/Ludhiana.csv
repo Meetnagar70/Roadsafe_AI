@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59342.0,2018-04-05,18:35,30.95935648,76.03968157,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Punjab,Ludhiana
+59510.0,2018-04-27,07:50,30.86955993,75.90230511,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Punjab,Ludhiana
+59770.0,2018-06-01,13:40,30.82344993,75.49363832,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Punjab,Ludhiana

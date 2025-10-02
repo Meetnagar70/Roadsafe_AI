@@ -1,0 +1,23 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58826.0,2018-01-19,14:47,22.92202838,87.71045401,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Hugli
+58835.0,2018-01-21,15:14,23.67498483,87.73469652,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,West Bengal,Birbhum
+58952.0,2018-02-05,19:45,25.56862905,88.25061065,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,West Bengal,Uttar Dinajpur
+58969.0,2018-02-06,22:00,23.17666436,87.31194541,Minor injury,1.0,2.0,Single carriageway,Fog or mist,Darkness - no lighting,West Bengal,Bankura
+59022.0,2018-02-14,15:15,24.25305916,87.76876815,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,West Bengal,Birbhum
+59097.0,2018-02-25,12:20,22.99235818,87.88383987,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,West Bengal,Barddhaman
+59223.0,2018-03-18,22:00,23.8323797,87.93593952,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,West Bengal,Murshidabad
+59238.0,2018-03-21,19:15,23.57119496,88.31962855,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Nadia
+59247.0,2018-03-16,10:00,22.35248057,87.13142318,Minor injury,2.0,1.0,Single carriageway,Unknown,Daylight,West Bengal,Pashchim Medinipur
+59254.0,2018-03-29,07:56,23.93433828,88.33326594,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,West Bengal,Murshidabad
+59302.0,2018-03-31,11:05,21.84515527,87.49583836,Serious injury,1.0,3.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Purba Medinipur
+59358.0,2018-04-07,10:00,22.80562732,88.41692229,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,West Bengal,North 24 Parganas
+59397.0,2018-04-13,07:30,23.57607042,87.8426363,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,West Bengal,Birbhum
+59460.0,2018-04-21,15:26,22.62698316,87.80821529,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Pashchim Medinipur
+59477.0,2018-04-22,17:10,25.09232558,88.18817283,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Maldah
+59594.0,2018-05-08,15:22,24.01305701,88.29833379,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Murshidabad
+59640.0,2018-05-14,13:35,22.6452044,87.29829332,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Pashchim Medinipur
+59661.0,2018-05-16,19:42,23.4492883,87.94077967,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Barddhaman
+59872.0,2018-06-17,09:51,24.0836002,87.75758129,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,West Bengal,Birbhum
+59955.0,2018-06-24,19:45,24.28272151,88.46168474,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Murshidabad
+59975.0,2018-06-27,02:05,22.64406636,88.07416385,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,West Bengal,Haora
+59981.0,2018-06-27,18:20,22.70364289,87.87136273,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,West Bengal,Hugli

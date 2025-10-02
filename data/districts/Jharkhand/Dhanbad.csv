@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58808.0,2018-01-18,04:07,23.80494669,86.69031698,Minor injury,1.0,2.0,Single carriageway,Snowing no high winds,Darkness - no lighting,Jharkhand,Dhanbad

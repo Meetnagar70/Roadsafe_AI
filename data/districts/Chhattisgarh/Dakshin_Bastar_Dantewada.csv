@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59155.0,2018-03-08,10:10,17.94809117,81.1319362,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Dakshin Bastar Dantewada
+59339.0,2018-04-05,12:39,17.96750428,81.2403571,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Dakshin Bastar Dantewada
+59399.0,2018-04-13,09:25,19.16984518,81.27465575,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Dakshin Bastar Dantewada
+59596.0,2018-05-08,18:00,18.75031045,81.75169687,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Dakshin Bastar Dantewada
+59678.0,2018-05-19,08:50,18.77813513,81.23737585,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Dakshin Bastar Dantewada

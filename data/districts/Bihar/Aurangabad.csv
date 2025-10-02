@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59037.0,2018-02-16,17:10,24.50042723,84.13544219,Minor injury,3.0,1.0,Single carriageway,Other,Daylight,Bihar,Aurangabad
+59675.0,2018-05-18,21:10,24.92400064,84.48886643,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Bihar,Aurangabad
+59859.0,2018-06-14,14:55,24.56562229,84.28017043,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Bihar,Aurangabad

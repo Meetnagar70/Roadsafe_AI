@@ -1,0 +1,438 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+13005.0,2018-03-07,08:20,15.30389687,74.07096727,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13018.0,2018-03-12,09:45,15.35268349,74.02406671,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13031.0,2018-03-14,21:31,15.3457186,74.05344742,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13036.0,2018-03-21,07:50,15.36651032,74.08160685,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13040.0,2018-03-25,23:15,15.3492284,74.04463535,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13041.0,2018-03-25,18:00,15.27726519,74.09730027,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13046.0,2018-03-26,21:36,15.33904084,74.00627152,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13048.0,2018-03-28,22:35,15.32546627,74.03052453,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13070.0,2018-04-05,14:50,15.33392072,74.08451285,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13086.0,2018-03-29,13:00,15.3129828,74.02759983,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13090.0,2018-04-08,20:54,15.35453068,74.05994898,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13091.0,2018-04-08,21:38,15.31135797,74.07798288,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,Goa,North Goa
+13109.0,2018-04-16,19:00,15.31694692,74.07331557,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13115.0,2018-04-14,17:10,15.31747827,74.02250326,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13118.0,2018-04-16,21:55,15.34445436,74.08279964,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13123.0,2018-04-18,08:03,15.34606974,74.07836593,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13126.0,2018-04-18,11:18,15.30937266,74.04482605,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13132.0,2018-04-22,10:50,15.35164358,74.03304479,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+13134.0,2018-04-24,21:07,15.30936156,74.06086648,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+13138.0,2018-04-20,10:45,15.32940919,74.05974813,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13147.0,2018-04-22,10:20,15.31395925,74.02294561,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13148.0,2018-04-28,18:30,15.32167265,74.03582272,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13149.0,2018-04-28,07:50,15.32724779,74.07452152,Serious injury,5.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13152.0,2018-04-29,11:38,15.33876981,74.03826775,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13171.0,2018-05-12,18:00,15.27631691,74.101043,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13186.0,2018-05-11,19:50,15.3051603,74.08309109,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13187.0,2018-05-15,10:41,15.2938563,74.07303912,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13189.0,2018-05-16,12:50,15.34451063,74.02908062,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13191.0,2018-05-12,08:32,15.31265215,74.02170213,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13195.0,2018-05-18,14:30,15.32233223,74.05074546,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13199.0,2018-05-04,07:12,15.29179544,74.07486273,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13209.0,2018-05-24,13:38,15.3079895,74.01644269,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13211.0,2018-05-27,14:25,15.33805379,74.08551972,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13217.0,2018-05-26,19:01,15.28646387,74.08731189,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13223.0,2018-06-01,11:45,15.29269061,74.0720137,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13234.0,2018-06-05,15:05,15.36095141,74.02944153,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13238.0,2018-06-12,15:30,15.32429324,74.02343354,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13239.0,2018-06-05,18:15,15.36051453,74.00286461,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13247.0,2018-06-17,19:00,15.34317885,74.02378526,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13252.0,2018-06-14,09:00,15.30899459,74.0123901,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13266.0,2018-06-14,22:15,15.35938653,74.08686781,Minor injury,1.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13269.0,2018-06-20,16:08,15.36447383,74.03827014,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13274.0,2018-06-17,20:30,15.28450959,74.09573011,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13276.0,2018-06-10,16:10,15.29533932,74.09271196,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13280.0,2018-06-18,09:25,15.34104176,74.0273396,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13285.0,2018-06-24,19:25,15.32473878,74.05025461,Serious injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13292.0,2018-06-29,07:25,15.35450398,74.09333542,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13308.0,2018-07-03,14:50,15.30500065,74.05493743,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13341.0,2018-06-30,06:54,15.32462091,74.02728671,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13349.0,2018-07-19,17:49,15.32436611,74.00991051,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13350.0,2018-06-19,08:55,15.31010196,74.08571316,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13356.0,2018-07-27,16:20,15.35100886,74.01035382,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,Goa,North Goa
+13357.0,2018-08-12,09:30,15.35826008,74.03397427,Serious injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+13358.0,2018-08-03,13:00,15.32160415,74.01792931,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13370.0,2018-08-09,08:55,15.289034,74.07534811,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13376.0,2018-08-13,04:00,15.30621615,74.05296712,Minor injury,1.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13379.0,2018-08-18,22:57,15.3028318,74.05274143,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13396.0,2018-07-23,15:09,15.33118588,74.03631561,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13416.0,2018-07-28,08:43,15.32275516,74.06494857,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13418.0,2018-08-16,07:44,15.33546322,74.06430523,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13426.0,2018-05-22,15:35,15.35484243,74.08680759,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13429.0,2018-09-03,23:30,15.31730386,74.06063051,Minor injury,2.0,5.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13430.0,2018-09-05,18:39,15.36689884,74.05257538,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13432.0,2018-09-07,16:42,15.3143497,74.07232492,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13435.0,2018-08-30,17:45,15.31698465,74.07264899,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13437.0,2018-09-01,09:28,15.29226099,74.08466991,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13441.0,2018-09-18,19:00,15.3171041,74.00991154,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+13442.0,2018-09-25,14:15,15.32700119,74.03256798,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13444.0,2018-08-27,14:40,15.27938803,74.0739005,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13450.0,2018-09-09,13:00,15.35753828,73.9965268,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13457.0,2018-09-18,01:05,15.34688984,74.07627214,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13460.0,2018-10-02,21:30,15.36184472,74.03254833,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13463.0,2018-09-08,10:50,15.34255122,74.06467552,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13464.0,2018-09-20,23:00,15.33609669,74.04752319,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13476.0,2018-09-26,15:26,15.31662849,74.04284277,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13477.0,2018-09-23,14:00,15.30234905,74.08138505,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13487.0,2018-10-05,23:30,15.36619438,74.08881074,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13495.0,2018-10-03,14:33,15.30329508,74.04639153,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13499.0,2018-10-08,06:45,15.30466529,74.05086354,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13512.0,2018-10-09,15:46,15.32102529,74.08374161,Minor injury,4.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13514.0,2018-09-18,12:29,15.36014733,74.09247892,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+13517.0,2018-10-11,10:40,15.34683368,74.0974169,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13520.0,2018-10-05,00:25,15.35788433,74.01942454,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13531.0,2018-10-24,18:00,15.31036333,74.03681692,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13542.0,2018-11-03,12:02,15.30067602,74.04732459,Serious injury,2.0,1.0,Single carriageway,Raining + high winds,Daylight,Goa,North Goa
+13557.0,2018-11-07,08:15,15.30350194,74.06272814,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13564.0,2018-11-10,11:51,15.34799281,74.04999956,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13567.0,2018-11-14,12:55,15.35082035,74.00842255,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13579.0,2018-11-13,19:01,15.32166213,74.06333868,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13581.0,2018-11-17,05:40,15.32471846,74.06896922,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13593.0,2018-11-24,12:39,15.34712011,74.08476269,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13595.0,2018-11-18,10:44,15.35381817,74.00741138,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13598.0,2018-11-08,10:16,15.30862077,74.07753722,Minor injury,1.0,1.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+13601.0,2018-11-23,15:33,15.34344943,74.02640604,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13607.0,2018-11-26,08:38,15.30769388,74.07891676,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13622.0,2018-12-03,17:25,15.35579767,74.01385175,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13628.0,2018-12-06,12:00,15.3450889,74.03844505,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13631.0,2018-12-03,14:30,15.33013968,74.0231172,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13645.0,2018-12-12,19:43,15.31005246,74.08906502,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13651.0,2018-12-15,14:00,15.35299858,74.01705802,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Goa,North Goa
+13653.0,2018-12-16,12:06,15.36566682,73.99085305,Minor injury,2.0,1.0,Dual carriageway,Fine + high winds,Daylight,Goa,North Goa
+13658.0,2018-12-19,15:57,15.33395202,74.05882582,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13662.0,2018-12-23,16:16,15.36613264,74.03132311,Minor injury,4.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13665.0,2018-12-19,17:30,15.3582121,74.08568308,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13668.0,2018-12-21,15:15,15.34786314,74.0282405,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13669.0,2018-12-21,09:21,15.35478663,74.03468373,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13671.0,2018-12-21,14:45,15.31083554,74.02076052,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13676.0,2018-12-22,09:33,15.36332608,74.0353119,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13679.0,2018-12-29,14:50,15.36344118,74.09336758,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13680.0,2018-12-29,09:51,15.36654701,74.0997171,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Goa,North Goa
+13681.0,2018-12-31,23:45,15.30149533,74.04989766,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Goa,North Goa
+13688.0,2018-10-23,13:20,15.33617924,74.07155571,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+13692.0,2018-01-03,14:02,15.31723899,74.0112047,Minor injury,4.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13698.0,2018-01-10,13:30,15.30931939,74.0641669,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13708.0,2018-01-17,15:15,15.35818766,74.01572996,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13710.0,2018-01-12,18:20,15.31439327,74.06266343,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+13721.0,2018-01-24,13:02,15.36654262,74.1007987,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13730.0,2018-01-24,09:20,15.31024521,74.01461625,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13731.0,2018-01-29,12:30,15.34897376,74.0358628,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13735.0,2018-02-01,21:00,15.33255376,74.02711363,Minor injury,4.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+13743.0,2018-02-05,16:15,15.32541661,74.03000172,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13754.0,2018-02-13,17:00,15.32695679,74.07682354,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13755.0,2018-02-12,20:30,15.27563517,74.09351149,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13764.0,2018-02-21,09:50,15.35930019,73.98874482,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13767.0,2018-02-25,23:53,15.32997224,74.05580519,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13774.0,2018-02-26,17:04,15.32160339,74.0698777,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+13776.0,2018-02-10,20:50,15.2925895,74.07541646,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13781.0,2018-03-01,13:50,15.36484064,74.03719288,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13784.0,2018-03-03,23:45,15.35176807,74.04131823,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13787.0,2018-02-26,19:20,15.27759782,74.10483112,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+13788.0,2018-03-08,12:45,15.35806706,74.06591267,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13791.0,2018-03-17,18:30,15.3311223,74.00821153,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13801.0,2018-03-27,13:22,15.31107266,74.04833203,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13805.0,2018-03-17,16:00,15.34150083,74.06660425,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13810.0,2018-04-06,23:45,15.29693679,74.09398146,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13832.0,2018-04-12,09:15,15.33374286,74.01599885,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13842.0,2018-05-02,14:45,15.33210506,74.01372908,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13845.0,2018-05-03,08:55,15.31306162,74.05560385,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13846.0,2018-05-07,11:20,15.34656372,74.04153942,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13847.0,2018-05-08,07:59,15.33876134,74.02625875,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13851.0,2018-05-12,11:40,15.34070865,74.06050166,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13857.0,2018-04-21,02:35,15.30961084,74.09005735,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13861.0,2018-04-21,14:15,15.314678,74.081706,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13868.0,2018-05-25,09:50,15.30851968,74.0316164,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13870.0,2018-05-26,15:30,15.27956218,74.10479429,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13876.0,2018-05-30,21:53,15.33377436,74.00935213,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13883.0,2018-06-02,21:43,15.29009812,74.08691583,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13884.0,2018-06-06,20:38,15.3563086,74.08931161,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13888.0,2018-06-19,16:20,15.35323459,74.0896324,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13890.0,2018-06-08,16:40,15.30910783,74.08731188,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+13896.0,2018-06-20,13:00,15.34071991,74.07889974,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13907.0,2018-05-27,17:10,15.29907807,74.05610425,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Goa,North Goa
+13912.0,2018-06-21,13:15,15.32273462,74.04208717,Serious injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13913.0,2018-06-24,12:45,15.33848593,74.05368807,Serious injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+13929.0,2018-07-13,19:55,15.35141852,74.0208236,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13934.0,2018-07-11,17:15,15.34132013,74.02872701,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13943.0,2018-04-07,13:13,15.34490923,74.09387006,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13949.0,2018-06-30,22:15,15.36398351,74.01513768,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13960.0,2018-07-04,16:06,15.35719437,74.08028684,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13963.0,2018-07-22,17:47,15.3411466,74.03305694,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13967.0,2018-07-25,20:32,15.3584566,74.03431913,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13978.0,2018-08-02,23:38,15.33131498,74.04158139,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13985.0,2018-08-07,18:30,15.33205388,74.0489491,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13986.0,2018-08-14,00:54,15.3660754,74.05603754,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+13994.0,2018-08-18,12:56,15.32048943,74.07083733,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13995.0,2018-08-08,14:15,15.34105984,74.03710758,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+13997.0,2018-07-17,18:00,15.34219439,74.0842185,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14002.0,2018-08-22,17:23,15.30704926,74.06041571,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14007.0,2018-08-24,18:30,15.35764363,74.04533477,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14008.0,2018-08-21,01:34,15.27945574,74.08857183,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14024.0,2018-09-08,12:30,15.30273001,74.05891594,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14030.0,2018-08-20,14:03,15.35013952,74.06252341,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14034.0,2018-09-21,17:12,15.34474601,74.0422366,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14038.0,2018-09-19,19:20,15.33870546,74.04359825,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14040.0,2018-09-21,17:25,15.29869019,74.09234348,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14046.0,2018-09-28,08:40,15.30913648,74.0480644,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14051.0,2018-09-11,20:03,15.32236913,74.0603757,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14078.0,2018-10-03,15:00,15.29661499,74.0927502,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14079.0,2018-10-13,10:17,15.30620715,74.08177311,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14084.0,2018-10-19,13:10,15.33262397,74.01277956,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14089.0,2018-10-20,13:00,15.357564,74.06302735,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14093.0,2018-10-27,08:00,15.3544778,74.09233347,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14096.0,2018-08-17,14:45,15.33035029,74.03090659,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14098.0,2018-10-17,15:15,15.35121685,74.0147114,Minor injury,2.0,3.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+14109.0,2018-11-02,22:29,15.35946612,74.02054262,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+14115.0,2018-10-26,19:32,15.32216114,74.0710126,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14125.0,2018-10-10,17:25,15.36378515,74.09801993,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14127.0,2018-11-03,09:57,15.31623698,74.02296743,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14134.0,2018-11-14,09:24,15.30541944,74.03025935,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14136.0,2018-09-15,07:40,15.31340303,74.08631149,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Daylight,Goa,North Goa
+14137.0,2018-11-14,07:19,15.32024622,74.02802621,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14141.0,2018-11-16,08:47,15.33549904,74.0147551,Minor injury,2.0,6.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14148.0,2018-11-21,08:57,15.33406098,74.0829111,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14155.0,2018-11-27,14:05,15.30763648,74.01322707,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14157.0,2018-11-21,11:50,15.35207984,74.00342082,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14160.0,2018-11-14,09:47,15.32614302,74.0509223,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14161.0,2018-11-18,22:44,15.36318695,74.05186142,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+14174.0,2018-12-18,23:15,15.32414917,74.08293225,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14177.0,2018-12-15,18:50,15.36487653,74.00985908,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14183.0,2018-11-21,14:45,15.36119792,74.08593962,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14188.0,2018-12-19,20:31,15.30416337,74.02779039,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14208.0,2018-09-21,16:00,15.3600099,74.01929874,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14212.0,2018-12-31,22:00,15.29027935,74.08501422,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14218.0,2018-01-06,15:57,15.36159314,74.03874669,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14219.0,2018-01-12,13:13,15.32531897,74.06448367,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14220.0,2018-01-10,18:50,15.34627022,74.05138105,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+14226.0,2018-01-08,07:20,15.34059191,74.01160409,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14228.0,2018-01-01,20:05,15.34963818,74.03237893,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14231.0,2018-01-18,08:30,15.3154222,74.04379835,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14232.0,2018-01-13,19:49,15.3316391,74.06146083,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14236.0,2018-01-04,07:50,15.28129005,74.10261226,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14246.0,2018-01-24,08:30,15.31999674,74.06658765,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14249.0,2018-01-02,12:40,15.30748438,74.07033859,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14256.0,2018-01-25,18:00,15.34346863,74.00946394,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14261.0,2018-01-29,18:00,15.35605594,74.04380992,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14265.0,2018-01-22,11:42,15.36534937,74.07013264,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14267.0,2018-01-31,20:10,15.31764857,74.05675922,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14273.0,2018-01-22,16:10,15.33194142,74.08457593,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14287.0,2018-01-17,19:55,15.30294104,74.05470855,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14292.0,2018-02-11,19:45,15.32777091,74.07051045,Minor injury,3.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+14303.0,2018-02-10,08:56,15.34739151,74.08656667,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14304.0,2018-02-11,09:50,15.331209,74.08598654,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Goa,North Goa
+14306.0,2018-02-18,11:10,15.34698232,74.02019462,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14319.0,2018-02-28,08:25,15.30384722,74.05845927,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14337.0,2018-03-04,15:35,15.36393749,74.03156566,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14340.0,2018-03-04,16:19,15.33559972,74.0402738,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14354.0,2018-03-16,20:29,15.30331122,74.06910593,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14359.0,2018-02-28,16:50,15.31523039,74.0864127,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14361.0,2018-03-03,21:00,15.35705496,74.00301278,Minor injury,3.0,1.0,Single carriageway,Snowing no high winds,Darkness - lights lit,Goa,North Goa
+14362.0,2018-03-01,17:19,15.30864283,74.04607917,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+14363.0,2018-03-20,17:12,15.27338252,74.0971431,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14371.0,2018-03-22,13:11,15.28918005,74.10292413,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14372.0,2018-02-28,17:40,15.34058851,74.04873242,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14374.0,2018-03-26,20:20,15.35058258,74.04325028,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+14375.0,2018-03-02,13:05,15.36066255,74.04300082,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14377.0,2018-03-29,15:26,15.36640402,74.00447235,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14378.0,2018-03-29,12:18,15.34560358,74.01605789,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14379.0,2018-04-01,09:05,15.34451287,74.0885033,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14381.0,2018-04-02,02:17,15.32622347,74.00890242,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14392.0,2018-03-19,13:01,15.28773211,74.0901901,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14415.0,2018-03-23,15:30,15.3015253,74.04671122,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14418.0,2018-04-17,20:51,15.34247466,74.06715335,Minor injury,2.0,2.0,Dual carriageway,Raining no high winds,Daylight,Goa,North Goa
+14420.0,2018-04-18,09:58,15.30736997,74.07265797,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14437.0,2018-04-25,12:00,15.34544234,74.03708513,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14447.0,2018-04-25,10:53,15.33905332,74.06787058,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14462.0,2018-05-06,14:30,15.28450918,74.08259583,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14464.0,2018-05-06,16:45,15.30304062,74.08717783,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14467.0,2018-05-03,18:45,15.35235804,74.00248009,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14473.0,2018-05-13,07:27,15.32966944,74.007205,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+14479.0,2018-05-16,11:45,15.31422136,74.04490886,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14481.0,2018-05-09,07:25,15.31973784,74.01937281,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14482.0,2018-05-13,07:15,15.30108677,74.07476716,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14490.0,2018-05-21,06:30,15.33278032,74.05379155,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14498.0,2018-05-10,13:35,15.31446465,74.07754424,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14503.0,2018-05-19,18:00,15.29835701,74.05689476,Serious injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14513.0,2018-05-06,15:05,15.36186311,74.07736275,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14517.0,2018-05-27,15:45,15.34858915,74.03121203,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14521.0,2018-05-26,09:11,15.32623254,74.06161915,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14522.0,2018-05-30,07:09,15.35153357,74.03446838,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14526.0,2018-05-10,08:40,15.31966172,74.08012776,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Goa,North Goa
+14541.0,2018-05-24,10:45,15.31133034,74.0114976,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14545.0,2018-06-02,09:40,15.33820844,74.07465255,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14554.0,2018-05-16,17:40,15.36276015,74.00830608,Minor injury,3.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14566.0,2018-05-31,16:45,15.32099157,74.02058918,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14577.0,2018-06-17,19:40,15.34747873,74.08363333,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14584.0,2018-05-20,08:50,15.33720161,74.0630498,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14602.0,2018-06-23,12:10,15.34123127,74.07568826,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14605.0,2018-06-23,10:00,15.3240997,74.06535632,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14606.0,2018-06-26,19:38,15.36101311,74.09419068,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14607.0,2018-06-27,08:50,15.36636996,74.07866288,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14624.0,2018-06-17,23:18,15.34384187,74.03175932,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14627.0,2018-07-03,16:52,15.32523902,74.07091878,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14631.0,2018-07-03,14:40,15.36371637,74.04546975,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14646.0,2018-07-13,15:45,15.35644126,73.99389144,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14647.0,2018-05-21,16:20,15.34500393,74.06604466,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14653.0,2018-06-27,22:15,15.31693613,74.01395348,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14656.0,2018-06-28,16:10,15.35260354,74.02397041,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14657.0,2018-07-13,12:50,15.33880701,74.07596254,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14672.0,2018-07-04,21:41,15.36494569,74.05406343,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14674.0,2018-07-17,22:40,15.32262803,74.08022092,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14681.0,2018-07-08,14:15,15.36040438,74.04942742,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14690.0,2018-07-20,13:48,15.32875556,74.0618897,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14696.0,2018-07-22,14:30,15.32240198,74.03974374,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14704.0,2018-08-04,05:56,15.36057918,73.99297257,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14713.0,2018-08-08,19:08,15.280075,74.10292439,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14723.0,2018-08-07,08:10,15.32537506,74.05367384,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14738.0,2018-07-23,18:46,15.32506319,74.05808931,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14739.0,2018-08-10,21:30,15.29553852,74.09061257,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14742.0,2018-08-04,14:00,15.3070413,74.03169098,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14745.0,2018-08-18,20:10,15.27392179,74.09485798,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14751.0,2018-08-01,16:30,15.31432322,74.04214727,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14753.0,2018-07-30,12:15,15.30407212,74.02451611,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14754.0,2018-08-15,12:44,15.35088697,74.07104239,Minor injury,2.0,1.0,Slip road,Fine no high winds,Daylight,Goa,North Goa
+14769.0,2018-08-23,21:15,15.31933568,74.05207604,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14773.0,2018-09-08,22:05,15.35895444,74.07301632,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14774.0,2018-09-09,16:40,15.34069179,74.06993649,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+14777.0,2018-08-25,17:20,15.33285504,74.05149841,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14785.0,2018-08-24,13:05,15.36457032,74.08179958,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14786.0,2018-08-27,13:45,15.35323648,74.01507558,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+14795.0,2018-09-20,12:20,15.3368419,74.00978504,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14796.0,2018-09-16,18:50,15.35356135,74.06967232,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14805.0,2018-09-26,09:00,15.35382788,74.04892801,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14808.0,2018-09-22,18:35,15.32564268,74.03269415,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14810.0,2018-09-15,15:35,15.32750819,74.01470758,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+14812.0,2018-08-17,16:10,15.30083772,74.06939306,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14817.0,2018-09-22,11:50,15.28418965,74.07169497,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14818.0,2018-09-30,23:20,15.31796659,74.01111982,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14825.0,2018-09-29,08:39,15.30572612,74.01475999,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14830.0,2018-09-26,19:50,15.30016318,74.05405028,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14833.0,2018-10-03,09:05,15.36557011,74.08178055,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14847.0,2018-09-08,18:45,15.33873407,74.05499711,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14848.0,2018-10-06,09:40,15.32560658,74.04437811,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14849.0,2018-10-02,17:33,15.31822881,74.06966591,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14855.0,2018-10-03,17:05,15.27635037,74.10162858,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14859.0,2018-10-06,12:45,15.34904563,74.03099249,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14863.0,2018-10-07,14:45,15.31016364,74.05326946,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14877.0,2018-10-19,20:20,15.34754406,74.00680342,Minor injury,2.0,2.0,Dual carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+14880.0,2018-10-23,23:45,15.34796077,74.0178331,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+14888.0,2018-11-01,08:50,15.36487464,74.02274893,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14925.0,2018-11-14,12:18,15.34395037,74.08879528,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14929.0,2018-11-09,13:09,15.35544339,74.1004202,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14931.0,2018-11-14,13:40,15.32435217,74.0720196,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14939.0,2018-11-11,16:39,15.36311887,73.98218935,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14946.0,2018-11-23,17:10,15.36488238,74.00916386,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14951.0,2018-07-30,23:35,15.32114222,74.06129831,Minor injury,2.0,6.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14953.0,2018-11-18,15:07,15.31533395,74.01653504,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14970.0,2018-11-17,00:09,15.27700745,74.07890207,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14974.0,2018-11-15,18:03,15.30490844,74.09131281,Minor injury,3.0,2.0,One way street,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14976.0,2018-12-06,21:20,15.3601952,74.01439291,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+14982.0,2018-12-05,11:49,15.33448337,74.05526283,Serious injury,2.0,4.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+14987.0,2018-11-30,08:10,15.32498769,74.04724003,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14995.0,2018-11-16,13:10,15.35201886,74.10020491,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+14996.0,2018-12-04,06:12,15.34789158,74.09449824,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15007.0,2018-09-29,19:10,15.32606877,74.0291158,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15008.0,2018-12-06,06:45,15.35992257,74.08317013,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15015.0,2018-12-16,11:14,15.28339494,74.07273201,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15026.0,2018-12-13,17:15,15.30014374,74.06212906,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15036.0,2018-12-14,22:30,15.32377171,74.04236142,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15037.0,2018-12-07,13:45,15.36434547,74.05844682,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Goa,North Goa
+15041.0,2018-12-23,19:35,15.35102109,74.08300695,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15042.0,2018-12-31,00:13,15.28645684,74.07892873,Serious injury,2.0,4.0,Single carriageway,Other,Darkness - lights lit,Goa,North Goa
+15047.0,2018-12-21,19:00,15.31980372,74.0793542,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15054.0,2018-09-14,15:00,15.28870395,74.09331907,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15062.0,2018-10-25,00:50,15.36132645,74.08139198,Minor injury,2.0,1.0,Slip road,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15065.0,2018-12-20,19:37,15.31763542,74.0753207,Serious injury,2.0,3.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15071.0,2018-01-01,13:50,15.29837629,74.07384397,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15074.0,2018-01-04,16:50,15.31816738,74.01614691,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+15077.0,2018-01-05,19:13,15.33581162,74.07414349,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15082.0,2018-01-11,07:30,15.36402278,74.08958085,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+15086.0,2018-01-15,20:28,15.34959921,74.08633046,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15090.0,2018-01-13,20:00,15.34006158,74.07846922,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15095.0,2018-01-19,18:30,15.30966414,74.07993506,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15096.0,2018-01-17,00:23,15.35636299,74.06790718,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15101.0,2018-01-21,21:18,15.33403621,74.02165516,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15102.0,2018-01-23,02:00,15.30853529,74.03810258,Minor injury,2.0,2.0,Dual carriageway,Other,Darkness - lights lit,Goa,North Goa
+15106.0,2018-01-21,09:07,15.33626121,74.06212012,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+15107.0,2018-01-21,10:20,15.3236106,74.06291612,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15117.0,2018-01-25,18:22,15.36471001,74.08450758,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15122.0,2018-01-31,15:35,15.32817209,74.02086154,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15140.0,2018-01-28,07:21,15.30283002,74.06286929,Minor injury,3.0,1.0,Single carriageway,Other,Daylight,Goa,North Goa
+15142.0,2018-02-02,19:47,15.31477866,74.08198088,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+15147.0,2018-02-05,14:05,15.33443493,74.08533756,Minor injury,1.0,1.0,One way street,Fine no high winds,Daylight,Goa,North Goa
+15151.0,2018-02-09,17:45,15.35622184,74.04975106,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15152.0,2018-02-09,19:35,15.36676877,74.01316946,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15153.0,2018-02-10,13:30,15.36652429,74.07008782,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15165.0,2018-02-15,04:50,15.34808728,74.01739915,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15166.0,2018-02-15,06:27,15.36354008,74.06080418,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15170.0,2018-02-17,20:20,15.32499264,74.02981463,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+15177.0,2018-02-22,20:45,15.34493834,74.07612088,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15179.0,2018-01-06,17:15,15.30642011,74.0554033,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+15181.0,2018-02-18,12:58,15.34082722,74.03429474,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15183.0,2018-02-18,15:40,15.27598885,74.09013073,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15188.0,2018-02-21,08:30,15.34382389,74.04457856,Serious injury,2.0,1.0,Dual carriageway,Fine + high winds,Daylight,Goa,North Goa
+15207.0,2018-03-11,19:26,15.33720513,74.07718459,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15214.0,2018-03-11,08:20,15.33614832,74.01467162,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15223.0,2018-03-17,15:51,15.34086503,74.0398761,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15225.0,2018-03-06,13:00,15.34298399,74.04095192,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15227.0,2018-03-15,08:03,15.34270219,74.07441991,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+15234.0,2018-03-03,08:50,15.33199988,74.02612204,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15239.0,2018-03-23,15:30,15.28488747,74.07149004,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15247.0,2018-03-08,15:20,15.31695622,74.05504722,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+15253.0,2018-04-03,19:00,15.33661826,74.00649701,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15269.0,2018-04-08,16:07,15.3410554,74.07076532,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15273.0,2018-04-16,11:00,15.33239467,74.00715473,Minor injury,4.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15275.0,2018-04-18,13:30,15.35483679,74.06255473,Minor injury,3.0,2.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+15276.0,2018-04-07,23:17,15.36608438,74.04047418,Minor injury,3.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+15277.0,2018-04-17,19:50,15.3081765,74.02313666,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+15281.0,2018-04-15,11:15,15.35050703,74.02708092,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+15282.0,2018-04-20,22:45,15.35554758,74.08473888,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15284.0,2018-04-22,15:05,15.36270643,74.02834492,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15293.0,2018-04-13,15:48,15.36232435,74.00004088,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15303.0,2018-04-29,13:15,15.29950381,74.06151352,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Goa,North Goa
+15305.0,2018-05-01,03:30,15.34918557,74.09094773,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15310.0,2018-05-04,16:33,15.35483046,74.0065601,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15322.0,2018-05-03,09:00,15.31410013,74.04164074,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15333.0,2018-04-30,08:28,15.35012322,74.00650832,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15337.0,2018-05-17,15:23,15.30351242,74.04644884,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+15338.0,2018-05-11,16:30,15.349397,74.037978,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Goa,North Goa
+15346.0,2018-05-23,17:30,15.27580731,74.09874828,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+15350.0,2018-05-15,10:40,15.36672318,74.06786277,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15356.0,2018-05-30,19:00,15.31369242,74.07228527,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15358.0,2018-05-13,18:25,15.3287491,74.07678681,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15360.0,2018-05-22,10:55,15.31411763,74.02742299,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15368.0,2018-05-15,16:36,15.32230252,74.08074851,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15371.0,2018-05-17,20:40,15.31804727,74.078574,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15374.0,2018-05-30,20:48,15.32647749,74.00898215,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15385.0,2018-05-28,12:45,15.34360141,74.06280018,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15389.0,2018-05-21,16:30,15.35547218,74.0346855,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15400.0,2018-06-16,08:15,15.32896058,74.06851186,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15401.0,2018-06-06,21:35,15.32824075,74.06136553,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15406.0,2018-06-08,08:15,15.33926082,74.06382103,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15407.0,2018-06-17,16:10,15.3498476,74.03277318,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15412.0,2018-06-04,22:15,15.32290407,74.08353244,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15414.0,2018-06-10,15:33,15.30553082,74.07443496,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15422.0,2018-06-18,16:33,15.34134226,74.05000551,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15437.0,2018-07-03,22:20,15.36014252,74.10053734,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Goa,North Goa
+15438.0,2018-06-28,17:18,15.29176258,74.09428876,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15439.0,2018-06-29,15:40,15.35121099,74.06549115,Minor injury,4.0,2.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+15440.0,2018-06-27,23:55,15.35714381,74.02600996,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15441.0,2018-06-30,15:10,15.34765614,74.0221098,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15442.0,2018-06-15,13:00,15.36333296,74.0917771,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Goa,North Goa
+15461.0,2018-07-02,16:50,15.36701997,74.05600485,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15464.0,2018-06-20,14:10,15.32926021,74.02083359,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15474.0,2018-07-13,08:30,15.34845045,74.0049062,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15475.0,2018-07-12,13:05,15.35002821,74.0290243,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15477.0,2018-07-13,16:20,15.32960303,74.03799235,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15503.0,2018-07-28,18:30,15.3624022,74.08888609,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15523.0,2018-08-05,19:30,15.32747035,74.04823534,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15530.0,2018-06-14,15:45,15.36379142,74.01849466,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15547.0,2018-08-03,22:10,15.3613547,74.08257139,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15548.0,2018-08-31,18:35,15.33579175,74.02736118,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15550.0,2018-08-28,20:53,15.31997835,74.06112555,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Goa,North Goa
+15557.0,2018-08-25,13:38,15.32546003,74.08468514,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15559.0,2018-06-23,16:21,15.3624769,74.06893504,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15560.0,2018-09-04,15:30,15.33610976,74.07203135,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Goa,North Goa
+15564.0,2018-09-13,09:25,15.30545812,74.02540044,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa
+15583.0,2018-09-23,18:06,15.32382924,74.01367346,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Goa,North Goa

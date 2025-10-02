@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58925.0,2018-02-02,17:20,27.63283297,79.64938531,Fatal,3.0,3.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttar Pradesh,Shahjahanpur
+58938.0,2018-02-04,14:15,27.6507754,79.53164617,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Shahjahanpur
+59578.0,2018-05-06,14:45,27.7138281,79.54648906,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Shahjahanpur

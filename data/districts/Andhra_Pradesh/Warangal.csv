@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59612.0,2018-05-11,07:49,17.96846434,79.13667426,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Warangal
+59689.0,2018-05-20,16:52,17.75958708,79.66609835,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Warangal

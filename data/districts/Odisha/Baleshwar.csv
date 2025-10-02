@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59259.0,2018-03-24,13:55,21.25110367,86.45739536,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Baleshwar
+59768.0,2018-05-31,19:45,21.24504109,86.52855864,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Baleshwar

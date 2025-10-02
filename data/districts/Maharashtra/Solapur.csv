@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58981.0,2018-02-08,17:55,18.14805663,75.40751819,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Maharashtra,Solapur
+59195.0,2018-03-14,09:10,17.63016947,76.05407193,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Solapur
+59216.0,2018-03-17,07:20,17.70534393,74.90572601,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Solapur
+59360.0,2018-04-07,15:20,17.48456868,75.13257283,Minor injury,3.0,1.0,Single carriageway,Raining no high winds,Daylight,Maharashtra,Solapur
+59735.0,2018-05-26,18:20,18.28877209,75.39602247,Serious injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Solapur
+59803.0,2018-06-06,09:55,18.05458834,75.82430642,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Solapur

@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59421.0,2018-04-15,17:47,24.12072966,76.00257839,Minor injury,3.0,3.0,Slip road,Fine no high winds,Daylight,Rajasthan,Jhalawar

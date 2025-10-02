@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58901.0,2018-01-30,14:40,24.07753938,82.98986371,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights unlit,Uttar Pradesh,Sonbhadra
+59102.0,2018-02-25,18:23,24.32606776,82.8401284,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttar Pradesh,Sonbhadra
+59194.0,2018-03-14,08:55,24.12448113,83.33716153,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttar Pradesh,Sonbhadra

@@ -1,0 +1,8 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58909.0,2018-01-31,19:15,22.94039061,73.50270826,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Gujarat,Panch Mahals
+59113.0,2018-02-27,20:27,22.87989502,73.38731117,Fatal,1.0,3.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Panch Mahals
+59282.0,2018-03-25,11:40,22.95578295,73.79487037,Minor injury,4.0,2.0,Single carriageway,Fog or mist,Daylight,Gujarat,Panch Mahals
+59290.0,2018-03-29,13:43,23.10791648,73.77546949,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Panch Mahals
+59432.0,2018-04-17,00:10,22.67056748,73.66233763,Serious injury,3.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Panch Mahals
+59922.0,2018-06-22,08:26,22.59763925,73.57830813,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Panch Mahals
+59983.0,2018-06-27,20:25,23.26082175,73.91224601,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Panch Mahals

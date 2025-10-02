@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58870.0,2018-01-26,11:20,25.52964687,75.66892824,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Rajasthan,Bundi
+58880.0,2018-01-27,15:45,25.29322083,75.60287434,Serious injury,1.0,1.0,Roundabout,Fine no high winds,Daylight,Rajasthan,Bundi
+59692.0,2018-05-21,23:48,25.54701282,75.47554149,Serious injury,3.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Rajasthan,Bundi
+59858.0,2018-06-14,00:05,25.46047727,75.4144001,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,Rajasthan,Bundi

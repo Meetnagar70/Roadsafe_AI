@@ -1,0 +1,25 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+15687.0,2018-10-24,20:50,23.09215881,72.62945439,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+15781.0,2018-12-22,17:35,23.09200144,72.62617866,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+15797.0,2018-12-20,19:10,23.09301658,72.62812459,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+15867.0,2018-01-21,08:46,23.0936032,72.60342729,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+15890.0,2018-02-07,18:47,23.09172613,72.61737231,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+15901.0,2018-02-17,12:20,23.0905734,72.62448408,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+16130.0,2018-07-05,17:00,23.08981985,72.6018289,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+16273.0,2018-11-11,19:00,23.09210602,72.63990539,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+16304.0,2018-12-04,22:10,23.09368822,72.63648779,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+16343.0,2018-12-09,10:40,23.09195164,72.63164077,Minor injury,2.0,1.0,Single carriageway,Fog or mist,Daylight,Gujarat,Gandhinagar
+16360.0,2018-01-02,15:02,23.09366031,72.6400162,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+16380.0,2018-01-08,14:30,23.09297252,72.62411827,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+17244.0,2018-11-06,16:26,23.0914879,72.61802103,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+17252.0,2018-10-31,13:18,23.09203362,72.62086198,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+17574.0,2018-08-29,20:30,23.09300057,72.62531892,Minor injury,1.0,1.0,Roundabout,Fine no high winds,Daylight,Gujarat,Gandhinagar
+17603.0,2018-09-10,23:15,23.08990649,72.601311,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+17682.0,2018-01-14,22:50,23.09172363,72.6332593,Minor injury,2.0,9.0,Dual carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+17744.0,2018-01-28,09:05,23.09301011,72.62387414,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,Gujarat,Gandhinagar
+17887.0,2018-08-29,18:02,23.0922443,72.62452931,Serious injury,2.0,5.0,Dual carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+17889.0,2018-09-08,00:35,23.09351902,72.60064203,Fatal,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+17929.0,2018-10-15,08:10,23.09259273,72.62427426,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+18059.0,2018-01-29,06:55,23.09050918,72.62647995,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Gandhinagar
+18064.0,2018-04-01,10:30,23.09370045,72.63400339,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar
+18170.0,2018-07-19,08:36,23.08948009,72.60052529,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Gandhinagar

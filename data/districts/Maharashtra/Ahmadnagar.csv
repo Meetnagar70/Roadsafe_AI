@@ -1,0 +1,8 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58902.0,2018-01-31,10:23,19.34215699,74.13695805,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Ahmadnagar
+58940.0,2018-02-04,16:43,18.4098887,74.96675348,Minor injury,2.0,2.0,Slip road,Fine no high winds,Daylight,Maharashtra,Ahmadnagar
+59073.0,2018-02-21,18:15,18.9525476,74.57705594,Minor injury,1.0,1.0,Single carriageway,Snowing no high winds,Darkness - lights lit,Maharashtra,Ahmadnagar
+59479.0,2018-04-23,11:45,19.39910842,73.94091772,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Ahmadnagar
+59818.0,2018-06-08,08:22,19.22589607,75.23477776,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Ahmadnagar
+59829.0,2018-06-10,08:31,19.67184622,74.22751276,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Ahmadnagar
+59884.0,2018-06-08,15:00,19.21308502,75.10616279,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Ahmadnagar

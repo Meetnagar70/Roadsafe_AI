@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58887.0,2018-01-28,13:29,15.41340667,76.4590113,Minor injury,2.0,4.0,Slip road,Fine no high winds,Daylight,Karnataka,Koppal

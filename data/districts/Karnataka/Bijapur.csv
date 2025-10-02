@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59050.0,2018-02-18,15:03,16.89653761,75.87549399,Serious injury,8.0,3.0,Dual carriageway,Fine no high winds,Daylight,Karnataka,Bijapur
+59258.0,2018-03-24,11:40,16.46030747,75.94725753,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Bijapur
+59588.0,2018-05-07,13:58,16.23544964,76.19181255,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Karnataka,Bijapur

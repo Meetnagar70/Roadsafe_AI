@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59042.0,2018-02-17,16:45,27.79486225,76.84621286,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Alwar
+59699.0,2018-05-23,06:42,28.08475355,76.75849761,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Alwar
+59881.0,2018-06-18,02:02,27.34230901,76.46445774,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Alwar

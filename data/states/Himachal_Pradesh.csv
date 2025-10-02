@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59232.0,2018-03-20,23:45,31.06879999,77.74778825,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Darkness - no lighting,Himachal Pradesh,Shimla

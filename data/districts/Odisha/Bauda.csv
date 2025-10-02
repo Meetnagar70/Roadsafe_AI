@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59861.0,2018-06-14,20:44,20.48897577,84.48741491,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Bauda

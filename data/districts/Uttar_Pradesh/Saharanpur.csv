@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59690.0,2018-05-19,17:00,29.84986889,77.68776755,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Saharanpur

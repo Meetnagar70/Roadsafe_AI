@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59095.0,2018-02-24,20:49,23.2163344,82.56483281,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Chhattisgarh,Koriya
+59569.0,2018-05-04,22:08,23.70163933,82.16269061,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Chhattisgarh,Koriya

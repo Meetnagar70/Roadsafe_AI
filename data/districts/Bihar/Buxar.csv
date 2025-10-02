@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59054.0,2018-02-18,19:15,25.47263293,83.88805214,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Bihar,Buxar
+59810.0,2018-06-07,07:30,25.49453987,83.94811837,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Bihar,Buxar

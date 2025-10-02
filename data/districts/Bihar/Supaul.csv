@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59319.0,2018-04-03,11:45,26.06595886,86.58402377,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Bihar,Supaul

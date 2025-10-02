@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59964.0,2018-06-23,20:30,15.39140017,76.65262051,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Bellary

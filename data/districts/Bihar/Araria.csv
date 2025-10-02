@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59456.0,2018-04-21,00:20,26.07825869,87.41688698,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Bihar,Araria

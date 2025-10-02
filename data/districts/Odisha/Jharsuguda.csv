@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59116.0,2018-02-28,11:32,21.75269904,83.66532793,Serious injury,4.0,1.0,Single carriageway,Unknown,Daylight,Odisha,Jharsuguda
+59143.0,2018-03-06,14:25,21.82030141,83.96861387,Serious injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,Odisha,Jharsuguda
+59709.0,2018-05-24,06:19,21.67359028,83.90094941,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Jharsuguda

@@ -1,0 +1,8 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58914.0,2018-02-01,10:28,22.52977259,70.28056046,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Jamnagar
+58920.0,2018-02-01,21:40,22.31022919,70.05403294,Minor injury,1.0,1.0,One way street,Fine no high winds,Darkness - lights lit,Gujarat,Jamnagar
+59024.0,2018-02-14,16:55,22.43884934,70.43641935,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Jamnagar
+59420.0,2018-04-15,17:16,22.05752692,69.68803732,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Daylight,Gujarat,Jamnagar
+59526.0,2018-04-29,13:48,22.52142186,70.35762213,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Jamnagar
+59669.0,2018-05-17,16:20,22.06141529,69.36410326,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Jamnagar
+59731.0,2018-05-26,14:50,21.97861512,69.3448258,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Jamnagar

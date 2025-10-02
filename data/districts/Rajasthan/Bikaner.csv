@@ -1,0 +1,12 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+18199.0,2018-07-12,00:41,28.44347116,72.63078074,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Rajasthan,Bikaner
+58890.0,2018-01-29,14:23,27.85712278,73.73866361,Fatal,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner
+58891.0,2018-01-29,12:40,28.51635775,73.52198165,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner
+58935.0,2018-02-04,13:40,28.20962281,74.15057882,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner
+59101.0,2018-02-25,18:08,28.16869765,72.68527019,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Rajasthan,Bikaner
+59125.0,2018-03-02,00:01,27.9324319,73.98424638,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner
+59249.0,2018-03-23,13:14,27.56269538,73.16672459,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner
+59286.0,2018-03-28,15:02,27.83177967,73.76309288,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner
+59617.0,2018-05-11,16:10,28.73241138,74.14732389,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner
+59628.0,2018-05-12,20:30,28.29665662,72.61406604,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner
+59961.0,2018-06-25,11:20,28.23372234,72.78677104,Serious injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Bikaner

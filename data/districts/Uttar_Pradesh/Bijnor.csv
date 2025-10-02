@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59772.0,2018-06-01,15:28,29.48966658,78.74539961,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Bijnor

@@ -1,0 +1,18 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58811.0,2018-01-18,09:08,29.94444927,80.19644791,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,Uttarakhand,Pithoragarh
+58814.0,2018-01-18,09:46,30.37534602,80.14305499,Minor injury,1.0,1.0,Single carriageway,Snowing no high winds,Daylight,Uttarakhand,Pithoragarh
+58995.0,2018-02-10,16:23,29.15490038,80.14082639,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Champawat
+59011.0,2018-02-12,14:28,29.86425805,78.30413525,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Hardwar
+59065.0,2018-02-21,04:00,30.34456623,78.12715673,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttarakhand,Dehradun
+59074.0,2018-02-21,09:50,29.78694739,77.99534196,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Daylight,Uttarakhand,Hardwar
+59199.0,2018-03-14,16:50,29.34195473,79.74607683,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Nainital
+59209.0,2018-03-16,09:20,30.18413998,80.81900471,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Pithoragarh
+59260.0,2018-03-24,15:00,30.27374796,80.15114899,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Pithoragarh
+59415.0,2018-04-14,19:40,29.87650783,80.32260402,Minor injury,1.0,1.0,Single carriageway,Raining + high winds,Daylight,Uttarakhand,Pithoragarh
+59423.0,2018-04-16,08:36,28.78042636,79.90785273,Fatal,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Udham Singh Nagar
+59426.0,2018-04-16,15:39,30.67360985,79.13236698,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Uttarakhand,Rudraprayag
+59525.0,2018-04-29,12:50,30.35858635,78.12528467,Minor injury,2.0,2.0,Single carriageway,Fine + high winds,Daylight,Uttarakhand,Dehradun
+59592.0,2018-05-08,00:17,30.33831183,77.86750936,Fatal,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttarakhand,Dehradun
+59693.0,2018-05-22,11:54,30.52776679,77.84542569,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Dehradun
+59697.0,2018-05-22,21:22,29.49392116,79.42055205,Minor injury,2.0,1.0,Single carriageway,Unknown,Darkness - lighting unknown,Uttarakhand,Nainital
+59950.0,2018-06-24,06:28,30.54442814,78.04967647,Serious injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,Uttarakhand,Tehri Garhwal

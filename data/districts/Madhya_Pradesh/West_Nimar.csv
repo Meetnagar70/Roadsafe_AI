@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59329.0,2018-04-04,00:40,21.6502658,75.67934607,Minor injury,1.0,2.0,Single carriageway,Raining no high winds,Darkness - no lighting,Madhya Pradesh,West Nimar
+59650.0,2018-05-15,02:20,21.58497734,76.05275039,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,West Nimar

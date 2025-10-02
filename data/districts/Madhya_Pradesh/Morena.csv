@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59242.0,2018-03-22,17:10,26.52767458,78.16791349,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Morena
+59876.0,2018-06-17,16:48,26.26971562,77.65525526,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Morena

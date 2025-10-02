@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59794.0,2018-06-04,15:10,24.0311174,84.52429966,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Jharkhand,Palamu
+59923.0,2018-06-22,08:30,24.50274037,84.18975607,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Jharkhand,Palamu
+59959.0,2018-06-25,03:24,24.27113332,84.34887947,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Jharkhand,Palamu

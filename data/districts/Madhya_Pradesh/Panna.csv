@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58903.0,2018-01-31,11:00,24.97147032,80.33714198,Minor injury,5.0,5.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Panna
+59328.0,2018-04-03,19:32,24.86746342,80.34364146,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Panna
+59795.0,2018-06-05,00:05,24.58873547,80.28550177,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Madhya Pradesh,Panna

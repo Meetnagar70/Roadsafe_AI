@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59742.0,2018-05-27,14:45,16.59113349,77.26408612,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Yadgir

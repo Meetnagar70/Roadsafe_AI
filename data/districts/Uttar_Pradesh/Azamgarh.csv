@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58839.0,2018-01-21,19:09,26.02432553,83.27221686,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttar Pradesh,Azamgarh
+59489.0,2018-04-24,17:49,26.38385914,82.90603566,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Azamgarh

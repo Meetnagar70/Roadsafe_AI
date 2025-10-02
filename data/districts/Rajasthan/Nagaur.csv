@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58919.0,2018-02-01,19:08,27.18952941,74.70670068,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Rajasthan,Nagaur
+58931.0,2018-02-03,17:15,27.31510517,73.53207433,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Rajasthan,Nagaur
+59494.0,2018-04-25,11:00,26.81391997,73.64112104,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Nagaur
+59714.0,2018-05-24,16:52,27.09627999,75.0117157,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Nagaur
+59848.0,2018-06-12,17:35,26.97848414,74.89993972,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Rajasthan,Nagaur
+59938.0,2018-06-23,10:19,27.00076108,73.31494719,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Nagaur

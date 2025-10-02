@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58939.0,2018-02-04,15:25,21.47935354,85.659175,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Kendujhar
+59010.0,2018-02-12,14:00,21.91701152,85.67202661,Minor injury,2.0,1.0,Roundabout,Fine + high winds,Daylight,Odisha,Kendujhar
+59632.0,2018-05-13,06:35,22.0094949,85.53829934,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Kendujhar

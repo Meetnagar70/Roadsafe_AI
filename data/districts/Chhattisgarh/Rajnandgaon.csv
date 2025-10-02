@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59090.0,2018-02-23,22:15,21.65424406,80.92776988,Serious injury,1.0,1.0,Single carriageway,Snowing + high winds,Darkness - lights lit,Chhattisgarh,Rajnandgaon
+59197.0,2018-03-14,03:00,21.62324805,80.94389205,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Chhattisgarh,Rajnandgaon
+59346.0,2018-04-06,08:05,21.44459567,80.83618611,Minor injury,2.0,1.0,Single carriageway,Raining + high winds,Daylight,Chhattisgarh,Rajnandgaon
+59907.0,2018-06-30,10:00,20.27302908,80.56725306,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Rajnandgaon

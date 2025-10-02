@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58965.0,2018-02-04,13:40,25.28281886,77.57750478,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Shivpuri
+59006.0,2018-02-11,22:12,25.62184785,78.31904271,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Shivpuri
+59043.0,2018-02-17,18:00,25.03153651,77.74636613,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Shivpuri
+59154.0,2018-03-08,09:27,25.22481931,77.49580699,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Shivpuri
+59409.0,2018-04-14,07:35,25.11061372,77.88944421,Minor injury,3.0,1.0,Single carriageway,Raining no high winds,Daylight,Madhya Pradesh,Shivpuri
+59535.0,2018-04-30,08:20,25.71049633,77.7149242,Serious injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,Madhya Pradesh,Shivpuri

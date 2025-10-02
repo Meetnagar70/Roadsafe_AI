@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59082.0,2018-02-25,09:00,22.32476992,77.17991826,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Daylight,Madhya Pradesh,Harda
+59181.0,2018-03-12,02:08,22.38656295,77.12919318,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Madhya Pradesh,Harda
+59720.0,2018-05-25,09:00,22.14041348,77.12092552,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Madhya Pradesh,Harda

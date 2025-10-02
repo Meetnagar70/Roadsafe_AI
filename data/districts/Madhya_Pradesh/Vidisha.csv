@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59128.0,2018-03-01,15:40,24.16132543,77.49913666,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Vidisha
+59270.0,2018-03-25,18:05,23.94691325,77.46109607,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Vidisha
+59677.0,2018-05-19,08:15,23.66213952,78.0820754,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Madhya Pradesh,Vidisha

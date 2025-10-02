@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59122.0,2018-03-01,14:30,20.0177486,79.86177827,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Chandrapur
+59191.0,2018-03-13,22:40,20.1680763,79.50575998,Serious injury,1.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Maharashtra,Chandrapur
+59638.0,2018-05-14,11:01,19.6579155,79.24337687,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Chandrapur
+59762.0,2018-05-31,10:42,19.96005212,79.72265466,Minor injury,4.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Chandrapur
+59933.0,2018-06-22,19:15,20.3318569,79.88884783,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Chandrapur

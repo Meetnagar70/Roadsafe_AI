@@ -1,0 +1,9 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58809.0,2018-01-18,07:07,28.29144211,74.43555453,Minor injury,1.0,1.0,Single carriageway,Snowing no high winds,Daylight,Rajasthan,Churu
+58915.0,2018-02-01,11:42,28.38333412,74.76770637,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Churu
+59178.0,2018-03-11,18:30,27.64095582,73.95911448,Minor injury,3.0,3.0,Single carriageway,Raining no high winds,Daylight,Rajasthan,Churu
+59306.0,2018-04-01,15:40,28.51274652,75.52434235,Minor injury,4.0,1.0,Dual carriageway,Fine no high winds,Daylight,Rajasthan,Churu
+59492.0,2018-04-25,00:04,27.70160212,74.47222682,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,Rajasthan,Churu
+59608.0,2018-05-10,17:55,27.78481346,73.94066501,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Churu
+59851.0,2018-06-12,20:00,28.37036607,74.46304018,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Churu
+59917.0,2018-06-21,16:25,27.98380347,74.43463389,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Churu

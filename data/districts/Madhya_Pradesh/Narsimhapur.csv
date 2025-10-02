@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58928.0,2018-02-03,06:41,23.19079899,79.01475028,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Narsimhapur
+59805.0,2018-06-06,11:35,22.92404433,78.58174987,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Narsimhapur
+59855.0,2018-06-13,11:15,22.89875413,78.84990219,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Narsimhapur

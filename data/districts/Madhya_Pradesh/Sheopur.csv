@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59378.0,2018-04-10,12:15,25.6863893,76.90787958,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Sheopur
+59478.0,2018-04-23,10:44,25.75356507,76.88498824,Serious injury,2.0,5.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Sheopur
+59649.0,2018-05-14,22:30,26.07854605,76.89804009,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Sheopur
+59918.0,2018-06-21,18:15,26.09600749,77.13906586,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Sheopur
+59997.0,2018-06-29,08:50,25.30884954,77.03031069,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Sheopur

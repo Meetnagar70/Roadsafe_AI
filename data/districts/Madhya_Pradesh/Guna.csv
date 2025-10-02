@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59422.0,2018-04-15,18:10,24.26101064,77.30401694,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Daylight,Madhya Pradesh,Guna
+59631.0,2018-05-13,09:10,24.46276528,76.87632857,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Guna
+59833.0,2018-06-10,17:30,24.93436148,77.16300034,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Guna

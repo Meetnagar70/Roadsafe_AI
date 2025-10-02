@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59639.0,2018-05-14,12:40,30.59807859,75.03006415,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Punjab,Moga

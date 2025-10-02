@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59166.0,2018-03-10,08:30,21.34416687,79.76774611,Serious injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Bhandara
+59648.0,2018-05-14,19:50,21.08225662,79.93207366,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Maharashtra,Bhandara
+59832.0,2018-06-10,14:40,21.13704617,79.72583282,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Bhandara

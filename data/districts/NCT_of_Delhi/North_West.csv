@@ -1,0 +1,1204 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+33803.0,2018-08-07,14:20,28.69563491,77.07244217,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33807.0,2018-08-15,19:10,28.70247603,77.21149217,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33809.0,2018-08-20,22:40,28.71290037,77.20883646,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33810.0,2018-08-25,17:11,28.70224906,77.21197252,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+33815.0,2018-08-11,02:25,28.72601261,77.09086864,Serious injury,1.0,2.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+33822.0,2018-09-01,17:35,28.7235835,77.09396378,Minor injury,2.0,1.0,Single carriageway,Unknown,Darkness - lighting unknown,NCT of Delhi,North West
+33829.0,2018-09-18,13:05,28.69749441,77.06096034,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33841.0,2018-10-11,15:09,28.6896678,77.20098391,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33848.0,2018-11-05,02:57,28.70056748,77.11287618,Minor injury,1.0,5.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+33852.0,2018-11-13,15:10,28.70475679,77.21925365,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33857.0,2018-11-20,16:15,28.69257834,77.16777531,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+33884.0,2018-06-05,00:15,28.70877362,77.19243509,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+33902.0,2018-09-07,15:00,28.70210572,77.08878729,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33912.0,2018-10-12,18:28,28.71291714,77.15959087,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+33929.0,2018-05-21,20:05,28.70632075,77.06427042,Serious injury,2.0,3.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+33937.0,2018-05-20,12:45,28.69821152,77.06100519,Minor injury,2.0,2.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+33938.0,2018-05-23,17:05,28.71038156,77.16711094,Minor injury,2.0,1.0,Unknown,Fine no high winds,Daylight,NCT of Delhi,North West
+33940.0,2018-05-26,17:20,28.71374017,77.11154681,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33942.0,2018-06-25,15:15,28.72247341,77.11509273,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33947.0,2018-06-07,17:00,28.69460367,77.20740272,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33948.0,2018-06-12,13:14,28.70121604,77.11376449,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33953.0,2018-06-22,21:05,28.69477781,77.18228111,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33961.0,2018-07-14,06:35,28.69379202,77.1656638,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights unlit,NCT of Delhi,North West
+33971.0,2018-08-09,11:10,28.69479364,77.19643278,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33988.0,2018-09-07,15:30,28.71041217,77.10485568,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33994.0,2018-09-18,16:30,28.69210279,77.10325374,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+33996.0,2018-09-19,17:00,28.69076302,77.16517362,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34001.0,2018-09-22,10:39,28.70351193,77.198644,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34002.0,2018-09-23,20:36,28.72151356,77.1554742,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34014.0,2018-10-09,20:00,28.72007213,77.11190212,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+34022.0,2018-10-20,07:35,28.71251735,77.08708495,Serious injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+34027.0,2018-11-02,18:30,28.70373612,77.13071192,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34050.0,2018-12-17,21:50,28.72259362,77.14172362,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34052.0,2018-12-27,13:10,28.71560807,77.0998005,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34053.0,2018-10-29,17:30,28.70869975,77.19085499,Minor injury,1.0,1.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+34057.0,2018-08-10,20:28,28.71049563,77.19259107,Serious injury,1.0,1.0,Slip road,Fine no high winds,Daylight,NCT of Delhi,North West
+34064.0,2018-08-18,06:22,28.72656536,77.11629938,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34074.0,2018-08-17,00:05,28.70141213,77.10870816,Serious injury,5.0,7.0,Dual carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+34081.0,2018-08-29,10:40,28.69444106,77.20522892,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34084.0,2018-08-31,12:34,28.70314957,77.09888028,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34087.0,2018-09-04,12:55,28.71779082,77.07411565,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34089.0,2018-09-08,14:06,28.68666364,77.069679,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34095.0,2018-09-21,06:36,28.69866292,77.0760809,Serious injury,3.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34121.0,2018-10-22,20:35,28.68938409,77.07768872,Minor injury,4.0,6.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34129.0,2018-10-30,01:30,28.71627437,77.06957562,Minor injury,1.0,1.0,Slip road,Raining + high winds,Darkness - lights lit,NCT of Delhi,North West
+34132.0,2018-10-27,13:45,28.70172077,77.12896106,Minor injury,3.0,7.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34145.0,2018-11-06,08:19,28.6996297,77.06106107,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+34147.0,2018-11-09,10:35,28.7034873,77.11630561,Minor injury,2.0,2.0,Slip road,Fine no high winds,Daylight,NCT of Delhi,North West
+34152.0,2018-11-11,15:00,28.72109011,77.09849083,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+34155.0,2018-11-14,13:00,28.69910869,77.13092592,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+34169.0,2018-11-23,15:15,28.72180276,77.13465712,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34174.0,2018-11-25,20:21,28.72327497,77.10330528,Minor injury,1.0,3.0,Dual carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+34181.0,2018-12-04,06:43,28.705336,77.15789011,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+34182.0,2018-11-26,12:50,28.72426225,77.14013774,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34189.0,2018-12-14,07:28,28.7159896,77.1686574,Minor injury,7.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34198.0,2018-12-28,11:20,28.6878638,77.06672814,Minor injury,3.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34201.0,2018-12-10,16:07,28.69610051,77.13459077,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34203.0,2018-12-28,09:25,28.70253165,77.12893213,Minor injury,3.0,4.0,Dual carriageway,Other,Daylight,NCT of Delhi,North West
+34208.0,2018-10-05,14:55,28.68470079,77.17646053,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34220.0,2018-10-11,17:10,28.70349687,77.07506598,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+34230.0,2018-10-14,10:05,28.72561176,77.15279179,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34234.0,2018-10-13,16:00,28.70976693,77.21054509,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34238.0,2018-10-11,08:30,28.68574825,77.15781336,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Daylight,NCT of Delhi,North West
+34239.0,2018-10-07,22:05,28.7065016,77.15064267,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34245.0,2018-10-16,12:46,28.72234194,77.10529221,Minor injury,2.0,5.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34290.0,2018-10-31,18:35,28.70226511,77.17965401,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+34295.0,2018-11-04,16:30,28.67810453,77.15150759,Minor injury,2.0,2.0,Roundabout,Raining no high winds,Daylight,NCT of Delhi,North West
+34298.0,2018-11-06,20:06,28.70379545,77.06252453,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Darkness - no lighting,NCT of Delhi,North West
+34300.0,2018-11-08,07:25,28.72160338,77.19221939,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34307.0,2018-11-10,19:00,28.69131988,77.11901541,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34316.0,2018-11-12,17:15,28.69807203,77.09751376,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+34317.0,2018-11-17,17:00,28.72686609,77.09800198,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34318.0,2018-11-20,15:20,28.68172882,77.16092992,Serious injury,1.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34325.0,2018-11-09,08:30,28.69912249,77.08138149,Minor injury,2.0,1.0,Roundabout,Unknown,Daylight,NCT of Delhi,North West
+34331.0,2018-11-18,16:55,28.71189285,77.19387112,Minor injury,1.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+34336.0,2018-11-23,19:09,28.71292825,77.12129245,Minor injury,2.0,5.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34337.0,2018-11-22,17:30,28.68721976,77.143938,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34338.0,2018-11-23,13:50,28.69360257,77.11368506,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34343.0,2018-11-16,17:30,28.71025829,77.21350157,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34355.0,2018-11-23,16:50,28.70863107,77.16180135,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34361.0,2018-12-03,17:15,28.69004201,77.1805912,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+34365.0,2018-12-04,20:07,28.7157076,77.15106496,Serious injury,2.0,1.0,One way street,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34367.0,2018-12-05,17:30,28.69291883,77.13998864,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+34378.0,2018-12-06,11:30,28.71527746,77.09500204,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+34380.0,2018-12-10,23:30,28.67599504,77.12310898,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34381.0,2018-11-29,20:05,28.69475658,77.14190943,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34407.0,2018-12-23,21:30,28.70410305,77.12375802,Minor injury,1.0,4.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+34414.0,2018-12-22,15:11,28.72791708,77.06599268,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34418.0,2018-12-24,19:50,28.71118364,77.17733385,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34425.0,2018-12-25,11:18,28.71758335,77.1972657,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34442.0,2018-01-05,18:45,28.70632157,77.13405114,Minor injury,2.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+34458.0,2018-01-12,17:15,28.71283207,77.214599,Minor injury,4.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34467.0,2018-01-18,12:50,28.69248324,77.18447789,Serious injury,2.0,2.0,Single carriageway,Raining + high winds,Daylight,NCT of Delhi,North West
+34470.0,2018-01-19,15:55,28.71177381,77.11633608,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34477.0,2018-01-22,19:10,28.69112274,77.07534046,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34485.0,2018-01-17,08:15,28.68924599,77.18570132,Minor injury,2.0,1.0,Single carriageway,Unknown,Daylight,NCT of Delhi,North West
+34486.0,2018-01-19,08:10,28.68428681,77.15462032,Minor injury,2.0,1.0,Dual carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+34490.0,2018-01-29,21:10,28.72044662,77.11495967,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34493.0,2018-01-24,18:15,28.70555599,77.14541929,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34503.0,2018-02-01,17:20,28.69836766,77.19866208,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34507.0,2018-02-04,10:15,28.68084352,77.16867222,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34527.0,2018-02-12,18:20,28.7044052,77.13241669,Minor injury,1.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+34532.0,2018-02-11,17:30,28.70731685,77.07361085,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Daylight,NCT of Delhi,North West
+34545.0,2018-02-07,14:30,28.72205883,77.07785199,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34572.0,2018-02-14,09:45,28.69465683,77.15841837,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34584.0,2018-02-28,19:40,28.72226254,77.07975986,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+34589.0,2018-02-26,11:20,28.7116556,77.16881539,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34593.0,2018-02-28,15:30,28.68817803,77.16731123,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34604.0,2018-03-08,10:00,28.70476372,77.18290012,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34605.0,2018-03-08,13:30,28.67942014,77.14401032,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34628.0,2018-03-16,08:10,28.71625889,77.1800519,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34638.0,2018-03-18,22:35,28.69359645,77.05813096,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34640.0,2018-03-14,19:05,28.71377292,77.07713698,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+34649.0,2018-03-17,12:30,28.69464686,77.11113766,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34659.0,2018-03-25,18:25,28.72488766,77.05905431,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34662.0,2018-03-25,19:30,28.70803864,77.13351545,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34664.0,2018-02-17,19:50,28.6862055,77.15131758,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34669.0,2018-03-24,19:55,28.70049272,77.06782485,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34677.0,2018-04-04,22:58,28.6778287,77.12279145,Serious injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34688.0,2018-04-10,12:20,28.71589249,77.19776196,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34691.0,2018-03-08,16:20,28.72478122,77.09802899,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34699.0,2018-04-11,11:25,28.72658278,77.13247277,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34707.0,2018-04-03,07:00,28.70183585,77.15321015,Serious injury,1.0,5.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34725.0,2018-03-31,20:30,28.71688778,77.17263712,Minor injury,2.0,2.0,Slip road,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34734.0,2018-03-31,16:30,28.72385589,77.10748962,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34735.0,2018-04-08,09:20,28.71669017,77.08873123,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34739.0,2018-04-17,13:05,28.70088492,77.12050018,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+34747.0,2018-04-09,14:30,28.69346114,77.16232213,Minor injury,1.0,1.0,Roundabout,Raining no high winds,Daylight,NCT of Delhi,North West
+34753.0,2018-04-22,13:30,28.71444533,77.15904296,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34759.0,2018-04-28,08:20,28.71158617,77.14902838,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34761.0,2018-04-27,00:08,28.69333233,77.16560883,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+34766.0,2018-04-29,15:00,28.68188214,77.12050502,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34770.0,2018-04-28,15:20,28.69692053,77.10742808,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34772.0,2018-05-01,16:55,28.69866028,77.07856179,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34791.0,2018-05-02,19:15,28.69087136,77.09113414,Serious injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34812.0,2018-05-12,15:50,28.6781392,77.15781217,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34832.0,2018-05-10,19:50,28.70426867,77.06143061,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+34833.0,2018-05-19,15:00,28.67942426,77.17709656,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34868.0,2018-05-04,11:00,28.72396249,77.15662372,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34884.0,2018-06-01,15:15,28.71518915,77.07880143,Minor injury,2.0,1.0,Dual carriageway,Other,Daylight,NCT of Delhi,North West
+34887.0,2018-05-26,19:00,28.68224008,77.15447994,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34889.0,2018-06-02,17:45,28.69851273,77.15518718,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34923.0,2018-06-10,17:05,28.70410794,77.07477118,Minor injury,3.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34934.0,2018-06-20,15:15,28.67717907,77.1121963,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34947.0,2018-06-20,20:50,28.70767092,77.1348402,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34952.0,2018-06-24,08:50,28.72509977,77.08008653,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+34961.0,2018-06-21,15:55,28.72187954,77.07480757,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34971.0,2018-06-13,21:25,28.70056647,77.09151828,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+34975.0,2018-06-27,18:45,28.71610908,77.14849948,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34979.0,2018-06-12,14:35,28.69599784,77.1881437,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34992.0,2018-07-02,13:00,28.71156304,77.12590465,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+34996.0,2018-06-28,17:00,28.72123173,77.09553854,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+34997.0,2018-07-08,17:15,28.72123692,77.16745173,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35008.0,2018-07-13,19:00,28.69415857,77.13752978,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35037.0,2018-07-22,10:10,28.70800114,77.07566352,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35040.0,2018-07-26,17:35,28.69257791,77.12474947,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35044.0,2018-07-28,13:15,28.7194635,77.19604425,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35073.0,2018-08-05,04:35,28.71324532,77.18048971,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+35076.0,2018-08-10,17:45,28.68194207,77.1317491,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35086.0,2018-08-14,20:15,28.69197382,77.07948244,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35097.0,2018-08-19,17:15,28.69926548,77.2177869,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35098.0,2018-08-18,22:20,28.6837791,77.10411042,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+35105.0,2018-08-10,17:25,28.70495723,77.08039285,Minor injury,4.0,4.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35110.0,2018-08-23,17:20,28.70959028,77.20961944,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35112.0,2018-08-17,22:53,28.68463538,77.08357466,Serious injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+35113.0,2018-08-21,13:45,28.72199801,77.08290149,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35122.0,2018-08-24,16:40,28.70643028,77.05990673,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35125.0,2018-08-25,22:35,28.69124184,77.15284924,Fatal,2.0,5.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+35130.0,2018-08-25,12:15,28.7064151,77.15967447,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35150.0,2018-09-05,01:30,28.69029993,77.16441067,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35161.0,2018-09-10,18:40,28.70867157,77.13324574,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35165.0,2018-09-08,15:57,28.690997,77.19168164,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35188.0,2018-09-08,21:50,28.70572093,77.15783524,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - no lighting,NCT of Delhi,North West
+35203.0,2018-09-30,17:48,28.71687324,77.14801715,Minor injury,2.0,2.0,Single carriageway,Raining + high winds,Darkness - no lighting,NCT of Delhi,North West
+35211.0,2018-09-16,09:35,28.68263662,77.13733621,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35213.0,2018-09-27,08:55,28.71199812,77.07641494,Minor injury,2.0,3.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35214.0,2018-09-20,12:57,28.70013174,77.15420493,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35215.0,2018-01-06,08:45,28.72115853,77.10244113,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35221.0,2018-06-23,23:38,28.71083979,77.1879345,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35229.0,2018-10-07,08:37,28.68051528,77.12579286,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35234.0,2018-10-13,12:50,28.70192969,77.15475673,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35237.0,2018-10-12,08:45,28.69455654,77.16881302,Minor injury,4.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35245.0,2018-10-09,13:18,28.71019662,77.19712048,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35259.0,2018-10-13,03:01,28.69269525,77.08973314,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35265.0,2018-10-17,17:40,28.69480612,77.09646714,Minor injury,4.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35275.0,2018-10-31,18:00,28.70403783,77.13820073,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35282.0,2018-10-24,13:12,28.68952121,77.08223352,Minor injury,1.0,1.0,Unknown,Fine no high winds,Daylight,NCT of Delhi,North West
+35297.0,2018-11-11,22:30,28.70264076,77.10837938,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35307.0,2018-11-12,17:30,28.70294188,77.13967683,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35311.0,2018-11-20,14:35,28.69220032,77.07166887,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35324.0,2018-11-21,16:45,28.70685048,77.17487999,Minor injury,2.0,2.0,Single carriageway,Fog or mist,Darkness - lights lit,NCT of Delhi,North West
+35329.0,2018-11-25,13:10,28.71427709,77.18890277,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35335.0,2018-11-27,03:48,28.70215929,77.1586604,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35337.0,2018-12-02,15:32,28.68560143,77.08698797,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35352.0,2018-11-30,10:05,28.69611155,77.0664514,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35357.0,2018-11-16,09:20,28.68054514,77.16896402,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35377.0,2018-12-18,12:40,28.7080529,77.19643271,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35378.0,2018-12-18,16:30,28.68361354,77.14754407,Minor injury,2.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+35399.0,2018-12-07,15:10,28.69377804,77.19870519,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35400.0,2018-12-21,08:00,28.68883332,77.17373519,Minor injury,3.0,2.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35408.0,2018-12-18,15:36,28.70810479,77.08361819,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+35417.0,2018-12-10,01:45,28.72395058,77.15587375,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35424.0,2018-11-06,05:06,28.72133091,77.07867022,Fatal,1.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+35434.0,2018-01-04,02:15,28.68490667,77.11836264,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35453.0,2018-01-13,12:10,28.69458342,77.16198504,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35464.0,2018-01-22,03:16,28.71618706,77.11796337,Minor injury,2.0,4.0,Dual carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+35466.0,2018-01-21,22:43,28.69166777,77.07503688,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35469.0,2018-01-29,18:00,28.70273211,77.07641632,Minor injury,2.0,7.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35470.0,2018-01-29,12:17,28.69589204,77.07095108,Minor injury,1.0,2.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+35485.0,2018-02-06,22:59,28.70395039,77.1633664,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35492.0,2018-01-28,16:35,28.68951265,77.11502376,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35508.0,2018-02-13,16:00,28.69780885,77.08531287,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35514.0,2018-02-19,12:32,28.68220137,77.1302354,Serious injury,2.0,5.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+35520.0,2018-02-23,21:15,28.69854795,77.19158265,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35529.0,2018-02-28,13:25,28.72791462,77.11671801,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35546.0,2018-03-03,21:10,28.71693164,77.1393931,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35560.0,2018-03-10,10:30,28.71974179,77.14002581,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35564.0,2018-03-10,06:50,28.72459892,77.08614013,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35565.0,2018-03-10,21:20,28.70662538,77.20774365,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35572.0,2018-03-16,16:50,28.71771684,77.12819501,Minor injury,2.0,1.0,Single carriageway,Unknown,Daylight,NCT of Delhi,North West
+35577.0,2018-03-18,18:40,28.70776524,77.1682172,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35595.0,2018-03-23,16:30,28.72160445,77.16604088,Minor injury,3.0,5.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35618.0,2018-04-01,20:40,28.72460773,77.15492265,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35630.0,2018-04-07,08:05,28.69172098,77.18713431,Minor injury,1.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35640.0,2018-04-10,01:00,28.70507749,77.16312601,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+35651.0,2018-04-15,15:45,28.69958454,77.06516157,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35659.0,2018-04-19,09:25,28.69924309,77.21009875,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35669.0,2018-04-22,11:20,28.68062524,77.17208969,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35672.0,2018-04-13,18:35,28.68275193,77.16084427,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35674.0,2018-04-17,15:55,28.68594763,77.13551381,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35679.0,2018-04-20,17:30,28.71156801,77.1611715,Minor injury,2.0,1.0,Slip road,Fine no high winds,Daylight,NCT of Delhi,North West
+35682.0,2018-04-29,18:40,28.70478731,77.16524737,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35694.0,2018-05-05,11:30,28.69015023,77.19085881,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35701.0,2018-05-06,16:30,28.72298819,77.12545033,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35711.0,2018-05-01,17:30,28.71922429,77.14878047,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35719.0,2018-05-10,13:40,28.7007793,77.07936935,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35722.0,2018-04-24,16:33,28.67388897,77.15606474,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35731.0,2018-05-19,15:27,28.71072241,77.09251453,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35734.0,2018-05-20,15:12,28.72246141,77.0689188,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35736.0,2018-05-21,19:55,28.72466825,77.11088992,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35757.0,2018-05-25,07:40,28.72236102,77.1436933,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35783.0,2018-06-07,16:00,28.71507611,77.1966271,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35793.0,2018-06-12,16:22,28.68283603,77.12804271,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35799.0,2018-06-12,03:30,28.69658227,77.17978361,Minor injury,2.0,1.0,Unknown,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35802.0,2018-06-12,13:40,28.6990516,77.21144115,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35816.0,2018-06-18,15:10,28.70727877,77.11024542,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35821.0,2018-02-11,19:45,28.72162384,77.09596712,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35824.0,2018-06-08,18:50,28.70310736,77.11260917,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35833.0,2018-06-23,15:45,28.71617355,77.20589867,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35861.0,2018-07-08,07:35,28.68855259,77.13300672,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35864.0,2018-07-09,08:30,28.70257059,77.09082264,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35867.0,2018-07-09,22:10,28.68911614,77.15940837,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35894.0,2018-07-20,22:20,28.70768609,77.05917829,Minor injury,1.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35896.0,2018-07-19,08:43,28.72826511,77.13595825,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35897.0,2018-07-19,17:50,28.72023463,77.13817927,Minor injury,2.0,4.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35899.0,2018-05-14,19:00,28.7132953,77.14390264,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35906.0,2018-07-23,11:45,28.69125239,77.09982951,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35917.0,2018-08-06,15:00,28.71820814,77.1148316,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35920.0,2018-08-01,20:45,28.69700975,77.14122801,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35940.0,2018-08-13,10:45,28.68894846,77.19497871,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+35952.0,2018-08-07,14:00,28.6971967,77.21110645,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35957.0,2018-08-23,07:45,28.6898641,77.1873529,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35960.0,2018-08-20,22:00,28.67082576,77.17154037,Serious injury,1.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35964.0,2018-08-25,19:15,28.71308135,77.0851936,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35967.0,2018-08-22,15:00,28.71554748,77.07488702,Minor injury,4.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35968.0,2018-08-26,08:45,28.71876102,77.09487923,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+35974.0,2018-08-28,23:45,28.72580495,77.08987024,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+35976.0,2018-07-08,18:00,28.71689797,77.09434161,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35978.0,2018-07-29,05:40,28.7036434,77.17813989,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+35981.0,2018-08-31,12:45,28.70508443,77.10671924,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36000.0,2018-09-09,15:40,28.71598797,77.15130568,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36002.0,2018-09-12,18:00,28.69788134,77.15060456,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36023.0,2018-09-19,15:40,28.68898411,77.18597222,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36034.0,2018-09-25,15:20,28.69018144,77.13728734,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36044.0,2018-09-14,02:36,28.71145015,77.09110738,Fatal,1.0,1.0,Slip road,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36050.0,2018-06-25,14:15,28.69877291,77.15994189,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+36061.0,2018-10-03,11:30,28.70582184,77.21113955,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36082.0,2018-10-17,12:00,28.70803182,77.11388148,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36084.0,2018-10-22,14:35,28.71679146,77.06144646,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36094.0,2018-10-31,14:20,28.67606065,77.16382088,Serious injury,2.0,6.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36099.0,2018-11-02,09:00,28.70310656,77.16303012,Minor injury,3.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+36108.0,2018-11-11,22:32,28.71501324,77.15813977,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36119.0,2018-10-25,17:30,28.72642194,77.16114704,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36122.0,2018-11-09,18:00,28.71517729,77.1684677,Minor injury,2.0,2.0,Roundabout,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+36124.0,2018-11-08,11:50,28.68708255,77.09482294,Minor injury,2.0,1.0,Single carriageway,Raining + high winds,Daylight,NCT of Delhi,North West
+36134.0,2018-12-05,06:25,28.6849665,77.15422795,Minor injury,2.0,1.0,Dual carriageway,Raining + high winds,Darkness - lights lit,NCT of Delhi,North West
+36137.0,2018-12-01,21:45,28.70545435,77.12644686,Minor injury,2.0,3.0,Single carriageway,Raining no high winds,Darkness - no lighting,NCT of Delhi,North West
+36176.0,2018-12-23,16:20,28.68444032,77.11639321,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+36180.0,2018-12-01,07:55,28.69957963,77.0706548,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36189.0,2018-01-02,21:50,28.71063818,77.0632026,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36190.0,2018-01-10,17:05,28.69215778,77.18634887,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36199.0,2018-01-21,09:42,28.69088663,77.13008027,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36204.0,2018-01-23,16:45,28.71314092,77.10884657,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+36228.0,2018-02-08,15:35,28.70519366,77.08310502,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36245.0,2018-02-04,08:40,28.70457957,77.08556377,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+36263.0,2018-03-01,15:30,28.72078347,77.07867638,Minor injury,4.0,5.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36285.0,2018-03-26,15:09,28.72463699,77.14443402,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36287.0,2018-03-25,22:10,28.69630157,77.11293719,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36308.0,2018-04-05,16:50,28.69073201,77.15084767,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36337.0,2018-04-15,18:15,28.70214314,77.14881797,Minor injury,3.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+36342.0,2018-04-30,17:20,28.71591814,77.09681509,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36354.0,2018-05-17,18:30,28.72735144,77.08258502,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36364.0,2018-05-23,12:00,28.71324625,77.16868952,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36370.0,2018-05-28,11:00,28.69661291,77.13132895,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36373.0,2018-05-27,10:45,28.71775829,77.1437485,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36411.0,2018-06-25,17:15,28.71762696,77.1206714,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36427.0,2018-06-22,10:45,28.70697737,77.21802263,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36429.0,2018-07-06,09:05,28.68155576,77.17193321,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36445.0,2018-07-17,19:35,28.70023112,77.16942283,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36448.0,2018-07-19,06:47,28.68540596,77.11958867,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36471.0,2018-08-10,09:30,28.7049793,77.18706961,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36482.0,2018-08-20,13:50,28.70870603,77.14696622,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36486.0,2018-08-20,18:00,28.72160831,77.07874587,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36488.0,2018-08-27,16:00,28.70485257,77.15387303,Minor injury,5.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36491.0,2018-08-29,15:00,28.72231446,77.1651152,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36498.0,2018-08-22,14:30,28.67796974,77.15355583,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36511.0,2018-09-16,13:05,28.68457128,77.14016428,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36515.0,2018-09-19,00:42,28.69036305,77.14739243,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36522.0,2018-09-25,17:00,28.72802943,77.08976771,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+36528.0,2018-09-27,15:40,28.72314462,77.09869051,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36546.0,2018-10-03,12:30,28.70823817,77.15020732,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36553.0,2018-10-06,20:45,28.69371698,77.0931852,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36554.0,2018-10-06,18:40,28.68988815,77.16010667,Minor injury,2.0,6.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36557.0,2018-10-13,13:20,28.71157321,77.18179424,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36575.0,2018-10-24,12:45,28.69748853,77.0905565,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+36577.0,2018-10-19,19:30,28.69575289,77.12079043,Minor injury,2.0,4.0,Unknown,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+36579.0,2018-10-21,09:15,28.71010518,77.16219925,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+36581.0,2018-10-26,12:00,28.70847357,77.06290658,Minor injury,2.0,2.0,Single carriageway,Raining + high winds,Daylight,NCT of Delhi,North West
+36605.0,2018-11-11,17:30,28.71420357,77.21196141,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+36619.0,2018-11-26,13:50,28.69228875,77.06705662,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+36645.0,2018-12-14,17:20,28.70327203,77.12656761,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36659.0,2018-12-23,16:10,28.69216988,77.09307919,Minor injury,2.0,3.0,One way street,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+36673.0,2018-01-09,21:30,28.69708369,77.21166809,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36676.0,2018-01-08,01:00,28.71096372,77.10127031,Minor injury,1.0,1.0,Single carriageway,Raining + high winds,Darkness - lights lit,NCT of Delhi,North West
+36678.0,2018-01-13,13:09,28.7247735,77.14615839,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36684.0,2018-01-17,08:20,28.72784821,77.17673516,Minor injury,1.0,1.0,Single carriageway,Raining + high winds,Daylight,NCT of Delhi,North West
+36707.0,2018-02-05,19:40,28.6834609,77.16252514,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36712.0,2018-01-30,16:30,28.68538952,77.10719283,Minor injury,2.0,1.0,Dual carriageway,Unknown,Daylight,NCT of Delhi,North West
+36739.0,2018-03-01,07:55,28.70635969,77.13773561,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36741.0,2018-03-03,16:10,28.72527689,77.08252024,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36742.0,2018-03-04,18:45,28.69517011,77.19915926,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36743.0,2018-02-25,08:10,28.70853215,77.1444081,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36762.0,2018-03-10,20:05,28.7109416,77.16806566,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36764.0,2018-03-13,13:00,28.69980134,77.12437492,Minor injury,2.0,1.0,Slip road,Fine no high winds,Daylight,NCT of Delhi,North West
+36767.0,2018-01-13,11:45,28.68641072,77.16788315,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36797.0,2018-04-09,19:00,28.7158803,77.15044103,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+36802.0,2018-04-09,13:18,28.7111598,77.19321726,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+36806.0,2018-04-16,20:30,28.68766995,77.16371507,Minor injury,2.0,4.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36819.0,2018-04-22,18:40,28.6940704,77.08570132,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36821.0,2018-04-24,11:25,28.68321302,77.08665863,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36839.0,2018-05-09,12:39,28.70650487,77.19507033,Minor injury,2.0,6.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36843.0,2018-05-05,16:00,28.72012277,77.14947927,Minor injury,1.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+36845.0,2018-05-04,18:18,28.6940209,77.20473058,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36858.0,2018-05-16,10:00,28.69886303,77.07360972,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+36890.0,2018-06-05,03:45,28.72210936,77.09630198,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+36901.0,2018-06-08,08:30,28.6923827,77.19552654,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36904.0,2018-06-09,13:15,28.69157122,77.14174984,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+36912.0,2018-06-21,08:40,28.69194641,77.1294794,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36913.0,2018-06-20,14:30,28.70238263,77.20070158,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36916.0,2018-06-21,13:15,28.69470214,77.17273534,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36930.0,2018-07-05,04:25,28.7158525,77.07490731,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36947.0,2018-07-06,17:15,28.67781371,77.17011891,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36951.0,2018-07-10,12:30,28.71686298,77.16061951,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36953.0,2018-07-13,18:40,28.71951524,77.15915336,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36960.0,2018-07-08,17:50,28.69669584,77.17540166,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36968.0,2018-07-22,17:45,28.7204117,77.13629136,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36977.0,2018-07-27,12:00,28.72573223,77.14838337,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+36984.0,2018-08-04,13:45,28.71449823,77.20480285,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37004.0,2018-08-24,16:00,28.7023057,77.15595858,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37018.0,2018-08-31,15:00,28.6930187,77.10723452,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+37023.0,2018-08-31,17:00,28.67294554,77.17006506,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+37043.0,2018-09-17,19:15,28.69188821,77.17526776,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37044.0,2018-09-16,19:20,28.72156506,77.060863,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37050.0,2018-09-20,16:50,28.72513515,77.13635497,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37054.0,2018-09-19,15:10,28.72726071,77.13823459,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37055.0,2018-09-22,17:05,28.7186305,77.09952657,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37056.0,2018-09-24,21:50,28.69314838,77.08264708,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+37070.0,2018-09-28,17:40,28.72399418,77.17701705,Minor injury,3.0,3.0,Single carriageway,Raining + high winds,Daylight,NCT of Delhi,North West
+37072.0,2018-09-23,11:25,28.69875545,77.12006816,Minor injury,1.0,7.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37121.0,2018-08-20,17:55,28.69021337,77.11323684,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37126.0,2018-08-10,00:35,28.70368596,77.15715172,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37129.0,2018-08-24,19:40,28.72250128,77.10099462,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37145.0,2018-08-29,10:45,28.69354539,77.14020346,Minor injury,1.0,1.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+37155.0,2018-08-28,16:30,28.70953236,77.22027078,Minor injury,3.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37182.0,2018-09-06,14:40,28.71378262,77.18276249,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+37187.0,2018-09-10,20:13,28.69644186,77.06642237,Serious injury,2.0,5.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37195.0,2018-09-08,13:10,28.72457304,77.15066852,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37217.0,2018-09-19,09:40,28.69453411,77.06718133,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37226.0,2018-09-19,10:00,28.70050049,77.20405977,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37235.0,2018-09-12,08:40,28.70411565,77.20060616,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37238.0,2018-09-20,15:20,28.68488103,77.16334198,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37240.0,2018-09-23,19:45,28.71877729,77.09711664,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37261.0,2018-09-14,14:00,28.71631501,77.10812049,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37262.0,2018-09-28,19:50,28.71766095,77.13598027,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+37269.0,2018-10-01,14:00,28.69894591,77.14566617,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+37270.0,2018-09-29,21:30,28.69112044,77.14377933,Serious injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37282.0,2018-05-21,09:00,28.72123395,77.07773209,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+37289.0,2018-10-04,13:10,28.69319756,77.15934593,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37323.0,2018-10-21,08:10,28.71054493,77.1860282,Minor injury,1.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+37324.0,2018-10-21,10:05,28.6915909,77.18445335,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37326.0,2018-10-22,14:25,28.71697503,77.19224626,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37328.0,2018-10-19,08:00,28.71311078,77.17931922,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37334.0,2018-10-06,10:15,28.67604494,77.13831493,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37337.0,2018-10-13,12:00,28.71524728,77.20861362,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37347.0,2018-10-23,20:18,28.72055831,77.11147645,Minor injury,2.0,5.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37355.0,2018-10-17,11:30,28.69694585,77.19636052,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37372.0,2018-11-02,18:50,28.70392973,77.07941552,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37374.0,2018-10-29,22:30,28.72671558,77.17056705,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37375.0,2018-10-26,11:30,28.69996266,77.1093158,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37380.0,2018-11-08,16:50,28.70337959,77.07812993,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37381.0,2018-10-20,17:50,28.72619989,77.07998569,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37387.0,2018-11-02,18:35,28.71077873,77.16386683,Minor injury,1.0,1.0,Roundabout,Other,Darkness - lights lit,NCT of Delhi,North West
+37392.0,2018-10-01,18:05,28.71513385,77.10081132,Serious injury,3.0,2.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+37393.0,2018-11-03,14:00,28.70105489,77.1565798,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Daylight,NCT of Delhi,North West
+37396.0,2018-11-02,18:30,28.70644798,77.05863551,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37401.0,2018-10-30,22:30,28.69243007,77.11035496,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37411.0,2018-11-04,11:00,28.69484346,77.20910754,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+37428.0,2018-11-04,15:40,28.68475082,77.13604142,Minor injury,4.0,2.0,Dual carriageway,Raining + high winds,Darkness - lights lit,NCT of Delhi,North West
+37434.0,2018-09-25,01:30,28.69167519,77.17011905,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37439.0,2018-11-04,08:00,28.69842333,77.08369026,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37440.0,2018-11-11,09:34,28.70336872,77.16556818,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+37450.0,2018-10-17,09:00,28.71767947,77.07935515,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37456.0,2018-11-15,12:35,28.7187134,77.12591368,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37466.0,2018-11-14,17:30,28.69343904,77.07555463,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37469.0,2018-11-21,16:35,28.72385514,77.13756607,Minor injury,2.0,2.0,Dual carriageway,Fog or mist,Darkness - lights lit,NCT of Delhi,North West
+37477.0,2018-11-19,14:01,28.69701378,77.06338555,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37479.0,2018-10-23,12:45,28.69861699,77.1075139,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37491.0,2018-11-28,12:10,28.72345762,77.09522482,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37498.0,2018-11-25,07:43,28.71458464,77.15176555,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37507.0,2018-11-30,16:40,28.69835957,77.06025288,Serious injury,1.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+37520.0,2018-11-25,12:30,28.69175545,77.19278693,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37521.0,2018-11-30,21:52,28.69840044,77.14727357,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37534.0,2018-12-01,20:20,28.69952233,77.15021077,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37537.0,2018-11-28,16:00,28.69409457,77.07081266,Minor injury,1.0,1.0,Dual carriageway,Unknown,Darkness - lights lit,NCT of Delhi,North West
+37545.0,2018-12-03,12:35,28.68309989,77.12419233,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37547.0,2018-12-05,21:20,28.68693739,77.15752411,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37550.0,2018-12-03,16:30,28.72088693,77.08747844,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37561.0,2018-12-16,15:15,28.72822888,77.16778524,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37563.0,2018-12-19,18:15,28.69985606,77.16795485,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37566.0,2018-12-13,08:20,28.720772,77.11494794,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37590.0,2018-12-18,19:50,28.70716592,77.16206358,Minor injury,1.0,2.0,Roundabout,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+37601.0,2018-12-21,15:42,28.70030746,77.16411302,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37613.0,2018-12-23,17:30,28.68129405,77.14173935,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+37631.0,2018-01-01,14:19,28.69337237,77.13322238,Minor injury,2.0,6.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+37637.0,2018-01-11,19:05,28.71934373,77.07242749,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37646.0,2018-01-11,13:00,28.71596791,77.21603381,Minor injury,2.0,4.0,Dual carriageway,Snowing no high winds,Daylight,NCT of Delhi,North West
+37648.0,2018-01-15,11:40,28.70822819,77.12362362,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37652.0,2018-01-11,19:45,28.71129956,77.16579034,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37655.0,2018-01-12,14:05,28.72035428,77.10803642,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37677.0,2018-01-22,08:24,28.68237385,77.17188846,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+37681.0,2018-01-22,11:30,28.69352978,77.19659947,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37688.0,2018-01-25,00:29,28.69059044,77.16581186,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37692.0,2018-01-23,03:15,28.68355345,77.10574301,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37695.0,2018-01-04,19:20,28.70762146,77.07896417,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37702.0,2018-01-10,21:15,28.71211331,77.09818479,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37721.0,2018-01-28,17:20,28.69700186,77.1640987,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37728.0,2018-02-06,16:32,28.68104336,77.14926478,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+37731.0,2018-02-05,16:35,28.69105751,77.13060101,Minor injury,2.0,3.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+37739.0,2018-01-19,09:30,28.71687955,77.17370246,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37746.0,2018-02-11,09:05,28.68986103,77.14938338,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37752.0,2018-02-07,09:40,28.71362838,77.16047119,Minor injury,2.0,4.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37755.0,2018-02-11,17:05,28.71310841,77.07804613,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Darkness - lights lit,NCT of Delhi,North West
+37766.0,2018-01-21,13:00,28.7039216,77.08584583,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37771.0,2018-02-27,23:45,28.68735022,77.14106574,Fatal,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37779.0,2018-02-18,11:55,28.70244886,77.20335181,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37781.0,2018-02-14,13:05,28.69872548,77.21258576,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37789.0,2018-02-14,10:30,28.72023641,77.10662692,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37791.0,2018-02-22,15:02,28.72235853,77.15130091,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37798.0,2018-02-22,19:30,28.687349,77.14459308,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37806.0,2018-02-24,14:50,28.70359814,77.14232066,Minor injury,2.0,4.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37813.0,2018-02-25,07:45,28.70215263,77.1878132,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37814.0,2018-02-25,08:00,28.72723015,77.17104321,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37840.0,2018-03-03,16:00,28.71501025,77.21405305,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37842.0,2018-01-22,14:00,28.68823727,77.13603155,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37848.0,2018-03-04,10:00,28.71437891,77.20584607,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37857.0,2018-03-01,23:30,28.69072133,77.07086442,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37862.0,2018-03-11,10:41,28.68569803,77.16063902,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37863.0,2018-03-16,20:15,28.69469653,77.17566179,Fatal,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37882.0,2018-03-16,11:25,28.70107,77.14472634,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37889.0,2018-03-22,16:10,28.71860789,77.11544769,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37895.0,2018-03-29,20:10,28.72212817,77.07277584,Minor injury,1.0,1.0,One way street,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37914.0,2018-03-27,19:30,28.72242794,77.08865765,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37915.0,2018-03-27,20:39,28.69503173,77.13628149,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37919.0,2018-02-28,13:15,28.68734987,77.059286,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37920.0,2018-03-30,17:00,28.70158613,77.13269275,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+37949.0,2018-04-09,04:50,28.72556125,77.14850889,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+37961.0,2018-04-05,16:15,28.72022231,77.10503845,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37967.0,2018-04-15,23:10,28.67962578,77.1195931,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+37969.0,2018-04-15,15:35,28.70829423,77.13439855,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+37975.0,2018-04-15,19:00,28.72613667,77.13921394,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+37978.0,2018-04-08,06:20,28.67682308,77.11945791,Serious injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+37981.0,2018-04-13,18:45,28.68475449,77.15510886,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38001.0,2018-04-12,08:20,28.69946816,77.20138738,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38002.0,2018-04-21,12:45,28.69296372,77.08985537,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38004.0,2018-04-19,08:30,28.70970794,77.09115599,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38010.0,2018-04-05,16:30,28.69297736,77.07088033,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38015.0,2018-04-23,01:36,28.71251238,77.18481569,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38025.0,2018-04-26,14:25,28.6846983,77.14712844,Minor injury,3.0,1.0,Dual carriageway,Other,Daylight,NCT of Delhi,North West
+38038.0,2018-04-29,11:30,28.69152015,77.11922324,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38041.0,2018-02-25,18:25,28.70252638,77.2170035,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38058.0,2018-05-05,08:40,28.72036516,77.11014025,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+38062.0,2018-05-07,17:00,28.68636492,77.17578239,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38067.0,2018-04-29,14:00,28.69168751,77.19332012,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38073.0,2018-04-08,12:25,28.70338185,77.15021575,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38076.0,2018-05-09,20:20,28.69891256,77.18672429,Minor injury,2.0,2.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+38096.0,2018-05-09,03:45,28.70541491,77.13820279,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38108.0,2018-05-08,15:30,28.69323981,77.18238198,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38121.0,2018-05-14,18:50,28.70802669,77.13352996,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38133.0,2018-05-18,19:54,28.68837027,77.11529727,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38137.0,2018-05-24,12:00,28.72463743,77.07258159,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38142.0,2018-06-24,10:00,28.71026728,77.17226794,Minor injury,2.0,3.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+38155.0,2018-05-21,09:00,28.6917421,77.09081496,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38160.0,2018-05-23,18:10,28.6854385,77.12496092,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38178.0,2018-05-11,17:15,28.70321681,77.18200942,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38181.0,2018-06-04,22:30,28.6950018,77.11884167,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38197.0,2018-06-06,09:20,28.69354284,77.18654894,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38198.0,2018-06-07,16:55,28.69400326,77.13085176,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38220.0,2018-06-11,01:45,28.69719436,77.1247853,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38236.0,2018-06-15,17:05,28.70293772,77.12290041,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38237.0,2018-06-12,21:00,28.69225971,77.12064951,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38238.0,2018-04-01,18:00,28.71339261,77.20168854,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38240.0,2018-06-21,19:00,28.72805414,77.08124723,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38245.0,2018-06-23,12:30,28.68845171,77.17006538,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38249.0,2018-06-19,12:25,28.72070524,77.14232174,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38252.0,2018-06-23,18:00,28.70532623,77.2103786,Serious injury,3.0,1.0,Unknown,Fine no high winds,Daylight,NCT of Delhi,North West
+38261.0,2018-06-16,18:30,28.69176447,77.09940597,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38266.0,2018-06-28,12:45,28.69796966,77.13792287,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38271.0,2018-07-05,10:27,28.72007131,77.14087691,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38274.0,2018-06-30,15:35,28.6924928,77.14922547,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38279.0,2018-06-27,17:10,28.68892098,77.12597395,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38285.0,2018-07-05,17:15,28.69883191,77.17532725,Minor injury,2.0,5.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38287.0,2018-06-16,09:30,28.70567547,77.09090557,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38288.0,2018-07-04,18:30,28.69788001,77.14073766,Minor injury,3.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+38304.0,2018-07-08,08:50,28.68351905,77.17163554,Minor injury,2.0,2.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+38306.0,2018-06-26,19:00,28.67972041,77.13012202,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38314.0,2018-07-08,14:40,28.70157808,77.18253388,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38317.0,2018-07-09,10:15,28.72669451,77.14256267,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38328.0,2018-07-13,20:35,28.68897317,77.18042462,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38332.0,2018-07-16,14:00,28.70905373,77.16606414,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38339.0,2018-07-12,17:58,28.68400871,77.10732162,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38348.0,2018-07-08,18:50,28.69117945,77.06329546,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38349.0,2018-07-12,09:05,28.68101556,77.13761864,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38359.0,2018-07-26,10:30,28.7052014,77.15180265,Fatal,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38363.0,2018-07-24,14:19,28.67508581,77.16843335,Minor injury,4.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38373.0,2018-07-28,12:57,28.67589809,77.12134322,Minor injury,1.0,1.0,Roundabout,Raining no high winds,Daylight,NCT of Delhi,North West
+38395.0,2018-07-27,15:00,28.71410258,77.13847346,Minor injury,2.0,4.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+38412.0,2018-08-07,20:10,28.71241001,77.21252859,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38428.0,2018-08-15,17:30,28.69401126,77.1958139,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38431.0,2018-08-10,10:10,28.70573417,77.18393466,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38433.0,2018-08-13,12:00,28.69379834,77.17784661,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+38434.0,2018-08-22,18:44,28.6939883,77.11074608,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38435.0,2018-08-14,13:40,28.6883049,77.11215282,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38441.0,2018-08-16,10:00,28.70395281,77.14753724,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38445.0,2018-08-25,12:10,28.67444881,77.15789574,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+38447.0,2018-08-24,11:35,28.69057486,77.10378533,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38466.0,2018-09-07,16:00,28.7184983,77.10991009,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38486.0,2018-09-16,08:22,28.69026526,77.14030897,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38495.0,2018-08-12,14:00,28.67822653,77.12005814,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38497.0,2018-09-18,20:00,28.71279209,77.20906028,Minor injury,1.0,1.0,Single carriageway,Unknown,Daylight,NCT of Delhi,North West
+38506.0,2018-10-01,00:25,28.70577072,77.13834498,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38514.0,2018-10-01,14:45,28.7086658,77.2180103,Minor injury,7.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+38532.0,2018-10-07,17:20,28.67682992,77.12453658,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38540.0,2018-10-11,13:44,28.72259734,77.13039794,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38547.0,2018-10-22,20:05,28.6891302,77.11397905,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38567.0,2018-10-25,14:20,28.69128103,77.08014155,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38599.0,2018-11-04,15:55,28.71604689,77.10855014,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38608.0,2018-11-10,16:00,28.69223078,77.11831898,Minor injury,1.0,1.0,Slip road,Fine no high winds,Daylight,NCT of Delhi,North West
+38610.0,2018-11-10,22:40,28.71120083,77.08197371,Minor injury,2.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+38613.0,2018-11-04,16:55,28.7239409,77.08963408,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+38637.0,2018-11-16,14:35,28.72604032,77.10621669,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38644.0,2018-12-07,23:05,28.71434313,77.10966128,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38653.0,2018-12-01,08:15,28.70789902,77.19883821,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38670.0,2018-12-06,16:40,28.71619488,77.13609073,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38691.0,2018-12-16,17:00,28.6908775,77.12265379,Minor injury,2.0,1.0,One way street,Other,Darkness - lights unlit,NCT of Delhi,North West
+38693.0,2018-12-15,16:45,28.70240724,77.21354985,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38702.0,2018-12-25,16:15,28.69484492,77.18548791,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38707.0,2018-12-30,17:20,28.68129934,77.16883074,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38709.0,2018-12-26,13:00,28.69347681,77.13207356,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38713.0,2018-12-24,19:00,28.71082295,77.09058233,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38728.0,2018-01-10,15:45,28.68726165,77.12179275,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38738.0,2018-01-25,17:20,28.71124071,77.11537106,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38739.0,2018-01-20,07:30,28.7169643,77.07777159,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+38744.0,2018-01-20,11:55,28.69881978,77.10088871,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38747.0,2018-01-26,09:15,28.70786721,77.10556936,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38750.0,2018-01-26,19:10,28.70544481,77.0928573,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38753.0,2018-01-12,23:30,28.69418917,77.12868511,Minor injury,2.0,1.0,Single carriageway,Unknown,Darkness - lighting unknown,NCT of Delhi,North West
+38754.0,2018-02-01,16:50,28.68466901,77.16178676,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38758.0,2018-01-23,11:00,28.70629891,77.13702402,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38771.0,2018-02-11,21:00,28.68322627,77.14080406,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38817.0,2018-03-04,15:30,28.68425624,77.13068112,Minor injury,3.0,1.0,Single carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+38832.0,2018-03-10,10:24,28.68691696,77.0591994,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38836.0,2018-03-07,13:00,28.69235637,77.14545355,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38843.0,2018-03-16,09:00,28.69871791,77.11367352,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38846.0,2018-03-19,12:45,28.71053888,77.06477056,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38856.0,2018-03-11,16:15,28.70881203,77.10990571,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+38869.0,2018-04-04,13:45,28.68999563,77.13884296,Minor injury,3.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38882.0,2018-04-07,08:20,28.68871075,77.05817271,Minor injury,2.0,3.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+38883.0,2018-04-08,08:45,28.71163364,77.17296433,Minor injury,2.0,5.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38902.0,2018-04-09,20:25,28.70959968,77.12432916,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+38903.0,2018-04-19,16:20,28.71017469,77.2092799,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38914.0,2018-04-12,10:40,28.70988438,77.15591936,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38942.0,2018-05-04,08:30,28.71543089,77.11713144,Serious injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38955.0,2018-05-03,15:25,28.70397625,77.0836755,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38968.0,2018-05-17,16:50,28.70545969,77.20027822,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38977.0,2018-05-18,12:45,28.68621664,77.15655691,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38980.0,2018-03-12,13:15,28.67671825,77.17130768,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+38985.0,2018-05-12,16:30,28.69490067,77.20540668,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39011.0,2018-06-09,13:40,28.70404793,77.12152236,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39014.0,2018-04-26,08:30,28.70896487,77.0938998,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39018.0,2018-05-29,20:15,28.68789641,77.08766489,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39035.0,2018-06-16,12:20,28.67688353,77.13909872,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39042.0,2018-06-04,14:45,28.72287552,77.17456761,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39048.0,2018-06-14,17:30,28.68665806,77.10056063,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39049.0,2018-07-01,08:10,28.72718919,77.08855889,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39051.0,2018-07-03,13:25,28.720788,77.09237728,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39056.0,2018-06-25,03:20,28.72534817,77.138489,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39060.0,2018-07-02,13:40,28.69240862,77.07625694,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39070.0,2018-07-01,14:55,28.69436122,77.14132215,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39071.0,2018-07-12,02:35,28.70225984,77.14767001,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39088.0,2018-07-22,10:00,28.72514059,77.17442385,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39095.0,2018-07-28,19:00,28.71606027,77.0883222,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39110.0,2018-04-03,17:10,28.68626479,77.09504292,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39112.0,2018-04-07,22:25,28.69374975,77.06871505,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39116.0,2018-04-08,01:28,28.7208395,77.09337244,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39143.0,2018-04-14,13:00,28.69682668,77.13637394,Minor injury,1.0,1.0,Single carriageway,Snowing no high winds,Daylight,NCT of Delhi,North West
+39145.0,2018-04-13,17:15,28.71394243,77.18524935,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39149.0,2018-04-15,16:00,28.71516814,77.0748764,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39152.0,2018-04-15,17:25,28.70123191,77.21652952,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39157.0,2018-04-10,12:50,28.70805468,77.09922674,Minor injury,2.0,2.0,Single carriageway,Unknown,Daylight,NCT of Delhi,North West
+39161.0,2018-04-22,01:40,28.69752082,77.10688368,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39165.0,2018-04-24,13:45,28.6824627,77.15227221,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39171.0,2018-04-27,23:15,28.69309945,77.14380244,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39188.0,2018-04-18,15:45,28.67674148,77.11481775,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39202.0,2018-05-09,16:50,28.70621237,77.17779161,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39212.0,2018-05-11,09:40,28.71314287,77.21341622,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39213.0,2018-05-07,13:00,28.72752774,77.11055006,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39217.0,2018-05-14,12:40,28.68664307,77.08825564,Minor injury,2.0,5.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39253.0,2018-05-30,21:00,28.68561585,77.06616458,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights unlit,NCT of Delhi,North West
+39259.0,2018-05-21,21:40,28.67238453,77.17144733,Minor injury,2.0,3.0,Roundabout,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39263.0,2018-05-28,23:10,28.67712378,77.16727389,Minor injury,2.0,1.0,One way street,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39274.0,2018-05-30,00:10,28.7275482,77.11190602,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39275.0,2018-05-31,10:00,28.72016903,77.16189707,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39280.0,2018-06-02,15:40,28.69963645,77.15614099,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39295.0,2018-06-05,21:00,28.70419956,77.14470156,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39308.0,2018-06-14,15:40,28.68855191,77.05983514,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39310.0,2018-06-13,14:00,28.72483417,77.059292,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39311.0,2018-06-13,07:25,28.68797311,77.08807293,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39315.0,2018-06-14,09:13,28.68979781,77.0960761,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39329.0,2018-06-17,14:37,28.67592181,77.13212342,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39331.0,2018-06-22,18:15,28.69042322,77.0593301,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39338.0,2018-06-23,22:00,28.69624621,77.06342812,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39342.0,2018-06-14,12:10,28.71733301,77.18184957,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39360.0,2018-07-02,20:00,28.69659553,77.19612199,Minor injury,2.0,2.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+39361.0,2018-07-02,12:15,28.69446242,77.07034944,Minor injury,2.0,5.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+39365.0,2018-07-04,19:40,28.71429098,77.11554036,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+39369.0,2018-07-03,20:40,28.68136406,77.14160359,Fatal,4.0,6.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39371.0,2018-07-05,17:12,28.70862568,77.0669852,Minor injury,3.0,5.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39375.0,2018-07-06,08:15,28.72551664,77.14908346,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39379.0,2018-07-07,11:00,28.72772894,77.11628617,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39392.0,2018-07-09,21:50,28.68602232,77.17213167,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39427.0,2018-07-24,17:13,28.6794234,77.17753745,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39438.0,2018-07-26,12:05,28.68968691,77.06003661,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+39442.0,2018-08-03,12:30,28.69837621,77.20879294,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39444.0,2018-07-31,02:40,28.71390766,77.20141283,Minor injury,1.0,1.0,One way street,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39454.0,2018-08-08,16:45,28.69677128,77.14423992,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39458.0,2018-08-04,15:00,28.7119654,77.0925141,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39463.0,2018-08-10,15:00,28.70357798,77.2002728,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39479.0,2018-08-13,12:59,28.69046413,77.1027163,Minor injury,3.0,2.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39482.0,2018-08-15,09:00,28.67966281,77.12285203,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39486.0,2018-08-20,22:30,28.68444884,77.15038473,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39506.0,2018-08-26,13:30,28.71070483,77.20729795,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39511.0,2018-08-29,18:08,28.70485484,77.19248551,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39536.0,2018-09-06,12:00,28.72723117,77.09338073,Fatal,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39538.0,2018-09-07,14:20,28.7206934,77.13580177,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39550.0,2018-08-29,15:40,28.69744065,77.09134257,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39558.0,2018-09-12,08:54,28.72299381,77.1015865,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39562.0,2018-09-15,23:45,28.68763965,77.13179935,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39569.0,2018-09-20,10:10,28.68797641,77.1746713,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39570.0,2018-09-17,18:25,28.70922288,77.17045542,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39572.0,2018-09-21,16:47,28.68566006,77.09184796,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39578.0,2018-09-23,16:50,28.70422383,77.0824519,Minor injury,5.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39580.0,2018-09-24,00:55,28.71383297,77.19193404,Minor injury,1.0,1.0,Unknown,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39581.0,2018-09-22,08:30,28.69714766,77.08118943,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39591.0,2018-09-22,16:30,28.68858506,77.07987331,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39595.0,2018-09-26,15:36,28.71554596,77.19397988,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39596.0,2018-09-27,08:30,28.6711372,77.16892487,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39597.0,2018-09-30,10:25,28.68919504,77.15290844,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39599.0,2018-09-19,22:30,28.70147059,77.09559599,Minor injury,1.0,1.0,One way street,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39626.0,2018-10-11,12:20,28.69610038,77.15965129,Minor injury,2.0,1.0,Single carriageway,Unknown,Daylight,NCT of Delhi,North West
+39642.0,2018-10-15,10:00,28.68255997,77.15785886,Minor injury,2.0,1.0,Slip road,Fine no high winds,Daylight,NCT of Delhi,North West
+39661.0,2018-09-10,22:05,28.69283248,77.07771161,Minor injury,1.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39666.0,2018-10-21,20:05,28.71490053,77.11031861,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39678.0,2018-10-27,09:20,28.697592,77.11047836,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39680.0,2018-10-26,11:20,28.71926761,77.07725366,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39687.0,2018-10-28,16:30,28.72102834,77.10568847,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39695.0,2018-11-06,04:10,28.69680709,77.07035803,Minor injury,3.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39696.0,2018-10-28,21:55,28.72216461,77.15159799,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39699.0,2018-11-04,16:39,28.71956221,77.19668485,Minor injury,3.0,6.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39700.0,2018-11-04,20:45,28.70905017,77.20079487,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39713.0,2018-11-04,18:20,28.70240931,77.19033043,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39721.0,2018-10-21,07:10,28.70715865,77.06843924,Minor injury,1.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+39739.0,2018-11-16,11:30,28.71793905,77.12202754,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39752.0,2018-11-17,09:27,28.714321,77.16702158,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+39774.0,2018-11-27,02:50,28.69477213,77.15030512,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39809.0,2018-12-10,10:10,28.68610176,77.13934864,Minor injury,5.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39825.0,2018-12-10,01:29,28.72618478,77.10151782,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39829.0,2018-12-13,16:59,28.7104328,77.11657372,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39831.0,2018-12-18,03:40,28.7067527,77.10064108,Minor injury,3.0,4.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39854.0,2018-12-19,14:20,28.6781332,77.14687267,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39858.0,2018-12-14,12:00,28.67982385,77.16895467,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39872.0,2018-12-29,15:00,28.68949032,77.07872192,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39874.0,2018-12-23,20:50,28.69856997,77.11522572,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39877.0,2018-01-04,07:15,28.71148088,77.14313049,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39878.0,2018-01-03,11:30,28.68999375,77.1318166,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39888.0,2018-01-06,18:05,28.70163359,77.21308606,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39894.0,2018-01-17,19:28,28.69266183,77.18181898,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39897.0,2018-01-07,21:30,28.70029844,77.07450724,Minor injury,3.0,2.0,Dual carriageway,Raining + high winds,Darkness - lights lit,NCT of Delhi,North West
+39913.0,2018-01-20,13:05,28.7236801,77.17277303,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+39916.0,2018-01-18,07:55,28.68819793,77.09832892,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39919.0,2018-01-22,02:43,28.70282966,77.18521461,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39920.0,2018-01-23,15:02,28.72761291,77.17605948,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39935.0,2018-01-14,20:00,28.70101145,77.14539166,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39937.0,2018-01-28,08:30,28.70389121,77.07205865,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39939.0,2018-01-25,18:10,28.70569599,77.21003345,Minor injury,1.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39942.0,2018-01-29,20:50,28.6931754,77.06434565,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39943.0,2018-01-27,14:40,28.71896259,77.10257332,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39946.0,2018-01-29,19:15,28.70908374,77.12848067,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39948.0,2018-01-31,10:30,28.72300257,77.15036647,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39952.0,2018-01-27,18:50,28.71537122,77.08236172,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39954.0,2018-01-29,03:32,28.70208679,77.17452502,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39962.0,2018-02-03,15:30,28.68132711,77.14607959,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39967.0,2018-02-05,19:30,28.67777309,77.16920078,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39985.0,2018-02-09,22:20,28.70550982,77.19044615,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+39990.0,2018-02-20,18:04,28.71456708,77.09893822,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+39991.0,2018-02-18,11:00,28.6793733,77.14535212,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+39999.0,2018-02-14,20:08,28.67988307,77.1205622,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40003.0,2018-02-18,23:18,28.70026419,77.10533632,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40007.0,2018-02-21,09:15,28.68659599,77.1182121,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40010.0,2018-02-23,19:30,28.70296329,77.21793812,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Darkness - lights lit,NCT of Delhi,North West
+40012.0,2018-02-23,03:40,28.69269177,77.12899675,Minor injury,2.0,2.0,Single carriageway,Snowing no high winds,Darkness - lights lit,NCT of Delhi,North West
+40016.0,2018-02-26,11:30,28.69336105,77.1220688,Minor injury,2.0,1.0,Unknown,Fine no high winds,Daylight,NCT of Delhi,North West
+40018.0,2018-02-27,15:00,28.71088365,77.1872268,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40060.0,2018-03-19,14:15,28.6825741,77.10758235,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40061.0,2018-03-20,03:30,28.72661366,77.17963691,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40062.0,2018-03-20,22:20,28.69860341,77.09833218,Minor injury,6.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40063.0,2018-03-17,22:29,28.71744293,77.08994649,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40064.0,2018-03-18,14:47,28.71299199,77.18703434,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40073.0,2018-03-29,15:47,28.6824644,77.106523,Minor injury,3.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40074.0,2018-03-26,08:45,28.70602228,77.07489601,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40126.0,2018-06-07,07:45,28.68863532,77.11932144,Minor injury,2.0,1.0,Unknown,Fine no high winds,Daylight,NCT of Delhi,North West
+40127.0,2018-04-23,12:53,28.71387996,77.09206463,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40130.0,2018-04-25,08:10,28.72320217,77.1528531,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40134.0,2018-04-26,18:05,28.6881182,77.07384511,Minor injury,2.0,2.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+40139.0,2018-04-26,17:30,28.7030789,77.08096189,Minor injury,2.0,4.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40152.0,2018-05-04,19:10,28.709733,77.0916903,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40188.0,2018-05-21,23:47,28.70936807,77.06928456,Minor injury,3.0,2.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+40191.0,2018-05-23,16:48,28.70386093,77.07950676,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40195.0,2018-05-23,09:00,28.67799568,77.17722273,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40200.0,2018-05-27,13:40,28.69791739,77.16794681,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40201.0,2018-05-24,11:40,28.70818234,77.19647394,Serious injury,3.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40208.0,2018-06-03,15:25,28.70786877,77.15845845,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40211.0,2018-06-03,17:25,28.67940887,77.12331763,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40224.0,2018-06-09,11:25,28.71904516,77.12764452,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40227.0,2018-06-10,19:12,28.69188705,77.07922105,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40229.0,2018-06-15,14:55,28.72644426,77.15480517,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40230.0,2018-06-14,08:20,28.68874633,77.07642322,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40231.0,2018-06-15,10:50,28.71388683,77.19742046,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40256.0,2018-06-24,19:10,28.71259596,77.18687059,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40281.0,2018-07-06,16:10,28.68337122,77.16883487,Minor injury,1.0,1.0,Single carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+40291.0,2018-07-11,13:05,28.71129111,77.20502026,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40295.0,2018-07-12,17:30,28.70833828,77.0617061,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40313.0,2018-07-20,20:38,28.69154428,77.0694259,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40318.0,2018-07-24,17:00,28.69190158,77.1991428,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Daylight,NCT of Delhi,North West
+40342.0,2018-08-07,15:40,28.71677305,77.09109639,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40355.0,2018-08-13,11:45,28.69191708,77.135603,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40359.0,2018-08-14,19:30,28.71737779,77.18249929,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40360.0,2018-08-13,12:20,28.68211592,77.11885865,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40372.0,2018-08-24,19:00,28.70533388,77.14820657,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40375.0,2018-08-25,14:10,28.68100899,77.17168256,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40387.0,2018-08-29,18:26,28.69469798,77.20916201,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40388.0,2018-09-03,13:30,28.69785452,77.0762775,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40404.0,2018-09-09,08:20,28.68654608,77.1632752,Minor injury,4.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40409.0,2018-09-11,04:55,28.72745587,77.06286745,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40414.0,2018-09-10,13:45,28.68412605,77.06265478,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40417.0,2018-09-13,14:20,28.71682631,77.0948035,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40439.0,2018-09-22,23:50,28.72372031,77.09488842,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40445.0,2018-09-28,17:17,28.71420802,77.12532699,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+40450.0,2018-09-28,19:15,28.69043826,77.11109493,Minor injury,3.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+40460.0,2018-09-29,08:20,28.72530562,77.09263531,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40461.0,2018-10-04,14:15,28.71826074,77.2040424,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40470.0,2018-10-09,17:15,28.68544099,77.10755638,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40471.0,2018-10-10,10:30,28.68214245,77.12976587,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40472.0,2018-10-11,07:30,28.71046727,77.06778495,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40473.0,2018-10-11,20:20,28.71896499,77.19653575,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+40484.0,2018-10-13,14:00,28.72365403,77.18737267,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40488.0,2018-10-17,17:30,28.71468193,77.15418394,Minor injury,1.0,1.0,Unknown,Fine no high winds,Daylight,NCT of Delhi,North West
+40496.0,2018-10-21,17:56,28.68394452,77.10722109,Minor injury,3.0,3.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40514.0,2018-10-28,15:25,28.69274187,77.17756718,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40518.0,2018-10-31,19:57,28.6977398,77.1886487,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40520.0,2018-10-30,06:50,28.71673379,77.19530139,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40524.0,2018-11-01,08:10,28.6817876,77.12920891,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40525.0,2018-11-02,07:45,28.69117566,77.05897651,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40533.0,2018-11-08,17:31,28.71531998,77.20017711,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+40534.0,2018-11-04,19:00,28.71541985,77.08047497,Minor injury,3.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40540.0,2018-11-10,14:45,28.69565563,77.16870216,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40547.0,2018-11-11,12:07,28.72209783,77.06138329,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40551.0,2018-11-12,09:45,28.70461752,77.15050367,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40573.0,2018-11-22,14:50,28.70143853,77.2153715,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40575.0,2018-11-23,12:00,28.70776995,77.13197439,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40578.0,2018-11-25,22:43,28.70373359,77.06510096,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40580.0,2018-11-22,08:15,28.67436879,77.16357846,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40581.0,2018-11-26,13:55,28.69986327,77.10737599,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40593.0,2018-11-23,08:10,28.7073726,77.17367547,Minor injury,2.0,2.0,Dual carriageway,Fog or mist,Daylight,NCT of Delhi,North West
+40594.0,2018-11-27,16:00,28.71863267,77.18227143,Serious injury,1.0,1.0,Unknown,Fog or mist,Darkness - no lighting,NCT of Delhi,North West
+40599.0,2018-12-04,21:45,28.68824525,77.09221874,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40600.0,2018-11-15,07:45,28.71351435,77.20904029,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40609.0,2018-12-07,16:10,28.7092395,77.21179776,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40622.0,2018-12-21,17:05,28.70573114,77.14813188,Minor injury,5.0,5.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40631.0,2018-12-19,15:20,28.72159784,77.15994011,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40637.0,2018-12-28,13:30,28.70226562,77.15141397,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40646.0,2018-04-02,15:02,28.70207948,77.18227612,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40647.0,2018-04-03,12:07,28.69921513,77.1878917,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40666.0,2018-04-13,08:45,28.68149403,77.12725611,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40673.0,2018-04-05,21:10,28.68009359,77.16422617,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40688.0,2018-04-24,16:15,28.68706676,77.128083,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40697.0,2018-04-28,08:28,28.69188781,77.09950578,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40738.0,2018-05-18,20:30,28.72648348,77.07563138,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40743.0,2018-05-26,10:30,28.68282498,77.08384375,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40751.0,2018-06-03,14:25,28.71057126,77.2133144,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40773.0,2018-06-17,14:03,28.68945805,77.19548994,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40777.0,2018-06-23,02:47,28.68871866,77.12895949,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+40783.0,2018-06-23,16:32,28.69230808,77.18596676,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40789.0,2018-06-25,18:00,28.70447299,77.17489309,Minor injury,1.0,1.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+40792.0,2018-06-27,19:29,28.70163831,77.14486945,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40803.0,2018-07-07,17:10,28.71311391,77.19829394,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40818.0,2018-07-20,17:30,28.72139936,77.1214865,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40822.0,2018-07-23,11:55,28.72531148,77.08391829,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40833.0,2018-07-28,18:28,28.70805803,77.17434046,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40835.0,2018-08-01,12:45,28.69043081,77.14638791,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40839.0,2018-07-30,00:10,28.69523469,77.15701,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lighting unknown,NCT of Delhi,North West
+40846.0,2018-08-07,08:40,28.68995355,77.17996865,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40859.0,2018-08-14,15:46,28.70229633,77.20657716,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40865.0,2018-08-19,08:20,28.7115028,77.17514536,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+40870.0,2018-08-22,23:08,28.7153114,77.1963398,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40874.0,2018-07-28,23:55,28.69437755,77.08612522,Minor injury,2.0,1.0,Single carriageway,Unknown,Darkness - lights lit,NCT of Delhi,North West
+40875.0,2018-08-24,13:30,28.703637,77.077874,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40890.0,2018-09-06,18:25,28.71743621,77.06847506,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40907.0,2018-09-14,16:26,28.69016244,77.07483617,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40922.0,2018-09-27,00:15,28.69300112,77.09775976,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40931.0,2018-09-30,19:45,28.72350911,77.15283479,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+40958.0,2018-10-13,12:00,28.72479286,77.13655807,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40963.0,2018-10-12,17:10,28.70481377,77.09693314,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+40966.0,2018-10-19,18:30,28.70532737,77.13815336,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40971.0,2018-10-23,10:05,28.70478105,77.09828942,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40983.0,2018-10-28,13:20,28.71938485,77.17723994,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40984.0,2018-10-21,14:10,28.71376684,77.09286199,Minor injury,1.0,1.0,Unknown,Raining no high winds,Daylight,NCT of Delhi,North West
+40986.0,2018-10-29,19:11,28.70601777,77.08670665,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+40988.0,2018-10-31,12:00,28.71054173,77.1370096,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40990.0,2018-11-03,14:28,28.69772192,77.07805647,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+40996.0,2018-11-03,16:45,28.69450663,77.18323038,Minor injury,2.0,2.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+41002.0,2018-11-08,20:55,28.70890568,77.21362371,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41003.0,2018-11-08,19:45,28.71124257,77.20684143,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41009.0,2018-11-13,01:59,28.67784442,77.1453251,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41010.0,2018-11-13,02:00,28.69086368,77.09256866,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41014.0,2018-11-11,19:00,28.6945624,77.13368197,Minor injury,1.0,1.0,Single carriageway,Unknown,Darkness - lighting unknown,NCT of Delhi,North West
+41018.0,2018-11-15,21:25,28.67177992,77.1684483,Minor injury,2.0,1.0,Single carriageway,Raining + high winds,Darkness - lights lit,NCT of Delhi,North West
+41022.0,2018-11-15,17:27,28.67770625,77.1762144,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41027.0,2018-11-21,09:15,28.68365962,77.10868008,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41033.0,2018-11-23,09:10,28.71968045,77.07852187,Minor injury,2.0,1.0,Single carriageway,Fog or mist,Daylight,NCT of Delhi,North West
+41044.0,2018-11-01,13:50,28.68411638,77.10847662,Minor injury,4.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41048.0,2018-12-05,14:28,28.68163951,77.10659117,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41077.0,2018-12-26,14:28,28.71281966,77.17055586,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41086.0,2018-01-03,17:42,28.71763159,77.18212774,Fatal,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41089.0,2018-01-04,21:10,28.68757033,77.20081102,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41098.0,2018-01-07,12:20,28.71960143,77.16080663,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+41105.0,2018-01-12,17:05,28.69990071,77.07443773,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41106.0,2018-01-01,01:00,28.69288335,77.14781716,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41141.0,2018-01-19,17:35,28.71264917,77.21383297,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41151.0,2018-01-19,18:20,28.70119516,77.09212881,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41153.0,2018-01-20,09:40,28.67913229,77.13529054,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+41157.0,2018-01-21,17:40,28.72054124,77.06506917,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41162.0,2018-01-18,14:00,28.72068723,77.14583501,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41174.0,2018-01-27,18:15,28.69556157,77.10845029,Minor injury,2.0,3.0,Roundabout,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41178.0,2018-01-28,16:30,28.7061895,77.09490466,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+41184.0,2018-01-28,15:20,28.68170147,77.12381063,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41199.0,2018-01-11,08:12,28.69270016,77.19905816,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41207.0,2018-01-31,19:48,28.71756906,77.17764519,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41209.0,2018-02-02,12:00,28.71341806,77.0657535,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41212.0,2018-02-03,21:00,28.68836713,77.11435131,Serious injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41213.0,2018-02-04,13:00,28.67419361,77.1688138,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41225.0,2018-02-14,17:25,28.69646322,77.06224567,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41227.0,2018-02-10,13:50,28.71518524,77.09433183,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41230.0,2018-02-14,10:44,28.69666612,77.13449973,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41231.0,2018-02-12,22:35,28.67892637,77.14008377,Minor injury,2.0,1.0,Single carriageway,Raining + high winds,Darkness - lights lit,NCT of Delhi,North West
+41233.0,2018-02-11,17:10,28.71481567,77.2049038,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights unlit,NCT of Delhi,North West
+41248.0,2018-02-16,20:20,28.72296819,77.1804041,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41256.0,2018-02-22,10:15,28.71857001,77.19554414,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Daylight,NCT of Delhi,North West
+41257.0,2018-02-23,12:58,28.71803458,77.16018296,Fatal,2.0,3.0,Single carriageway,Snowing no high winds,Daylight,NCT of Delhi,North West
+41266.0,2018-02-24,12:50,28.70101352,77.07016223,Minor injury,3.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+41282.0,2018-03-01,01:21,28.6865351,77.13410559,Serious injury,1.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41283.0,2018-02-28,19:09,28.68896879,77.07810901,Minor injury,2.0,3.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41288.0,2018-02-28,09:10,28.69638793,77.05884525,Minor injury,2.0,1.0,Single carriageway,Snowing no high winds,Daylight,NCT of Delhi,North West
+41295.0,2018-03-05,19:30,28.67476907,77.16098976,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41302.0,2018-02-26,17:40,28.69636155,77.0879588,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41303.0,2018-03-07,12:30,28.69164727,77.19688889,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41315.0,2018-03-05,18:10,28.67879684,77.16212849,Minor injury,2.0,1.0,Unknown,Fine no high winds,Daylight,NCT of Delhi,North West
+41320.0,2018-03-08,09:25,28.70098669,77.13200383,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41324.0,2018-03-10,17:10,28.72229599,77.08525678,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights unlit,NCT of Delhi,North West
+41353.0,2018-03-18,14:00,28.69613339,77.12949175,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41355.0,2018-03-19,01:00,28.6939836,77.13991636,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41368.0,2018-03-20,18:39,28.72695838,77.12620339,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41380.0,2018-03-30,20:40,28.67912991,77.14169106,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41388.0,2018-04-04,15:15,28.72386109,77.17723252,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41391.0,2018-04-07,16:00,28.72176207,77.14509082,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41405.0,2018-04-07,08:15,28.71462638,77.15899609,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41416.0,2018-04-11,15:15,28.70055299,77.20109721,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41417.0,2018-04-21,14:10,28.67928681,77.16297943,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41418.0,2018-04-20,08:01,28.7182474,77.1006032,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41421.0,2018-04-10,14:08,28.72056105,77.17736058,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41433.0,2018-05-03,15:15,28.70400994,77.18076852,Minor injury,1.0,1.0,Single carriageway,Unknown,Daylight,NCT of Delhi,North West
+41440.0,2018-04-28,17:20,28.71573266,77.08394525,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41463.0,2018-04-28,10:38,28.70138655,77.11717363,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41470.0,2018-05-13,17:00,28.69504544,77.11564426,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+41488.0,2018-05-17,19:23,28.68722111,77.09757932,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41500.0,2018-05-30,10:15,28.72140135,77.10724431,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41507.0,2018-06-04,18:55,28.7135232,77.0641134,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+41508.0,2018-06-03,12:05,28.7038215,77.13638362,Minor injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41521.0,2018-06-12,12:22,28.70975089,77.16943834,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41532.0,2018-06-16,18:25,28.72200974,77.15218815,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41534.0,2018-06-14,09:05,28.70006201,77.06313218,Minor injury,2.0,1.0,Dual carriageway,Raining + high winds,Daylight,NCT of Delhi,North West
+41542.0,2018-06-21,17:05,28.6943745,77.11770641,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41547.0,2018-06-24,13:20,28.69736273,77.16455456,Serious injury,1.0,1.0,Slip road,Fine no high winds,Daylight,NCT of Delhi,North West
+41552.0,2018-06-27,18:30,28.7185736,77.08363076,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41572.0,2018-07-08,16:46,28.72015073,77.07813545,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41578.0,2018-07-07,12:27,28.69793223,77.09235312,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41579.0,2018-07-14,12:00,28.70414791,77.2082808,Serious injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+41580.0,2018-07-11,16:15,28.71377703,77.11725531,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41590.0,2018-07-19,16:35,28.70240485,77.07804745,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41602.0,2018-07-09,16:29,28.68587285,77.1060229,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41618.0,2018-08-06,03:04,28.69191596,77.19804669,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41629.0,2018-08-13,11:55,28.72768847,77.11371374,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+41643.0,2018-08-19,15:15,28.70878171,77.12489763,Serious injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41647.0,2018-08-21,02:17,28.68700384,77.13482859,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41650.0,2018-08-19,17:15,28.71277481,77.14645221,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41666.0,2018-09-07,10:15,28.6810962,77.17472493,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41669.0,2018-08-29,20:25,28.70649964,77.20754367,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41677.0,2018-09-12,18:00,28.71851812,77.1778557,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41691.0,2018-09-21,23:15,28.70275718,77.12869067,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41704.0,2018-09-26,18:52,28.71780477,77.19369401,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41721.0,2018-10-10,20:38,28.71584543,77.08123635,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41724.0,2018-10-12,13:15,28.70589454,77.14958039,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+41726.0,2018-10-17,08:57,28.71483521,77.06478245,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41746.0,2018-10-31,15:23,28.68807331,77.14734285,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41765.0,2018-11-11,17:05,28.71140829,77.05944641,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights unlit,NCT of Delhi,North West
+41767.0,2018-11-07,16:39,28.68386601,77.16021139,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41773.0,2018-11-12,14:38,28.70411864,77.13225337,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41791.0,2018-11-25,16:43,28.71006297,77.0656934,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41803.0,2018-11-30,07:50,28.72152171,77.12926981,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41804.0,2018-12-01,16:30,28.6761402,77.16707589,Minor injury,2.0,4.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41808.0,2018-12-08,17:45,28.69820111,77.08889107,Minor injury,2.0,1.0,Unknown,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41814.0,2018-12-03,18:18,28.71200598,77.07588642,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41832.0,2018-12-08,22:30,28.71356915,77.07214811,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41838.0,2018-12-15,16:48,28.69515638,77.12952473,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41849.0,2018-12-13,16:00,28.68538349,77.10488002,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+41857.0,2018-12-14,18:10,28.69099854,77.0581497,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41867.0,2018-01-04,18:30,28.71433318,77.1740351,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41869.0,2018-01-05,16:27,28.72663832,77.14493548,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+41870.0,2018-01-06,21:50,28.68380643,77.14622615,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41873.0,2018-01-07,14:17,28.70507067,77.17674009,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+41880.0,2018-01-11,17:13,28.71835755,77.05897526,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41887.0,2018-01-14,22:05,28.71494956,77.18888572,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+41899.0,2018-01-19,15:10,28.68731278,77.13035817,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+41922.0,2018-01-28,11:00,28.71542921,77.16123023,Minor injury,3.0,4.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+41926.0,2018-01-31,19:24,28.70385182,77.11855622,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+41953.0,2018-02-15,08:30,28.72142443,77.06217099,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41958.0,2018-02-15,18:00,28.68079332,77.14922754,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41969.0,2018-02-21,14:30,28.70476119,77.18565544,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,NCT of Delhi,North West
+41970.0,2018-02-21,07:15,28.71496578,77.18704103,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+41974.0,2018-02-28,10:00,28.68758815,77.14236428,Minor injury,2.0,1.0,Dual carriageway,Snowing no high winds,Daylight,NCT of Delhi,North West
+41977.0,2018-03-01,15:30,28.72850147,77.12932174,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+41986.0,2018-03-02,20:45,28.71859665,77.16254005,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42014.0,2018-03-26,20:15,28.7208122,77.17823447,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42015.0,2018-03-24,18:40,28.68763867,77.13869295,Fatal,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42017.0,2018-03-14,08:50,28.69181708,77.11382943,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42024.0,2018-03-30,16:39,28.71652112,77.06013606,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42026.0,2018-03-19,13:35,28.7227727,77.07917202,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42029.0,2018-03-25,05:20,28.68707817,77.13143264,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42038.0,2018-04-05,19:05,28.68225623,77.16390182,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42040.0,2018-04-11,21:45,28.71851092,77.12861771,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42041.0,2018-04-11,19:20,28.68276916,77.14202413,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42050.0,2018-04-08,15:40,28.71715538,77.20467476,Minor injury,1.0,1.0,Single carriageway,Unknown,Daylight,NCT of Delhi,North West
+42052.0,2018-04-17,23:10,28.67605615,77.14624085,Minor injury,3.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+42060.0,2018-04-02,04:05,28.71651467,77.07427604,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42080.0,2018-04-29,17:04,28.72769821,77.06882314,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42081.0,2018-05-03,13:44,28.6964061,77.145621,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42096.0,2018-05-07,18:00,28.69352104,77.20486313,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42099.0,2018-05-13,15:40,28.70150684,77.09093007,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42105.0,2018-05-16,08:35,28.71886152,77.15087577,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42120.0,2018-05-25,07:55,28.6913032,77.10230974,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42121.0,2018-05-23,18:10,28.71818261,77.14537517,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42126.0,2018-05-26,14:55,28.6971037,77.18258482,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42138.0,2018-06-05,03:00,28.71274337,77.17802463,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+42141.0,2018-05-28,21:51,28.68292263,77.16180883,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42145.0,2018-06-07,16:10,28.71538689,77.0648118,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42148.0,2018-06-09,08:00,28.69652294,77.10464153,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42162.0,2018-06-19,14:00,28.69639831,77.15817502,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42169.0,2018-06-18,17:45,28.70648944,77.10347314,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42172.0,2018-06-22,07:45,28.71028949,77.14105896,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+42173.0,2018-06-24,18:30,28.72039612,77.06450799,Minor injury,2.0,2.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+42174.0,2018-06-15,19:35,28.71769679,77.08008419,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42175.0,2018-06-26,03:10,28.68748895,77.09878248,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42182.0,2018-06-18,13:00,28.69153681,77.20374565,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42190.0,2018-06-30,10:55,28.7108167,77.06657713,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42195.0,2018-07-05,18:00,28.71110172,77.13048338,Minor injury,2.0,2.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42212.0,2018-07-12,16:05,28.68930037,77.07297298,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+42230.0,2018-08-08,17:20,28.69844802,77.2028666,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42233.0,2018-08-01,15:50,28.72474708,77.06455613,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42249.0,2018-08-15,06:55,28.68727845,77.11348999,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+42253.0,2018-08-14,21:35,28.6994483,77.17302176,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42255.0,2018-08-15,15:50,28.71651622,77.20181123,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42257.0,2018-08-17,20:20,28.67764264,77.13863442,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+42259.0,2018-08-16,19:10,28.70702339,77.11452426,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42261.0,2018-08-19,12:40,28.69437841,77.15742164,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42265.0,2018-08-21,20:35,28.71484824,77.15703305,Minor injury,2.0,3.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+42274.0,2018-08-27,19:50,28.72819525,77.06993201,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42283.0,2018-09-12,07:30,28.68214948,77.11276121,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42296.0,2018-09-12,11:00,28.70709116,77.14939552,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42299.0,2018-09-27,09:05,28.69610635,77.06310084,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42312.0,2018-09-28,17:20,28.70454861,77.19064361,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42317.0,2018-10-01,22:00,28.70788325,77.10131189,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42323.0,2018-10-08,22:45,28.68886209,77.16444063,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42329.0,2018-10-06,21:05,28.72675441,77.06207205,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+42342.0,2018-10-14,20:50,28.67757549,77.15274922,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42350.0,2018-10-24,12:40,28.722158,77.06050508,Serious injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42358.0,2018-11-01,14:30,28.70440477,77.07134131,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42361.0,2018-11-03,19:45,28.72121695,77.18079343,Minor injury,3.0,2.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+42363.0,2018-11-03,16:10,28.69508888,77.07574948,Minor injury,2.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+42366.0,2018-10-29,07:30,28.71341086,77.18613693,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42369.0,2018-11-03,18:50,28.69827405,77.19302964,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+42370.0,2018-11-07,08:10,28.71198015,77.13820465,Minor injury,2.0,2.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+42371.0,2018-11-14,01:15,28.72146125,77.14815241,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42379.0,2018-11-07,15:10,28.70993911,77.18453397,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42382.0,2018-11-15,08:30,28.71718954,77.08671667,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42407.0,2018-11-29,12:00,28.69175225,77.08660247,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+42409.0,2018-12-02,15:30,28.7043933,77.08845958,Minor injury,3.0,1.0,Dual carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42416.0,2018-12-08,18:02,28.68916862,77.14208901,Minor injury,1.0,1.0,One way street,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42425.0,2018-11-26,08:00,28.70229365,77.13747824,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42429.0,2018-12-12,18:05,28.70127356,77.14374568,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42445.0,2018-12-22,19:45,28.69135887,77.11392945,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42447.0,2018-12-22,12:00,28.71908591,77.12525146,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42455.0,2018-11-30,14:05,28.67869387,77.14622904,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42457.0,2018-12-29,08:50,28.698679,77.12508347,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42476.0,2018-01-14,13:34,28.70547814,77.21230481,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42481.0,2018-01-17,04:30,28.68627403,77.14675446,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42483.0,2018-01-20,09:15,28.71360323,77.19154046,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42506.0,2018-01-30,22:50,28.71603989,77.05897792,Minor injury,3.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42511.0,2018-01-11,16:20,28.71098454,77.08578849,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42513.0,2018-01-27,14:45,28.71110522,77.1533757,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42534.0,2018-02-24,15:16,28.6899693,77.13261391,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42536.0,2018-02-17,19:45,28.69648252,77.06148298,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42554.0,2018-03-02,19:20,28.6939387,77.14472621,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42558.0,2018-03-07,09:05,28.67951409,77.17076367,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42559.0,2018-03-05,21:45,28.67411945,77.16121168,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42568.0,2018-03-16,09:00,28.70231276,77.06387361,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42581.0,2018-03-29,16:50,28.70010157,77.2105421,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42587.0,2018-03-28,16:00,28.70489815,77.15417705,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42594.0,2018-04-07,17:56,28.71991951,77.07762537,Serious injury,2.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42615.0,2018-04-04,12:25,28.69062434,77.14826125,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42640.0,2018-04-24,11:50,28.71170398,77.20330586,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42642.0,2018-04-25,08:46,28.71146716,77.15929022,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42655.0,2018-04-29,02:10,28.72165683,77.12297977,Serious injury,1.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42656.0,2018-04-29,14:35,28.68767777,77.17946769,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42666.0,2018-05-04,17:45,28.70935281,77.11010073,Minor injury,4.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42684.0,2018-05-11,14:25,28.6907416,77.1053283,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42691.0,2018-05-11,07:05,28.71467245,77.20213826,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42697.0,2018-05-21,19:30,28.70418889,77.16037771,Minor injury,2.0,1.0,Dual carriageway,Other,Daylight,NCT of Delhi,North West
+42711.0,2018-05-20,18:15,28.72222648,77.14675488,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42715.0,2018-05-20,16:00,28.71073557,77.20820407,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42722.0,2018-05-23,07:45,28.71156117,77.21351883,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42723.0,2018-05-25,18:10,28.68181835,77.12381308,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42738.0,2018-06-01,09:10,28.70994559,77.11638423,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42746.0,2018-06-06,12:15,28.69762562,77.13184337,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42748.0,2018-06-03,13:00,28.69960259,77.15967777,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+42755.0,2018-06-10,23:35,28.68611751,77.06742914,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42765.0,2018-06-15,11:40,28.70630515,77.21051125,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42773.0,2018-06-18,10:00,28.71238639,77.11359067,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42774.0,2018-06-19,10:40,28.69038691,77.12116911,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42777.0,2018-06-22,21:59,28.71019466,77.15253808,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42780.0,2018-06-24,12:15,28.71030327,77.08348846,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42800.0,2018-07-08,22:30,28.69098143,77.13092169,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42805.0,2018-07-06,13:40,28.67983571,77.14270186,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+42809.0,2018-07-12,09:00,28.72077371,77.08479174,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42812.0,2018-07-13,23:50,28.70731418,77.10006455,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42823.0,2018-07-21,18:25,28.72581411,77.09183144,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42830.0,2018-07-25,13:15,28.72005849,77.06286238,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42834.0,2018-07-28,15:50,28.72085371,77.16061534,Serious injury,1.0,1.0,Unknown,Raining no high winds,Daylight,NCT of Delhi,North West
+42844.0,2018-08-02,13:00,28.71666469,77.13947181,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42856.0,2018-08-08,10:45,28.68471326,77.12589772,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42869.0,2018-08-17,08:00,28.6864818,77.15953218,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42873.0,2018-08-19,16:20,28.71555633,77.18836986,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42879.0,2018-08-23,00:10,28.71367,77.19004749,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42883.0,2018-08-24,19:20,28.72113084,77.18083782,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42893.0,2018-08-30,19:00,28.68085093,77.14126917,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42894.0,2018-09-03,03:10,28.72749058,77.17297312,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42895.0,2018-08-30,19:30,28.70634365,77.17716222,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42909.0,2018-09-07,12:40,28.71708042,77.16597349,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42924.0,2018-09-12,15:42,28.69403838,77.09105606,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+42926.0,2018-09-12,20:15,28.69574307,77.11840878,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+42928.0,2018-09-17,10:30,28.69478135,77.1648114,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42946.0,2018-09-27,17:55,28.68081016,77.12578438,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42962.0,2018-10-03,13:00,28.72165279,77.09729443,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42975.0,2018-10-12,21:42,28.72628255,77.09279574,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+42978.0,2018-10-13,13:01,28.70330781,77.08912911,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+42990.0,2018-10-20,20:25,28.69510125,77.19242251,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43006.0,2018-10-30,13:00,28.70365792,77.2028137,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43012.0,2018-10-28,19:40,28.69994653,77.11281026,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43030.0,2018-11-08,06:50,28.72840784,77.17028916,Minor injury,2.0,3.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43034.0,2018-11-12,14:10,28.72173664,77.11337676,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43075.0,2018-11-27,16:48,28.67878701,77.14644805,Minor injury,2.0,1.0,Roundabout,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43076.0,2018-11-27,15:30,28.68559783,77.06333062,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43078.0,2018-11-28,13:24,28.70138163,77.07582171,Serious injury,1.0,1.0,Single carriageway,Snowing no high winds,Daylight,NCT of Delhi,North West
+43080.0,2018-11-30,15:20,28.68311877,77.17699171,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+43085.0,2018-12-01,16:40,28.67630113,77.11670424,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43096.0,2018-12-08,11:16,28.69886847,77.20215298,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43099.0,2018-12-10,21:15,28.68752516,77.07469631,Minor injury,1.0,1.0,Single carriageway,Other,Darkness - lights lit,NCT of Delhi,North West
+43108.0,2018-12-14,18:08,28.69272875,77.14991055,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43114.0,2018-12-15,08:30,28.6790877,77.13794229,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,NCT of Delhi,North West
+43120.0,2018-12-17,16:45,28.72664571,77.12711653,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43126.0,2018-12-18,20:40,28.69471045,77.11430407,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43133.0,2018-12-23,00:35,28.70904477,77.11858608,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43152.0,2018-01-07,17:10,28.6948602,77.14642562,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43155.0,2018-01-08,18:17,28.68964529,77.15548297,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43162.0,2018-01-12,16:30,28.71623062,77.15634204,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43163.0,2018-01-12,06:45,28.71450906,77.18054045,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43170.0,2018-01-13,02:05,28.70031338,77.11493388,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43193.0,2018-01-28,10:15,28.72616281,77.12423266,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+43194.0,2018-01-29,05:35,28.70124482,77.17093514,Serious injury,2.0,3.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43206.0,2018-02-02,16:28,28.68079652,77.16526288,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43207.0,2018-02-02,17:58,28.68494834,77.12905218,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43211.0,2018-01-23,21:30,28.71452499,77.21072661,Minor injury,2.0,1.0,Roundabout,Other,Darkness - lights lit,NCT of Delhi,North West
+43219.0,2018-02-05,13:25,28.69609073,77.06003586,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+43248.0,2018-02-21,17:45,28.70409356,77.16242727,Minor injury,3.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43258.0,2018-02-27,00:38,28.72335377,77.0663156,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43271.0,2018-03-02,19:30,28.68245122,77.17155939,Minor injury,1.0,1.0,Single carriageway,Other,Darkness - no lighting,NCT of Delhi,North West
+43282.0,2018-03-10,08:30,28.6988758,77.11933691,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43296.0,2018-03-15,20:45,28.70191436,77.19202057,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43307.0,2018-03-24,15:45,28.70064064,77.21124568,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43309.0,2018-03-26,10:20,28.6962848,77.08374568,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43320.0,2018-04-02,17:00,28.69046857,77.10325678,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43338.0,2018-04-08,18:15,28.72006881,77.1005391,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43346.0,2018-04-11,16:00,28.71073197,77.05797202,Minor injury,3.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43354.0,2018-04-15,23:30,28.68761229,77.1485965,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43358.0,2018-04-18,15:20,28.70663478,77.20230791,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43359.0,2018-04-19,15:15,28.69711802,77.119368,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43369.0,2018-04-22,08:45,28.6814523,77.17742511,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43381.0,2018-04-24,03:30,28.71798738,77.1083673,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43390.0,2018-04-29,14:45,28.70275022,77.18120365,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+43397.0,2018-05-01,16:45,28.69005993,77.15603578,Minor injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43414.0,2018-05-09,16:46,28.70671276,77.18768587,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43428.0,2018-05-13,17:45,28.69403505,77.19994332,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43440.0,2018-05-18,15:40,28.69270893,77.18474951,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43446.0,2018-05-17,14:15,28.72242331,77.16486149,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43452.0,2018-05-22,23:15,28.69767201,77.18786128,Serious injury,1.0,5.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43456.0,2018-05-19,22:30,28.70093615,77.1389037,Minor injury,2.0,1.0,Dual carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43459.0,2018-05-23,16:10,28.69423754,77.13027592,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43467.0,2018-05-27,15:45,28.69242903,77.06482829,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43468.0,2018-05-27,19:15,28.70179512,77.17281506,Minor injury,2.0,2.0,Single carriageway,Unknown,Daylight,NCT of Delhi,North West
+43476.0,2018-05-31,11:45,28.69914836,77.08360061,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43478.0,2018-05-29,22:30,28.72360505,77.17137434,Minor injury,2.0,7.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43500.0,2018-06-08,15:30,28.72213702,77.06614498,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43502.0,2018-06-09,12:05,28.69447224,77.14837804,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43512.0,2018-06-09,08:45,28.70150408,77.15706585,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43533.0,2018-06-16,19:20,28.6950637,77.11263508,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43536.0,2018-06-17,17:45,28.67757606,77.13076982,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43564.0,2018-06-22,15:10,28.70551754,77.10680086,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43574.0,2018-06-27,23:43,28.69177895,77.11654188,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43575.0,2018-06-28,16:30,28.70658932,77.19403878,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43590.0,2018-07-02,01:55,28.7037741,77.08556742,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,NCT of Delhi,North West
+43607.0,2018-07-06,18:20,28.71053205,77.07504708,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43636.0,2018-07-16,19:58,28.70621161,77.06336203,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43641.0,2018-07-21,22:14,28.71262972,77.07893242,Serious injury,1.0,2.0,Dual carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43656.0,2018-07-26,13:45,28.69311256,77.07980181,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Daylight,NCT of Delhi,North West
+43662.0,2018-07-27,13:10,28.67598452,77.16200971,Minor injury,2.0,3.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43666.0,2018-07-28,16:10,28.70200715,77.0913154,Minor injury,2.0,1.0,Single carriageway,Other,Daylight,NCT of Delhi,North West
+43669.0,2018-07-29,04:25,28.69469561,77.09094763,Minor injury,2.0,4.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+43671.0,2018-07-28,12:50,28.69255602,77.11366997,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West
+43672.0,2018-07-29,18:15,28.67592317,77.17544452,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43673.0,2018-07-29,13:55,28.70620072,77.19525301,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43674.0,2018-07-29,21:30,28.69441741,77.09611061,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43678.0,2018-08-05,12:25,28.72342373,77.13233189,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43688.0,2018-08-10,19:20,28.72779961,77.14560764,Minor injury,4.0,2.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43693.0,2018-08-10,08:45,28.71971069,77.1143134,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43701.0,2018-08-12,21:21,28.72583202,77.09355068,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43704.0,2018-08-10,08:50,28.69106392,77.06462206,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43717.0,2018-08-18,09:40,28.7032776,77.13281613,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43730.0,2018-08-24,16:45,28.70321059,77.10008521,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43739.0,2018-08-25,13:15,28.70067633,77.13071211,Minor injury,1.0,2.0,Dual carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43755.0,2018-09-04,14:55,28.72599589,77.17473277,Serious injury,2.0,3.0,Slip road,Fine no high winds,Daylight,NCT of Delhi,North West
+43766.0,2018-09-04,01:00,28.7211061,77.09181837,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43780.0,2018-09-11,00:25,28.72583522,77.06635163,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,NCT of Delhi,North West
+43783.0,2018-09-03,09:45,28.68627194,77.0828662,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,NCT of Delhi,North West
+43787.0,2018-09-13,21:15,28.72783658,77.09822104,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,NCT of Delhi,North West
+43791.0,2018-09-15,09:15,28.70974608,77.0606419,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,NCT of Delhi,North West

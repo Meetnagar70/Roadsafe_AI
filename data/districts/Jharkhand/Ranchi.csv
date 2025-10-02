@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59916.0,2018-06-21,17:00,23.49442273,85.25560927,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Jharkhand,Ranchi

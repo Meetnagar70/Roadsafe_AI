@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59065.0,2018-02-21,04:00,30.34456623,78.12715673,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttarakhand,Dehradun
+59525.0,2018-04-29,12:50,30.35858635,78.12528467,Minor injury,2.0,2.0,Single carriageway,Fine + high winds,Daylight,Uttarakhand,Dehradun
+59592.0,2018-05-08,00:17,30.33831183,77.86750936,Fatal,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Uttarakhand,Dehradun
+59693.0,2018-05-22,11:54,30.52776679,77.84542569,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Dehradun

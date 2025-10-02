@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58844.0,2018-01-22,04:20,21.77149069,80.63295534,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Balaghat
+59089.0,2018-02-23,21:52,21.88844609,80.30742071,Serious injury,2.0,3.0,Single carriageway,Snowing + high winds,Darkness - no lighting,Madhya Pradesh,Balaghat
+59127.0,2018-03-02,08:47,21.39918102,80.55964787,Serious injury,2.0,1.0,Single carriageway,Snowing no high winds,Daylight,Madhya Pradesh,Balaghat
+59365.0,2018-04-08,16:41,21.4636533,80.5359071,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Balaghat
+59909.0,2018-06-20,21:15,21.90364504,80.05750333,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Balaghat

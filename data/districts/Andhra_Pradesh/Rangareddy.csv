@@ -1,0 +1,9 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58865.0,2018-01-24,17:25,17.22776573,78.34053319,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Andhra Pradesh,Rangareddy
+58867.0,2018-01-25,20:43,17.61342699,78.659556,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Andhra Pradesh,Rangareddy
+59221.0,2018-03-18,22:30,17.16543557,77.47851344,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - no lighting,Andhra Pradesh,Rangareddy
+59517.0,2018-04-28,12:00,17.29292161,77.79388183,Serious injury,2.0,4.0,Single carriageway,Unknown,Daylight,Andhra Pradesh,Rangareddy
+59538.0,2018-04-30,10:30,16.92033782,77.75452786,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Andhra Pradesh,Rangareddy
+59724.0,2018-05-25,14:15,17.35209204,77.53814808,Fatal,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Rangareddy
+59885.0,2018-06-18,15:15,17.16184728,77.36975295,Serious injury,1.0,1.0,Roundabout,Fine no high winds,Daylight,Andhra Pradesh,Rangareddy
+59931.0,2018-06-22,17:50,17.11475055,78.78571388,Serious injury,2.0,5.0,Dual carriageway,Fine no high winds,Daylight,Andhra Pradesh,Rangareddy

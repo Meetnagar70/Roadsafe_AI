@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58576.0,2018-08-10,16:07,19.05419251,72.85973529,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Mumbai

@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58905.0,2018-01-31,11:26,24.89017281,81.53287424,Minor injury,3.0,1.0,Single carriageway,Raining + high winds,Daylight,Madhya Pradesh,Rewa
+58957.0,2018-02-06,15:00,24.94930958,81.46861531,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Rewa
+59882.0,2018-06-18,12:40,24.56654496,81.84123991,Minor injury,1.0,1.0,Slip road,Fine no high winds,Daylight,Madhya Pradesh,Rewa

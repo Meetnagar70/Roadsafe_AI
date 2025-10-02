@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59783.0,2018-06-02,15:40,20.95915886,73.67210573,Minor injury,1.0,1.0,Dual carriageway,Raining no high winds,Daylight,Gujarat,The Dangs

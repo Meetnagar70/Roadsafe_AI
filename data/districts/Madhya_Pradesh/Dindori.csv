@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58986.0,2018-02-09,11:50,23.21145115,80.51813271,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Dindori
+59053.0,2018-02-18,18:08,22.65615638,81.12083638,Minor injury,5.0,1.0,Single carriageway,Raining no high winds,Darkness - no lighting,Madhya Pradesh,Dindori

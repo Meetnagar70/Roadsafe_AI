@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58954.0,2018-02-06,11:20,23.65273113,75.41221043,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Ratlam

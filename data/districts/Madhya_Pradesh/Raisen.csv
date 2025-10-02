@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59705.0,2018-05-23,11:55,23.00238866,78.33146071,Minor injury,1.0,1.0,Single carriageway,Fine + high winds,Daylight,Madhya Pradesh,Raisen

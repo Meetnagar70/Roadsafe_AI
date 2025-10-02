@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59018.0,2018-02-13,15:13,30.12740797,74.09929036,Minor injury,2.0,2.0,Dual carriageway,Raining no high winds,Daylight,Punjab,Firozpur
+59311.0,2018-04-02,10:59,30.13160458,74.00605498,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Punjab,Firozpur
+59547.0,2018-05-01,19:50,30.97065864,74.89949047,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Punjab,Firozpur

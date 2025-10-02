@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59473.0,2018-04-22,15:44,25.8182641,85.40337627,Serious injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,Bihar,Vaishali

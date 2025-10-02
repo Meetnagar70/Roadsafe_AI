@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58947.0,2018-02-05,07:55,25.57241354,79.7493244,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Hamirpur

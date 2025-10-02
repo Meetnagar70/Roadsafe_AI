@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59176.0,2018-03-11,13:00,26.39863552,76.58898763,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Sawai Madhopur
+59495.0,2018-02-15,20:30,26.25440878,76.49491917,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lighting unknown,Rajasthan,Sawai Madhopur
+59560.0,2018-05-03,11:50,26.23953512,76.08024722,Minor injury,2.0,1.0,Slip road,Unknown,Daylight,Rajasthan,Sawai Madhopur

@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58897.0,2018-01-30,08:36,14.63896361,79.74740486,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Sri Potti Sriramulu Nellore
+58924.0,2018-02-02,12:20,14.59725545,79.64036358,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Sri Potti Sriramulu Nellore
+58983.0,2018-02-09,08:15,14.81056936,79.95335872,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Sri Potti Sriramulu Nellore
+59200.0,2018-03-14,17:40,14.95389445,79.9075563,Minor injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Sri Potti Sriramulu Nellore
+59663.0,2018-05-17,08:40,15.00537196,79.10295413,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Sri Potti Sriramulu Nellore

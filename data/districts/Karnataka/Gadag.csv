@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59052.0,2018-02-18,17:30,15.72678199,76.01106372,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Karnataka,Gadag
+59332.0,2018-04-04,16:02,15.49510201,75.70423783,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Gadag
+59405.0,2018-04-13,08:00,15.74378962,75.67654589,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Karnataka,Gadag

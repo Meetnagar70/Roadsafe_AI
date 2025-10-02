@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58966.0,2018-02-07,01:36,27.52497005,78.84146064,Minor injury,2.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Etah

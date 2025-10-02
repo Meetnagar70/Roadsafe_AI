@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58820.0,2018-01-18,23:10,21.28205877,77.10632767,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Maharashtra,Amravati

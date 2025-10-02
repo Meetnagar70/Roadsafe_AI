@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59241.0,2018-03-22,17:25,19.79819481,78.34459234,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Nanded
+59529.0,2018-04-29,17:20,18.72009204,77.26503845,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Nanded
+59607.0,2018-05-10,16:45,19.03429196,77.11192031,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Nanded
+59904.0,2018-06-19,12:30,18.48018509,77.40165462,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Nanded

@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59112.0,2018-02-27,16:15,29.3204263,74.00469044,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Hanumangarh
+59584.0,2018-05-06,21:10,29.25243688,74.70345406,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Rajasthan,Hanumangarh
+59618.0,2018-05-11,16:34,29.91819721,74.49026826,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Hanumangarh
+59860.0,2018-06-14,17:10,29.80562374,74.3098721,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Hanumangarh

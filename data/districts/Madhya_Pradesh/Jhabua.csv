@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59016.0,2018-02-13,04:38,22.99887921,74.40427078,Serious injury,1.0,1.0,Roundabout,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Jhabua
+59753.0,2018-05-29,19:01,22.88067152,74.71674046,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Jhabua

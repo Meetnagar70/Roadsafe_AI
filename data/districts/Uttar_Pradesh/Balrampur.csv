@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59159.0,2018-03-09,06:31,27.75258949,82.25632464,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Balrampur
+59299.0,2018-03-30,19:25,27.34739803,82.36998227,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Uttar Pradesh,Balrampur

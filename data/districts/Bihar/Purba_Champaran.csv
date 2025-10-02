@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59034.0,2018-02-15,15:00,26.90151709,84.87671717,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Bihar,Purba Champaran

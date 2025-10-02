@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59511.0,2018-05-27,12:50,25.32404492,86.14938952,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Bihar,Begusarai

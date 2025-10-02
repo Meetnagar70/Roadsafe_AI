@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59083.0,2018-02-23,16:10,22.44946623,71.75886598,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Gujarat,Surendranagar
+59388.0,2018-04-12,08:44,23.04188576,71.35972625,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Surendranagar
+59622.0,2018-05-12,08:12,23.2676517,71.78468085,Minor injury,2.0,1.0,One way street,Fine no high winds,Daylight,Gujarat,Surendranagar
+59817.0,2018-06-08,06:58,23.0776925,71.42681055,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Surendranagar
+59854.0,2018-06-13,14:16,22.56702582,72.02053779,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Surendranagar
+59927.0,2018-06-22,13:27,22.59617413,71.5566878,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Surendranagar

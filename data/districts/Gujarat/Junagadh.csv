@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58860.0,2018-01-24,21:35,21.05063486,71.01291392,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Junagadh
+59144.0,2018-03-06,15:45,21.0691614,70.26920373,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Gujarat,Junagadh
+59206.0,2018-03-15,12:01,21.48044477,70.62406324,Minor injury,1.0,2.0,Roundabout,Fine no high winds,Daylight,Gujarat,Junagadh
+59393.0,2018-04-12,15:55,21.44520346,70.28084342,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Gujarat,Junagadh
+59723.0,2018-04-07,09:10,21.36611823,70.46559088,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Gujarat,Junagadh

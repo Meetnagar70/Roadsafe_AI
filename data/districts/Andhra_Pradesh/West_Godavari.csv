@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59271.0,2018-03-25,22:39,17.22793506,81.40535931,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Andhra Pradesh,West Godavari
+59513.0,2018-04-27,16:30,16.89846602,81.32077142,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,West Godavari
+59730.0,2018-05-26,14:44,16.56428313,81.64934592,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Andhra Pradesh,West Godavari

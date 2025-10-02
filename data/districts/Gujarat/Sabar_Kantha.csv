@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59140.0,2018-03-06,09:10,23.14490302,73.2596355,Minor injury,1.0,1.0,Dual carriageway,Fine no high winds,Daylight,Gujarat,Sabar Kantha

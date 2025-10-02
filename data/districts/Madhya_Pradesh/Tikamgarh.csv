@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58951.0,2018-02-05,18:00,25.02990778,79.11955803,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Tikamgarh
+59118.0,2018-02-28,19:00,25.02555861,78.77133815,Minor injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - no lighting,Madhya Pradesh,Tikamgarh
+59736.0,2018-05-26,15:20,25.34298603,78.77911275,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Tikamgarh
+59857.0,2018-06-13,22:14,25.24485018,79.00925665,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Madhya Pradesh,Tikamgarh

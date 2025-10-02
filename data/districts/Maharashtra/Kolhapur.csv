@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58847.0,2018-01-22,17:27,16.72748373,74.32017912,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Maharashtra,Kolhapur
+59031.0,2018-02-15,11:46,16.22722429,74.17927532,Minor injury,2.0,4.0,Dual carriageway,Fine no high winds,Daylight,Maharashtra,Kolhapur
+59430.0,2018-04-16,20:04,16.25663183,74.34744825,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Kolhapur
+59942.0,2018-06-23,15:33,17.09146471,73.81054694,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Kolhapur

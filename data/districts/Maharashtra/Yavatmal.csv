@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58863.0,2018-01-25,11:30,19.72949294,77.5048097,Serious injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Maharashtra,Yavatmal
+59046.0,2018-02-17,21:23,19.76456531,77.70247695,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Yavatmal
+59822.0,2018-06-08,17:15,20.48972718,78.06664856,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Yavatmal
+59988.0,2018-06-28,17:05,20.50758434,78.00057356,Minor injury,1.0,1.0,Unknown,Fine no high winds,Daylight,Maharashtra,Yavatmal

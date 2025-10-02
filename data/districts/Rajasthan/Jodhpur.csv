@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59722.0,2018-05-25,12:18,26.14382914,73.32938221,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jodhpur
+59863.0,2018-06-15,17:55,26.53127262,73.60246334,Minor injury,2.0,1.0,Single carriageway,Raining no high winds,Daylight,Rajasthan,Jodhpur
+59930.0,2018-06-22,17:20,26.54022259,72.16998523,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Jodhpur

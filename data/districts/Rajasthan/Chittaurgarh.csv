@@ -1,0 +1,5 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59184.0,2018-03-13,08:15,24.76575417,74.18763837,Minor injury,3.0,1.0,Dual carriageway,Fine no high winds,Daylight,Rajasthan,Chittaurgarh
+59268.0,2018-03-25,15:20,24.55471088,74.32792714,Serious injury,1.0,1.0,Roundabout,Fine no high winds,Daylight,Rajasthan,Chittaurgarh
+59782.0,2018-06-02,12:35,24.85080328,75.71564473,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Rajasthan,Chittaurgarh
+59787.0,2018-06-03,11:40,25.04617382,74.63385349,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Chittaurgarh

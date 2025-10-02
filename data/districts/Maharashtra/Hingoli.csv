@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59246.0,2018-03-23,08:37,19.42387175,77.30021251,Serious injury,3.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Hingoli
+59774.0,2018-06-01,16:30,19.50726175,77.36274878,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Hingoli
+59866.0,2018-06-16,10:14,19.73963513,76.92232312,Minor injury,1.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Hingoli

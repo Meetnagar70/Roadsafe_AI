@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59084.0,2018-02-23,16:40,29.89401402,76.41191539,Minor injury,2.0,2.0,Dual carriageway,Snowing no high winds,Daylight,Haryana,Kaithal
+59487.0,2018-04-24,17:15,29.69868073,76.6470933,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Haryana,Kaithal

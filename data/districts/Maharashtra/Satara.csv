@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59041.0,2018-02-17,13:00,17.44053999,74.32105612,Minor injury,2.0,1.0,Dual carriageway,Fine no high winds,Daylight,Maharashtra,Satara
+59231.0,2018-03-20,20:56,17.51396288,74.54125897,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Darkness - lights lit,Maharashtra,Satara
+59315.0,2018-04-02,19:59,17.77777,74.45398704,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Darkness - lighting unknown,Maharashtra,Satara
+59377.0,2018-04-10,10:50,17.88424448,73.68093032,Minor injury,2.0,4.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Satara
+59574.0,2018-05-05,16:15,18.02768238,74.61277747,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Satara
+59642.0,2018-05-14,14:25,17.85316973,73.94634978,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Satara

@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59198.0,2018-03-14,15:55,21.10893746,83.52055081,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Bargarh
+59581.0,2018-05-06,18:15,21.55892151,83.39038182,Serious injury,1.0,1.0,Single carriageway,Fine + high winds,Daylight,Odisha,Bargarh
+59892.0,2018-06-18,20:50,21.69053563,83.67592468,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Bargarh

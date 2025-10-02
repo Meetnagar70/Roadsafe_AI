@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58832.0,2018-01-20,10:58,23.8289889,76.45392004,Fatal,3.0,2.0,Single carriageway,Raining no high winds,Daylight,Madhya Pradesh,Rajgarh

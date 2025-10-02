@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58878.0,2018-01-27,14:18,19.76093086,80.44318041,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Garhchiroli
+59205.0,2018-03-13,19:30,18.90257145,80.13199405,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - lights unlit,Maharashtra,Garhchiroli
+59500.0,2018-04-26,08:55,19.13533775,80.16097375,Serious injury,1.0,1.0,Single carriageway,Raining no high winds,Daylight,Maharashtra,Garhchiroli
+59519.0,2018-04-28,16:00,19.31052373,80.4227104,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Garhchiroli
+59629.0,2018-05-12,22:54,19.37431711,80.82646401,Serious injury,1.0,2.0,Single carriageway,Fine no high winds,Darkness - lights lit,Maharashtra,Garhchiroli
+59732.0,2018-05-26,15:00,20.19119107,80.06082614,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Maharashtra,Garhchiroli

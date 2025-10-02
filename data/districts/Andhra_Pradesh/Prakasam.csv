@@ -1,0 +1,7 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58900.0,2018-01-30,14:35,15.56713854,79.96086245,Serious injury,2.0,3.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Prakasam
+59343.0,2018-04-05,12:30,15.68505089,79.6355022,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Prakasam
+59354.0,2018-04-06,19:20,15.48881275,79.58400694,Minor injury,3.0,1.0,Single carriageway,Fine no high winds,Darkness - lights lit,Andhra Pradesh,Prakasam
+59445.0,2018-04-18,21:00,15.15376423,79.10518569,Minor injury,2.0,2.0,Single carriageway,Fine + high winds,Darkness - lights lit,Andhra Pradesh,Prakasam
+59481.0,2018-04-23,18:12,15.83872839,80.40597093,Serious injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Andhra Pradesh,Prakasam
+59898.0,2018-06-19,15:26,15.25002414,80.05331295,Minor injury,3.0,4.0,Single carriageway,Raining no high winds,Daylight,Andhra Pradesh,Prakasam

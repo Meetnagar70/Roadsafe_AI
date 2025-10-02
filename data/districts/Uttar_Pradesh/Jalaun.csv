@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59467.0,2018-04-22,12:45,26.16475522,79.29217138,Fatal,4.0,4.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Jalaun
+59778.0,2018-06-02,10:55,25.85157807,79.20884467,Serious injury,2.0,3.0,Single carriageway,Raining no high winds,Daylight,Uttar Pradesh,Jalaun

@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58933.0,2018-02-04,11:29,24.59609751,78.10410323,Minor injury,2.0,1.0,Single carriageway,Unknown,Daylight,Madhya Pradesh,Ashoknagar
+59058.0,2018-02-20,11:40,24.70013348,78.22085861,Minor injury,2.0,1.0,Dual carriageway,Snowing no high winds,Daylight,Madhya Pradesh,Ashoknagar
+59391.0,2018-04-12,13:40,24.49308387,77.79927425,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Ashoknagar

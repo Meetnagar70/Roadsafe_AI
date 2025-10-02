@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59174.0,2018-03-11,09:05,20.09163285,85.59534594,Minor injury,2.0,1.0,Single carriageway,Fine + high winds,Daylight,Odisha,Khordha

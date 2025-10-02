@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59488.0,2018-04-24,17:33,21.38549914,76.61630499,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Madhya Pradesh,Burhanpur
+59956.0,2018-06-24,22:45,21.39856629,76.43161128,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Madhya Pradesh,Burhanpur

@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59072.0,2018-02-21,16:40,18.92363375,82.73599239,Minor injury,2.0,1.0,Slip road,Snowing no high winds,Daylight,Odisha,Koraput
+59175.0,2018-03-11,09:39,19.0250299,82.54366265,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Odisha,Koraput

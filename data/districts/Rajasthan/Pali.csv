@@ -1,0 +1,6 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59045.0,2018-02-17,18:35,25.64000137,73.7478877,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,Rajasthan,Pali
+59165.0,2018-03-10,08:05,26.01847742,73.57287375,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Pali
+59224.0,2018-03-19,07:45,26.30162883,74.21534149,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Pali
+59444.0,2018-04-18,20:34,25.16606918,73.25826426,Serious injury,2.0,4.0,Single carriageway,Fine no high winds,Darkness - lights lit,Rajasthan,Pali
+59530.0,2018-04-29,17:30,25.98028989,73.84188414,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Rajasthan,Pali

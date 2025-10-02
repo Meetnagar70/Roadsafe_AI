@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59142.0,2018-03-06,12:46,19.78037951,81.92506465,Serious injury,4.0,3.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Bastar
+59327.0,2018-04-03,19:05,19.00705305,81.90739904,Minor injury,2.0,2.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Bastar
+59968.0,2018-06-26,12:05,19.40245059,81.62314509,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Bastar

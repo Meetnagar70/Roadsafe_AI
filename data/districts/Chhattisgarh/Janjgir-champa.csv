@@ -1,0 +1,3 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59141.0,2018-03-06,10:25,21.90041362,82.94192691,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Janjgir-champa
+59442.0,2018-04-18,15:01,21.92241946,82.46250589,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Chhattisgarh,Janjgir-champa

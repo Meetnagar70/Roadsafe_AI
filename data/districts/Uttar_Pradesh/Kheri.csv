@@ -1,0 +1,4 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58846.0,2018-01-22,12:53,28.09251562,80.77050746,Minor injury,1.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Kheri
+59404.0,2018-04-13,16:00,28.11942864,80.7910014,Minor injury,3.0,11.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Kheri
+59586.0,2018-05-07,14:00,27.85304911,81.23671033,Serious injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttar Pradesh,Kheri

@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58995.0,2018-02-10,16:23,29.15490038,80.14082639,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Uttarakhand,Champawat

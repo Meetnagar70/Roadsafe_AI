@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+58952.0,2018-02-05,19:45,25.56862905,88.25061065,Serious injury,1.0,1.0,Single carriageway,Fine no high winds,Darkness - no lighting,West Bengal,Uttar Dinajpur

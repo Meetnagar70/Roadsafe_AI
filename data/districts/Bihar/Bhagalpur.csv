@@ -1,0 +1,2 @@
+Accident_Index,Date,Time,latitude,longitude,Accident_Severity,Number_of_Vehicles,Number_of_Casualties,Road_Type,Weather_Conditions,Light_Conditions,State,District
+59970.0,2018-06-26,13:30,25.13507157,86.96009204,Minor injury,2.0,1.0,Single carriageway,Fine no high winds,Daylight,Bihar,Bhagalpur
